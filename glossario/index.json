@@ -8,6 +8,14 @@
     "publishedAt": "2026-06-02T11:42:57.301Z"
   },
   {
+    "id": "orata",
+    "name": "Orata",
+    "scientificName": "Sparus aurata (Linnaeus, 1758),,.",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/orata/chatgpt_2026-06-02T21-36-19.png",
+    "publishedAt": "2026-06-02T21:50:00.320Z"
+  },
+  {
     "id": "ricciola",
     "name": "Ricciola",
     "scientificName": "Seriola dumerili (Risso, 1810).",
