@@ -1,5 +1,13 @@
 [
   {
+    "id": "cefalo",
+    "name": "Cefalo",
+    "scientificName": "Mugil cephalus (Linnaeus, 1758)",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cefalo/chatgpt_2026-06-02T22-50-27.png",
+    "publishedAt": "2026-06-02T23:01:48.115Z"
+  },
+  {
     "id": "leccia",
     "name": "Leccia",
     "scientificName": "Lichia amia (Linnaeus, 1758).",
