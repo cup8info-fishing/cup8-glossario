@@ -30,5 +30,13 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ricciola/chatgpt_2026-06-02T18-15-01.png",
     "publishedAt": "2026-06-02T18:31:19.746Z"
+  },
+  {
+    "id": "salpa",
+    "name": "Salpa",
+    "scientificName": "Sarpa salpa (Linnaeus, 1758). In passato era classificata anche con sinonimi come Sparus salpa e Boops salpa.",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/salpa/chatgpt_2026-06-02T22-04-48.png",
+    "publishedAt": "2026-06-02T23:02:07.151Z"
   }
 ]
