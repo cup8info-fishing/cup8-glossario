@@ -4,7 +4,7 @@
     "name": "Cefalo",
     "scientificName": "Mugil cephalus (Linnaeus, 1758)",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cefalo/chatgpt_2026-06-02T22-53-56.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cefalo/chatgpt_2026-06-02T22-53-56.webppng",
     "publishedAt": "2026-06-05T10:13:53.963Z"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Corvina",
     "scientificName": "Sciaena umbra (Linnaeus, 1758)",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/corvina/chatgpt_2026-06-05T10-07-21.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/corvina/chatgpt_2026-06-05T10-07-21.webppng",
     "publishedAt": "2026-06-05T10:11:42.556Z"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Leccia",
     "scientificName": "Lichia amia (Linnaeus, 1758).",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_2026-05-26T13-22-21.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_2026-05-26T13-22-21.webppng",
     "publishedAt": "2026-06-05T10:12:28.950Z"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Orata",
     "scientificName": "Sparus aurata (Linnaeus, 1758),,.",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/orata/chatgpt_2026-06-03T15-19-54.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/orata/chatgpt_2026-06-03T15-19-54.webppng",
     "publishedAt": "2026-06-05T10:13:04.513Z"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Ricciola",
     "scientificName": "Seriola dumerili (Risso, 1810).",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ricciola/chatgpt_2026-06-02T18-28-41.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ricciola/chatgpt_2026-06-02T18-28-41.webppng",
     "publishedAt": "2026-06-05T10:13:27.049Z"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Salpa",
     "scientificName": "Sarpa salpa (Linnaeus, 1758). In passato era classificata anche con sinonimi come Sparus salpa e Boops salpa.",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/salpa/chatgpt_2026-06-02T22-34-37.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/salpa/chatgpt_2026-06-02T22-34-37.webppng",
     "publishedAt": "2026-06-05T08:07:34.775Z"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Scorfano rosso",
     "scientificName": "Scorpaena scrofa Linnaeus, 1758.",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/scorfano-rosso/chatgpt_2026-06-05T07-12-31.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/scorfano-rosso/chatgpt_2026-06-05T07-12-31.webppng",
     "publishedAt": "2026-06-05T10:14:25.629Z"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Spigola/Branzino",
     "scientificName": "Dicentrarchus labrax (Linnaeus, 1758).",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/spigola-branzino/chatgpt_2026-06-05T09-07-56.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/spigola-branzino/chatgpt_2026-06-05T09-07-56.webppng",
     "publishedAt": "2026-06-05T10:11:37.445Z"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Tonno rosso",
     "scientificName": "Thunnus thynnus (Linnaeus, 1758).",
     "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-rosso/chatgpt_2026-06-05T07-41-33.png",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-rosso/chatgpt_2026-06-05T07-41-33.webppng",
     "publishedAt": "2026-06-05T10:13:12.806Z"
   },
   {
@@ -77,6 +77,6 @@
     "scientificName": "Mullus barbatus (Linnaeus, 1758)",
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/triglia-di-fango/chatgpt_2026-06-03T08-27-20.png",
-    "publishedAt": "2026-06-05T10:14:03.566Z"
+    "publishedAt": "2026-06-05T10:25:23.872Z"
   }
 ]
