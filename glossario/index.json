@@ -40,6 +40,14 @@
     "publishedAt": "2026-06-02T23:02:07.151Z"
   },
   {
+    "id": "tonno-rosso",
+    "name": "Tonno rosso",
+    "scientificName": "Thunnus thynnus (Linnaeus, 1758).",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-rosso/chatgpt_2026-06-05T07-37-55.png",
+    "publishedAt": "2026-06-05T08:04:44.220Z"
+  },
+  {
     "id": "triglia-di-fango",
     "name": "Triglia di fango",
     "scientificName": "Mullus barbatus (Linnaeus, 1758)",
