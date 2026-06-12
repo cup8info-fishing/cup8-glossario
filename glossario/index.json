@@ -48,6 +48,14 @@
     "publishedAt": "2026-06-05T12:57:49.565Z"
   },
   {
+    "id": "sarago-maggiore",
+    "name": "Sarago maggiore",
+    "scientificName": "Diplodus sargus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-maggiore/chatgpt_2026-06-12T10-06-01.webp",
+    "publishedAt": "2026-06-12T12:34:16.154Z"
+  },
+  {
     "id": "scorfano-rosso",
     "name": "Scorfano rosso",
     "scientificName": "Scorpaena scrofa",
