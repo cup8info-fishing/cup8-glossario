@@ -56,6 +56,14 @@
     "publishedAt": "2026-06-05T12:57:43.097Z"
   },
   {
+    "id": "razza-miraglio",
+    "name": "Razza miraglio",
+    "scientificName": "Raja miraletus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/razza-miraglio/chatgpt_2026-06-14T21-11-00.webp",
+    "publishedAt": "2026-06-14T23:33:08.115Z"
+  },
+  {
     "id": "ricciola",
     "name": "Ricciola",
     "scientificName": "Seriola dumerili",
