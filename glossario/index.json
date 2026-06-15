@@ -48,6 +48,14 @@
     "publishedAt": "2026-06-15T14:34:51.968Z"
   },
   {
+    "id": "fragolino",
+    "name": "Fragolino",
+    "scientificName": "Pagellus erythrinus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_2026-06-15T14-38-04.webp",
+    "publishedAt": "2026-06-15T14:58:39.121Z"
+  },
+  {
     "id": "leccia",
     "name": "Leccia",
     "scientificName": "Lichia amia",
