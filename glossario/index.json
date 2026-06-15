@@ -40,6 +40,14 @@
     "publishedAt": "2026-06-05T12:59:41.836Z"
   },
   {
+    "id": "dentice",
+    "name": "Dentice",
+    "scientificName": "Dentex dentex",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/dentice/chatgpt_2026-06-15T14-26-57.webp",
+    "publishedAt": "2026-06-15T14:34:51.968Z"
+  },
+  {
     "id": "leccia",
     "name": "Leccia",
     "scientificName": "Lichia amia",
