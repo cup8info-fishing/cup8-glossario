@@ -80,6 +80,14 @@
     "publishedAt": "2026-06-05T12:57:43.097Z"
   },
   {
+    "id": "palamita",
+    "name": "Palamita",
+    "scientificName": "Sarda sarda",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita/chatgpt_2026-06-15T15-12-48.webp",
+    "publishedAt": "2026-06-15T15:42:44.350Z"
+  },
+  {
     "id": "razza-miraglio",
     "name": "Razza miraglio",
     "scientificName": "Raja miraletus",
