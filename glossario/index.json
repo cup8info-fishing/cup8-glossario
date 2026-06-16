@@ -88,6 +88,14 @@
     "publishedAt": "2026-06-15T15:42:44.350Z"
   },
   {
+    "id": "pesce-scorpione-lionfish",
+    "name": "Pesce scorpione lionfish",
+    "scientificName": "Pterois miles",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-scorpione-lionfish/chatgpt_2026-06-16T13-43-11.webp",
+    "publishedAt": "2026-06-16T14:15:14.003Z"
+  },
+  {
     "id": "razza-miraglio",
     "name": "Razza miraglio",
     "scientificName": "Raja miraletus",
