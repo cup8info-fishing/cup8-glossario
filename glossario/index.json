@@ -158,5 +158,13 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/triglia-di-fango/chatgpt_2026-06-03T08-27-20.webp",
     "publishedAt": "2026-06-05T12:58:05.632Z"
+  },
+  {
+    "id": "zerro",
+    "name": "Zerro",
+    "scientificName": "Spicara smaris",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/zerro/chatgpt_2026-06-16T10-05-03.webp",
+    "publishedAt": "2026-06-16T12:19:08.277Z"
   }
 ]
