@@ -8,6 +8,14 @@
     "publishedAt": "2026-06-14T23:57:01.326Z"
   },
   {
+    "id": "alaccia",
+    "name": "Alaccia",
+    "scientificName": "Sardinella aurita",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/alaccia/chatgpt_2026-06-16T15-23-24.webp",
+    "publishedAt": "2026-06-16T15:40:18.452Z"
+  },
+  {
     "id": "trisopterus-capelanus",
     "name": "Capellano",
     "scientificName": "Trisopterus capelanus",
