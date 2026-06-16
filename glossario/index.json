@@ -144,6 +144,14 @@
     "publishedAt": "2026-06-05T12:57:30.732Z"
   },
   {
+    "id": "tracina-ragno",
+    "name": "Tracina ragno",
+    "scientificName": "Trachinus araneus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tracina-ragno/chatgpt_2026-06-16T09-54-26.webp",
+    "publishedAt": "2026-06-16T09:59:49.843Z"
+  },
+  {
     "id": "triglia-di-fango",
     "name": "Triglia di fango",
     "scientificName": "Mullus barbatus",
