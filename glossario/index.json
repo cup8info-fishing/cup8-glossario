@@ -8,6 +8,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "lampuga",
+    "name": "Lampuga",
+    "scientificName": "Coryphaena hippurus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/lampuga/chatgpt_primo-piano-habitat_2026-07-01T00-09-18.webp",
+    "publishedAt": "2026-07-01T00:20:18.198Z"
+  },
+  {
     "id": "orata",
     "name": "Orata",
     "scientificName": "Sparus aurata",
