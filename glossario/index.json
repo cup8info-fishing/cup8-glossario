@@ -22,5 +22,13 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/orata/chatgpt_primo-piano-habitat_2026-06-18T16-32-50.webp",
     "publishedAt": "2026-06-18T22:17:02.761Z"
+  },
+  {
+    "id": "persico-reale",
+    "name": "Persico reale",
+    "scientificName": "Perca fluviatilis",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-reale/chatgpt_primo-piano-habitat_2026-07-01T09-16-09.webp",
+    "publishedAt": "2026-07-01T12:41:24.528Z"
   }
 ]
