@@ -30,5 +30,13 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-reale/chatgpt_primo-piano-habitat_2026-07-01T09-16-09.webp",
     "publishedAt": "2026-07-01T12:41:24.528Z"
+  },
+  {
+    "id": "pesce-serra",
+    "name": "Pesce serra",
+    "scientificName": "Pomatomus saltatrix",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-serra/chatgpt_primo-piano-habitat_2026-07-02T09-45-12.webp",
+    "publishedAt": "2026-07-02T09:58:03.768Z"
   }
 ]
