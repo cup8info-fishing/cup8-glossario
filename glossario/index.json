@@ -38,5 +38,13 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-serra/chatgpt_primo-piano-habitat_2026-07-02T09-45-12.webp",
     "publishedAt": "2026-07-02T09:58:03.768Z"
+  },
+  {
+    "id": "tonno-rosso",
+    "name": "Tonno rosso",
+    "scientificName": "Thunnus thynnus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-rosso/chatgpt_primo-piano-habitat_2026-07-02T11-05-27.webp",
+    "publishedAt": "2026-07-02T15:20:59.487Z"
   }
 ]
