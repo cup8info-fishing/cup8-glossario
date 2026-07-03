@@ -56,6 +56,14 @@
     "publishedAt": "2026-07-02T09:58:03.768Z"
   },
   {
+    "id": "rana-pescatrice",
+    "name": "Rana pescatrice",
+    "scientificName": "Lophius piscatorius",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/rana-pescatrice/chatgpt_primo-piano-habitat_2026-07-03T14-21-36.webp",
+    "publishedAt": "2026-07-03T15:34:25.173Z"
+  },
+  {
     "id": "tonno-rosso",
     "name": "Tonno rosso",
     "scientificName": "Thunnus thynnus",
