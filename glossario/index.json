@@ -1,5 +1,13 @@
 [
   {
+    "id": "bonito",
+    "name": "Alletterato",
+    "scientificName": "Euthynnus alletteratus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/bonito/chatgpt_primo-piano-habitat_2026-07-03T16-31-42.webp",
+    "publishedAt": "2026-07-03T18:13:58.845Z"
+  },
+  {
     "id": "anguilla",
     "name": "Anguilla",
     "scientificName": "Anguilla anguilla",
