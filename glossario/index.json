@@ -24,6 +24,14 @@
     "publishedAt": "2026-07-01T00:20:18.198Z"
   },
   {
+    "id": "occhiata",
+    "name": "Occhiata",
+    "scientificName": "Oblada melanura",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/occhiata/chatgpt_primo-piano-habitat_2026-07-03T12-46-48.webp",
+    "publishedAt": "2026-07-03T13:59:01.724Z"
+  },
+  {
     "id": "orata",
     "name": "Orata",
     "scientificName": "Sparus aurata",
