@@ -8,6 +8,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "cefalo",
+    "name": "Cefalo",
+    "scientificName": "Mugil cephalus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cefalo/chatgpt_primo-piano-habitat_2026-07-03T10-01-51.webp",
+    "publishedAt": "2026-07-03T12:24:27.119Z"
+  },
+  {
     "id": "lampuga",
     "name": "Lampuga",
     "scientificName": "Coryphaena hippurus",
