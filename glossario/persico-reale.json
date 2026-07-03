@@ -34,5 +34,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-reale/chatgpt_azione_2026-07-01T09-44-53.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-01T12:41:24.528Z"
+  "publishedAt": "2026-07-01T12:41:24.528Z",
+  "badges": {
+    "protected": false,
+    "alien": "Alloctona",
+    "venomous": false
+  }
 }

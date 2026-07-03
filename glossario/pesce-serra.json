@@ -40,5 +40,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-serra/chatgpt_habitat-largo_2026-07-02T09-57-54.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-02T09:58:03.768Z"
+  "publishedAt": "2026-07-02T09:58:03.768Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }

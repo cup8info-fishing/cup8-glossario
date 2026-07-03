@@ -41,5 +41,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-rosso/chatgpt_azione_2026-07-02T15-20-54.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-02T15:20:59.487Z"
+  "publishedAt": "2026-07-02T15:20:59.487Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }

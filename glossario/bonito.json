@@ -41,5 +41,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/bonito/chatgpt_habitat-largo_2026-07-03T16-50-11.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-03T18:13:58.845Z"
+  "publishedAt": "2026-07-03T18:13:58.845Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }

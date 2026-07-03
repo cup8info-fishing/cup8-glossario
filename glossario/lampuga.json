@@ -40,5 +40,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/lampuga/chatgpt_azione_2026-07-01T00-20-14.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-01T00:20:18.198Z"
+  "publishedAt": "2026-07-01T00:20:18.198Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }

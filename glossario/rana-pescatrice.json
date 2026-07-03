@@ -42,5 +42,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/rana-pescatrice/chatgpt_habitat-largo_2026-07-03T15-10-13.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-03T15:34:25.173Z"
+  "publishedAt": "2026-07-03T15:34:25.173Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }

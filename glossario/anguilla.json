@@ -41,5 +41,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/anguilla/chatgpt_sociale_2026-06-28T22-58-26.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-06-28T23:01:05.991Z"
+  "publishedAt": "2026-06-28T23:01:05.991Z",
+  "badges": {
+    "protected": true,
+    "alien": null,
+    "venomous": false
+  }
 }

@@ -41,5 +41,10 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/cefalo/chatgpt_dettaglio-hd_2026-07-03T12-16-34.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-03T12:24:27.119Z"
+  "publishedAt": "2026-07-03T12:24:27.119Z",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  }
 }
