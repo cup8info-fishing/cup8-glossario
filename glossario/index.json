@@ -24,6 +24,14 @@
     "publishedAt": "2026-07-03T12:24:27.119Z"
   },
   {
+    "id": "granchio-blu",
+    "name": "Granchio blu",
+    "scientificName": "Callinectes sapidus",
+    "category": "invertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/granchio-blu/chatgpt_primo-piano-habitat_2026-07-05T20-54-39.webp",
+    "publishedAt": "2026-07-05T21:25:06.750Z"
+  },
+  {
     "id": "lampuga",
     "name": "Lampuga",
     "scientificName": "Coryphaena hippurus",
