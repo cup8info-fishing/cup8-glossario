@@ -56,6 +56,14 @@
     "publishedAt": "2026-07-01T00:20:18.198Z"
   },
   {
+    "id": "lucioperca",
+    "name": "Lucioperca",
+    "scientificName": "Sander lucioperca",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/lucioperca/chatgpt_primo-piano-habitat_2026-07-06T13-02-23.webp",
+    "publishedAt": "2026-07-06T15:04:51.870Z"
+  },
+  {
     "id": "occhiata",
     "name": "Occhiata",
     "scientificName": "Oblada melanurus",
