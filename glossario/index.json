@@ -1,5 +1,13 @@
 [
   {
+    "id": "acciuga",
+    "name": "Acciuga",
+    "scientificName": "Engraulis encrasicolus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/acciuga/chatgpt_primo-piano-habitat_2026-07-06T12-53-10.webp",
+    "publishedAt": "2026-07-06T12:53:21.476Z"
+  },
+  {
     "id": "bonito",
     "name": "Alletterato",
     "scientificName": "Euthynnus alletteratus",
