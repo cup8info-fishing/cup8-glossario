@@ -45,5 +45,11 @@
     "protected": false,
     "alien": null,
     "venomous": false
+  },
+  "classification": {
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; oceanodromous ; depth range 0 - 85 m , usuall",
+    "at": "2026-07-06T17:05:19.537Z"
   }
 }

@@ -41,5 +41,11 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/lucioperca/chatgpt_dettaglio-hd_2026-07-06T13-38-38.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-06T15:04:51.870Z"
+  "publishedAt": "2026-07-06T15:04:51.870Z",
+  "classification": {
+    "habitat": "acquadolce",
+    "source": "FishBase",
+    "evidence": "Freshwater; brackish; pelagic; potamodromous ; depth range 2 - 30 m , usually 2 ",
+    "at": "2026-07-06T17:05:19.537Z"
+  }
 }

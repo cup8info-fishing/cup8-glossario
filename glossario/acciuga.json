@@ -46,5 +46,11 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/acciuga/chatgpt_habitat-largo_2026-07-06T12-43-43.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-06T12:53:21.476Z"
+  "publishedAt": "2026-07-06T12:53:21.476Z",
+  "classification": {
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; oceanodromous ; depth range 0 - 400 m . Subtr",
+    "at": "2026-07-06T17:05:19.537Z"
+  }
 }

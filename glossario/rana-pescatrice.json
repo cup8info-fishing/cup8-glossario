@@ -47,5 +47,11 @@
     "protected": false,
     "alien": null,
     "venomous": false
+  },
+  "classification": {
+    "habitat": "profondi",
+    "source": "FishBase",
+    "evidence": "Marine; bathydemersal; depth range 20 - 1000 m . Deep-water; 75 N - 30 N, 28 W -",
+    "at": "2026-07-06T17:05:19.537Z"
   }
 }

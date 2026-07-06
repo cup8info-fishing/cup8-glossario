@@ -39,5 +39,11 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/carassio-dorato/chatgpt_habitat-largo_2026-07-06T09-57-54.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-06T10:38:28.777Z"
+  "publishedAt": "2026-07-06T10:38:28.777Z",
+  "classification": {
+    "habitat": "acquadolce",
+    "source": "FishBase",
+    "evidence": "Freshwater; brackish; benthopelagic; pH range: 6.0 - 8.0; dH range: 5 - 19; pota",
+    "at": "2026-07-06T17:05:19.537Z"
+  }
 }

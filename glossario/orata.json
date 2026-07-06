@@ -47,5 +47,11 @@
     "protected": false,
     "alien": null,
     "venomous": false
+  },
+  "classification": {
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; demersal; depth range 1 - 150 m , usually 1 - 30 m . Subtropic",
+    "at": "2026-07-06T17:05:19.537Z"
   }
 }

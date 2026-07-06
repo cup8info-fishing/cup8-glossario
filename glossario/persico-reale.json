@@ -39,5 +39,11 @@
     "protected": false,
     "alien": "Alloctona",
     "venomous": false
+  },
+  "classification": {
+    "habitat": "acquadolce",
+    "source": "FishBase",
+    "evidence": "Freshwater; brackish; demersal; pH range: 7.0 - 7.5; dH range: 8 - 12; anadromou",
+    "at": "2026-07-06T17:05:19.537Z"
   }
 }

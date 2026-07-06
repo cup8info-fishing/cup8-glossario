@@ -45,5 +45,11 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-luna/chatgpt_azione_2026-07-05T14-23-59.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-05T14:37:39.633Z"
+  "publishedAt": "2026-07-05T14:37:39.633Z",
+  "classification": {
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; pelagic-oceanic; oceanodromous ; depth range 30 - 1515 m , usually 30 - ",
+    "at": "2026-07-06T17:05:19.537Z"
+  }
 }
