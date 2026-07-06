@@ -4,8 +4,8 @@
   "scientificName": "Callinectes sapidus",
   "family": "Portunidae (Classe: Malacostraca, Phylum: Arthropoda).",
   "category": "invertebrato",
-  "description": "Originario delle coste atlantiche americane, il granchio blu è un temibile invasore alieno riconoscibile dal carapace ellittico con grandi spine laterali e dalle robuste chele azzurre, che nelle femmine assumono punte di colore rosso-arancio. La totale assenza di predatori naturali nei nostri mari ha permesso una proliferazione incontrollata che minaccia la biodiversità mediterranea e causa danni gravissimi al comparto ittico (specialmente distruggendo reti e sterminando le vongole nel Delta del Po). Tuttavia, le sue carni bianche, proteiche, dolci e povere di grassi ne fanno una prelibatezza gastronomica in forte ascesa per i mercati esteri e la ristorazione italiana, trasformando gradualmente un'emergenza ecologica in un'opportunità commerciale. - **Tecniche di pesca/raccolta consigliate:** - Nasse (mono o multi-camere) e trappole a lacci o gabbiette innescate con esche fortemente odorose come pesce azzurro, sarda, interiora o pollo. - Reti da posta specifiche per l'intrappolamento dei granchi. - Raccolta a mano o pesca fai-da-te in zone calme (ottimali le ore serali o notturne) utilizzando robusti guadini, secchi, pinze e guanti molto spessi per proteggersi dai morsi delle possenti chele. - Reti a caduta mediante l'utilizzo di bilancioni costieri. - Draghe bentoniche (come il tradizionale \"ostreghero\") abitualmente usate dai professionisti per rastrellare i fondali sabbiosi o fangosi.",
-  "habits": "",
+  "description": "Originario delle coste atlantiche americane, il granchio blu è un temibile invasore alieno riconoscibile dal carapace ellittico con grandi spine laterali e dalle robuste chele azzurre, che nelle femmine assumono punte di colore rosso-arancio. La totale assenza di predatori naturali nei nostri mari ha permesso una proliferazione incontrollata che minaccia la biodiversità mediterranea e causa danni gravissimi al comparto ittico (specialmente distruggendo reti e sterminando le vongole nel Delta del Po). Tuttavia, le sue carni bianche, proteiche, dolci e povere di grassi ne fanno una prelibatezza gastronomica in forte ascesa per i mercati esteri e la ristorazione italiana, trasformando gradualmente un'emergenza ecologica in un'opportunità commerciale.",
+  "habits": "- Nasse (mono o multi-camere) e trappole a lacci o gabbiette innescate con esche fortemente odorose come pesce azzurro, sarda, interiora o pollo. - Reti da posta specifiche per l'intrappolamento dei granchi. - Raccolta a mano o pesca fai-da-te in zone calme (ottimali le ore serali o notturne) utilizzando robusti guadini, secchi, pinze e guanti molto spessi per proteggersi dai morsi delle possenti chele. - Reti a caduta mediante l'utilizzo di bilancioni costieri. - Draghe bentoniche (come il tradizionale \"ostreghero\") abitualmente usate dai professionisti per rastrellare i fondali sabbiosi o fangosi.",
   "habitat": "Specie eurialina ed euriterma, predilige i fondali sabbiosi e fangosi situati all'interno di lagune, estuari, foci fluviali e baie costiere. Vive a profondità tipiche comprese tra 0 e 90 metri (normalmente non superando i 35 metri) e tollera escursioni termiche estreme (3-35 °C) nonché salinità dal 2‰ fino ad ambienti ipersalini al 117‰.",
   "diet": "Predatore onnivoro, spazzino e opportunista estremamente vorace. Si ciba principalmente di molluschi bivalvi (vongole, cozze, ostriche, telline) di cui frantuma i gusci, gasteropodi, crostacei decapodi e anfipodi (praticando intensamente il cannibalismo intraspecifico), piccoli pesci, vermi anellidi, meduse, insetti, alghe e materiale organico in decomposizione.",
   "size": {
@@ -18,7 +18,7 @@
     "max": 1
   },
   "pesoText": "Gli esemplari adulti più grandi possono raggiungere e superare 1 kg di peso.",
-  "maxAge": "L'aspettativa di vita si aggira mediamente sui 3 o 4 anni, arrivando spesso a 5 anni e toccando eccezionalmente gli 8 anni di età in ambienti non sottoposti a pressione di pesca. - **Requisiti di pesca/raccolta:** Essendo una specie aliena e invasiva, in Italia non gode di alcuna protezione: non vi sono taglie minime legali né periodi di fermo biologico. La sua cattura è fortemente incentivata dalle istituzioni nazionali tramite specifiche autorizzazioni per la raccolta emergenziale; la pesca amatoriale, sportiva o a mano è consentita senza permessi speciali, nel semplice rispetto delle quantità e regole previste dalle singole normative locali.",
+  "maxAge": "L'aspettativa di vita si aggira mediamente sui 3 o 4 anni, arrivando spesso a 5 anni e toccando eccezionalmente gli 8 anni di età in ambienti non sottoposti a pressione di pesca.",
   "locations": [
     "Tirreno",
     "Adriatico",
@@ -30,7 +30,7 @@
   ],
   "regioniText": "Ampiamente diffuso nel Mar Mediterraneo; in Italia ha colonizzato in modo capillare l'Alto, il centrale e il Sud Adriatico, il Mar Ionio, il Mar Ligure, il Mar Tirreno e le coste di Sardegna e Sicilia.",
   "iucnStatus": "NE (Specie non valutata) - La specie non è inclusa nella Lista Rossa IUCN e non risulta in alcun modo vulnerabile, essendo dotata di un potenziale riproduttivo altissimo e tassi di accrescimento rapidi.",
-  "fishingRequirements": "",
+  "fishingRequirements": "Essendo una specie aliena e invasiva, in Italia non gode di alcuna protezione: non vi sono taglie minime legali né periodi di fermo biologico. La sua cattura è fortemente incentivata dalle istituzioni nazionali tramite specifiche autorizzazioni per la raccolta emergenziale; la pesca amatoriale, sportiva o a mano è consentita senza permessi speciali, nel semplice rispetto delle quantità e regole previste dalle singole normative locali.",
   "badges": {
     "protected": false,
     "alien": "Lessepsiana",
@@ -47,5 +47,5 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/granchio-blu/chatgpt_habitat-largo_2026-07-05T20-59-27.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-05T21:25:06.750Z"
+  "publishedAt": "2026-07-06T08:02:02.178Z"
 }
