@@ -80,6 +80,14 @@
     "publishedAt": "2026-07-07T00:03:52.597Z"
   },
   {
+    "id": "ombrina-bocca-nera",
+    "name": "Ombrina",
+    "scientificName": "Umbrina cirrosa",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ombrina-bocca-nera/chatgpt_primo-piano-habitat_2026-07-07T08-57-41.webp",
+    "publishedAt": "2026-07-07T10:05:12.716Z"
+  },
+  {
     "id": "orata",
     "name": "Orata",
     "scientificName": "Sparus aurata",
