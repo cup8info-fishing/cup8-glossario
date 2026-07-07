@@ -72,6 +72,14 @@
     "publishedAt": "2026-07-06T08:02:01.353Z"
   },
   {
+    "id": "pagellus-bogaraveo",
+    "name": "Occhione",
+    "scientificName": "Pagellus bogaraveo",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagellus-bogaraveo/chatgpt_primo-piano-habitat_2026-07-06T22-26-37.webp",
+    "publishedAt": "2026-07-07T00:03:52.597Z"
+  },
+  {
     "id": "orata",
     "name": "Orata",
     "scientificName": "Sparus aurata",
