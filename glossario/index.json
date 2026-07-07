@@ -136,6 +136,14 @@
     "publishedAt": "2026-07-03T15:34:25.173Z"
   },
   {
+    "id": "sgombro",
+    "name": "Sgombro",
+    "scientificName": "Scomber scombrus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sgombro/chatgpt_primo-piano-habitat_2026-07-07T14-43-05.webp",
+    "publishedAt": "2026-07-07T18:57:33.338Z"
+  },
+  {
     "id": "tonno-rosso",
     "name": "Tonno rosso",
     "scientificName": "Thunnus thynnus",
