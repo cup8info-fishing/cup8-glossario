@@ -152,6 +152,14 @@
     "publishedAt": "2026-07-07T18:57:33.338Z"
   },
   {
+    "id": "storione-comune",
+    "name": "Storione comune",
+    "scientificName": "Acipenser sturio",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/storione-comune/chatgpt_primo-piano-habitat_2026-07-08T10-40-04.webp",
+    "publishedAt": "2026-07-08T10:59:44.767Z"
+  },
+  {
     "id": "tonno-rosso",
     "name": "Tonno rosso",
     "scientificName": "Thunnus thynnus",
