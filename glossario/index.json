@@ -128,6 +128,14 @@
     "publishedAt": "2026-07-02T09:58:03.768Z"
   },
   {
+    "id": "pesce-spada",
+    "name": "Pesce spada",
+    "scientificName": "Xiphias gladius",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-spada/chatgpt_primo-piano-habitat_2026-07-07T19-58-23.webp",
+    "publishedAt": "2026-07-08T06:17:05.581Z"
+  },
+  {
     "id": "rana-pescatrice",
     "name": "Rana pescatrice",
     "scientificName": "Lophius piscatorius",
