@@ -144,6 +144,14 @@
     "publishedAt": "2026-07-03T15:34:25.173Z"
   },
   {
+    "id": "ricciola",
+    "name": "Ricciola",
+    "scientificName": "Seriola dumerili",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ricciola/chatgpt_primo-piano-habitat_2026-07-09T09-49-43.webp",
+    "publishedAt": "2026-07-09T09:53:57.883Z"
+  },
+  {
     "id": "salpa",
     "name": "Salpa",
     "scientificName": "Sarpa salpa",
