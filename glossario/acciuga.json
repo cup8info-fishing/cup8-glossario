@@ -31,7 +31,7 @@
   "iucnStatus": "LC (Least Concern / Rischio minimo). Lo stato della specie a livello globale non desta preoccupazioni di estinzione, sebbene alcune popolazioni specifiche (es. nel Mar Adriatico) possano presentare variazioni marcate a causa di stress ambientali e sovrapesca.",
   "fishingRequirements": "Per l'Unione Europea, e di conseguenza in Italia, la misura minima legale per il prelievo nel Mediterraneo è fissata a 9 cm. Sebbene non esista un divieto generale assoluto lungo l'anno per tutto il territorio, le normative di tutela e i disciplinari regionali (come la IGP Mar Ligure) limitano le catture ideali al periodo che va dal 1° aprile al 15 ottobre, mentre pesche sostenibili e artigianali, come quella della \"Menaica\", operano solitamente tra marzo/aprile e agosto.",
   "badges": {
-    "protected": true,
+    "protected": false,
     "alien": null,
     "venomous": false
   },
