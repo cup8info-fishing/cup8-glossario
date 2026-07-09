@@ -30,7 +30,7 @@
   "iucnStatus": "**VU** (Vulnerabile) a livello globale, primariamente a causa della sovrapesca. Tuttavia, a livello locale, la Lista Rossa del Mediterraneo lo valuta come **LC** (Rischio Minimo) date le popolazioni abbondanti, mentre la Lista Rossa Europea lo segnala come **NT** (Prossimo alla minaccia).",
   "fishingRequirements": "Non essendoci misure specifiche comunitarie per questa specie, in Italia vige la taglia minima generica di 7 cm, sebbene in ambito sportivo FIPSAS il limite etico consigliato o richiesto per gara sia spesso di 30 cm. È vietata la vendita del pescato sportivo, e la legge fissa un tetto massimo di prelievo giornaliero per pescatore a 5 kg totali, salvo la cattura di un singolo pesce di stazza superiore.",
   "badges": {
-    "protected": true,
+    "protected": false,
     "alien": null,
     "venomous": false
   },
