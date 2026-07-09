@@ -30,7 +30,7 @@
   "iucnStatus": "VU (Vulnerabile) - La popolazione globale è considerata in diminuzione, minacciata prevalentemente dall'inquinamento (ingestione di detriti plastici scambiati per meduse) e dall'alto tasso di catture accidentali (bycatch).",
   "fishingRequirements": "Nell'Unione Europea la commercializzazione dei pesci della famiglia Molidae è severamente vietata per il rischio di intossicazione da tetrodotossina (Regolamento CE 853/2004). Trattandosi di una specie non commercializzabile e non soggetta a pesca sportiva mirata, non sussistono in Italia misure minime legali per la trattenuta né periodi di fermo biologico dedicati, vigendo l'obbligo di rilascio o smaltimento.",
   "badges": {
-    "protected": false,
+    "protected": true,
     "alien": null,
     "venomous": false
   },
@@ -45,11 +45,5 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-luna/chatgpt_azione_2026-07-05T14-23-59.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-05T14:37:39.633Z",
-  "classification": {
-    "habitat": "pelagici",
-    "source": "FishBase",
-    "evidence": "Marine; pelagic-oceanic; oceanodromous ; depth range 30 - 1515 m , usually 30 - ",
-    "at": "2026-07-06T17:05:19.537Z"
-  }
+  "publishedAt": "2026-07-09T10:54:04.431Z"
 }
