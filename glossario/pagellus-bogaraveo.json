@@ -49,12 +49,12 @@
   "publishedAt": "2026-07-07T00:03:52.597Z",
   "classification": {
     "zones": [
-      "pelagici",
-      "costa"
+      "costa",
+      "profondi"
     ],
-    "habitat": "pelagici",
+    "habitat": "costa",
     "source": "FishBase",
     "evidence": "Marine; benthopelagic; depth 150-700 m",
-    "at": "2026-07-09T14:39:46.031Z"
+    "at": "2026-07-09T14:56:38.823Z"
   }
 }

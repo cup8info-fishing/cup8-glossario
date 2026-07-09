@@ -50,12 +50,11 @@
   "publishedAt": "2026-07-06T08:02:01.353Z",
   "classification": {
     "zones": [
-      "pelagici",
       "costa"
     ],
-    "habitat": "pelagici",
+    "habitat": "costa",
     "source": "FishBase",
     "evidence": "Marine; benthopelagic",
-    "at": "2026-07-09T14:39:43.415Z"
+    "at": "2026-07-09T14:56:36.064Z"
   }
 }
