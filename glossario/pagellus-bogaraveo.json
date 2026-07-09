@@ -46,5 +46,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagellus-bogaraveo/chatgpt_dettaglio-hd_2026-07-06T22-57-13.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-07T00:03:52.597Z"
+  "publishedAt": "2026-07-07T00:03:52.597Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; benthopelagic; depth 150-700 m",
+    "at": "2026-07-09T14:39:46.031Z"
+  }
 }

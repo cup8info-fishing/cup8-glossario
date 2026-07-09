@@ -47,5 +47,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/granchio-blu/chatgpt_habitat-largo_2026-07-05T20-59-27.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-09T10:53:47.684Z"
+  "publishedAt": "2026-07-09T10:53:47.684Z",
+  "classification": {
+    "zones": [
+      "acquadolce",
+      "costa"
+    ],
+    "habitat": "acquadolce",
+    "source": "WoRMS",
+    "evidence": "WoRMS: marine; brackish; freshwater",
+    "at": "2026-07-09T14:39:40.760Z"
+  }
 }

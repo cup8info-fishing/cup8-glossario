@@ -47,5 +47,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita/chatgpt_dettaglio-hd_2026-07-07T12-40-21.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-07T13:54:08.168Z"
+  "publishedAt": "2026-07-07T13:54:08.168Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; depth 80-200 m",
+    "at": "2026-07-09T14:39:47.058Z"
+  }
 }

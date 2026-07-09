@@ -41,9 +41,12 @@
     "venomous": false
   },
   "classification": {
+    "zones": [
+      "acquadolce"
+    ],
     "habitat": "acquadolce",
     "source": "FishBase",
-    "evidence": "Freshwater; brackish; demersal; pH range: 7.0 - 7.5; dH range: 8 - 12; anadromou",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Freshwater; brackish; demersal; depth 1-30 m",
+    "at": "2026-07-09T14:39:48.095Z"
   }
 }

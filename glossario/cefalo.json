@@ -48,9 +48,14 @@
     "venomous": false
   },
   "classification": {
-    "habitat": "costa",
+    "zones": [
+      "acquadolce",
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "acquadolce",
     "source": "FishBase",
-    "evidence": "Marine; freshwater; brackish; benthopelagic; catadromous ; depth range 0 - 120 m",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; freshwater; brackish; benthopelagic; depth 0-120 m",
+    "at": "2026-07-09T14:39:39.714Z"
   }
 }

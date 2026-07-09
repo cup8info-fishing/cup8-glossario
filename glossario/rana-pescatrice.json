@@ -49,9 +49,13 @@
     "venomous": false
   },
   "classification": {
-    "habitat": "profondi",
+    "zones": [
+      "costa",
+      "profondi"
+    ],
+    "habitat": "costa",
     "source": "FishBase",
-    "evidence": "Marine; bathydemersal; depth range 20 - 1000 m . Deep-water; 75 N - 30 N, 28 W -",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; bathydemersal; depth 20-1000 m",
+    "at": "2026-07-09T14:39:51.549Z"
   }
 }

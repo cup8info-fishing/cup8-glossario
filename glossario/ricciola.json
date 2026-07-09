@@ -46,5 +46,14 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/ricciola/chatgpt_azione_2026-07-09T09-53-45.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-09T09:53:57.883Z"
+  "publishedAt": "2026-07-09T09:53:57.883Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; reef-associated; depth 1-385 m",
+    "at": "2026-07-09T14:39:52.402Z"
+  }
 }

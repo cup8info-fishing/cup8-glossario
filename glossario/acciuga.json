@@ -48,9 +48,13 @@
   "source": "atlas",
   "publishedAt": "2026-07-06T12:53:21.476Z",
   "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
     "habitat": "pelagici",
     "source": "FishBase",
-    "evidence": "Marine; brackish; pelagic-neritic; oceanodromous ; depth range 0 - 400 m . Subtr",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; brackish; pelagic-neritic; depth 0-400 m",
+    "at": "2026-07-09T14:39:36.267Z"
   }
 }

@@ -48,9 +48,13 @@
     "venomous": false
   },
   "classification": {
+    "zones": [
+      "acquadolce",
+      "costa"
+    ],
     "habitat": "acquadolce",
     "source": "FishBase",
-    "evidence": "Marine; freshwater; brackish; demersal; catadromous ; depth range 0 - 700 m . Te",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; freshwater; brackish; demersal; depth 0-700 m",
+    "at": "2026-07-09T14:39:37.165Z"
   }
 }

@@ -44,5 +44,14 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-spada/chatgpt_azione_2026-07-08T06-16-59.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-08T06:17:05.581Z"
+  "publishedAt": "2026-07-08T06:17:05.581Z",
+  "classification": {
+    "zones": [
+      "pelagici"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; pelagic-oceanic; depth 0-2878 m",
+    "at": "2026-07-09T14:39:50.719Z"
+  }
 }

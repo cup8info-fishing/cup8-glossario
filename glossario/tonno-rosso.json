@@ -48,9 +48,13 @@
     "venomous": false
   },
   "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
     "habitat": "pelagici",
     "source": "FishBase",
-    "evidence": "Marine; brackish; pelagic-oceanic; oceanodromous ; depth range 0 - 985 m , usual",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; brackish; pelagic-oceanic; depth 0-985 m",
+    "at": "2026-07-09T14:39:55.760Z"
   }
 }

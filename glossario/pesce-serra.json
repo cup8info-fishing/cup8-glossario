@@ -45,5 +45,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-serra/chatgpt_habitat-largo_2026-07-02T09-57-54.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-09T10:54:07.515Z"
+  "publishedAt": "2026-07-09T10:54:07.515Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-oceanic; depth 0-200 m",
+    "at": "2026-07-09T14:39:49.831Z"
+  }
 }

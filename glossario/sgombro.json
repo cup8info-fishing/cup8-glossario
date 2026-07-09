@@ -48,5 +48,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/sgombro/chatgpt_sociale_2026-07-07T18-56-41.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-07T18:57:33.338Z"
+  "publishedAt": "2026-07-07T18:57:33.338Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; depth 0-1000 m",
+    "at": "2026-07-09T14:39:54.052Z"
+  }
 }

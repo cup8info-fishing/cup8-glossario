@@ -47,5 +47,15 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/salpa/chatgpt_azione_2026-07-09T06-50-25.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-09T06:50:40.655Z"
+  "publishedAt": "2026-07-09T06:50:40.655Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; benthopelagic; depth 5-70 m",
+    "at": "2026-07-09T14:39:53.227Z"
+  }
 }

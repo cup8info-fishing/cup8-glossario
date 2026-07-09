@@ -49,9 +49,13 @@
   "source": "atlas",
   "publishedAt": "2026-07-06T08:02:01.353Z",
   "classification": {
-    "habitat": "costa",
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
     "source": "FishBase",
-    "evidence": "Marine; benthopelagic; oceanodromous ; depth range ? - 30 m . Subtropical; 44 N ",
-    "at": "2026-07-06T17:05:19.537Z"
+    "evidence": "Marine; benthopelagic",
+    "at": "2026-07-09T14:39:43.415Z"
   }
 }

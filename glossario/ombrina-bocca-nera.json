@@ -47,5 +47,14 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/ombrina-bocca-nera/chatgpt_dettaglio-hd_2026-07-07T09-50-37.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-09T10:54:01.143Z"
+  "publishedAt": "2026-07-09T10:54:01.143Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 0-100 m",
+    "at": "2026-07-09T14:39:44.250Z"
+  }
 }
