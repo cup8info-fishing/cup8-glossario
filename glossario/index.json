@@ -144,6 +144,14 @@
     "publishedAt": "2026-07-03T15:34:25.173Z"
   },
   {
+    "id": "salpa",
+    "name": "Salpa",
+    "scientificName": "Sarpa salpa",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/salpa/chatgpt_primo-piano-habitat_2026-07-08T12-00-31.webp",
+    "publishedAt": "2026-07-09T06:50:40.655Z"
+  },
+  {
     "id": "sgombro",
     "name": "Sgombro",
     "scientificName": "Scomber scombrus",
