@@ -28,7 +28,7 @@
   "iucnStatus": "CR (Critically Endangered) - In pericolo critico di estinzione; la specie sopravvive allo stato selvatico con un'unica popolazione riproduttiva relitta nel bacino della Garonna-Dordogna in Francia.",
   "fishingRequirements": "La pesca (sia sportiva che professionale), la detenzione, il trasbordo e la commercializzazione in Italia sono assolutamente vietati, anche in caso di esemplari morti. In caso di cattura accidentale durante altre attività, vige l'obbligo assoluto di immediata reimmissione in acqua senza recare alcun danno al pesce.",
   "badges": {
-    "protected": false,
+    "protected": true,
     "alien": null,
     "venomous": false
   },
@@ -43,5 +43,5 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/storione-comune/chatgpt_dettaglio-hd_2026-07-08T10-59-35.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-07-08T10:59:44.767Z"
+  "publishedAt": "2026-07-09T10:53:57.724Z"
 }
