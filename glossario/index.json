@@ -168,6 +168,14 @@
     "publishedAt": "2026-07-09T06:50:40.655Z"
   },
   {
+    "id": "scorfano-rosso",
+    "name": "Scorfano rosso",
+    "scientificName": "Scorpaena scrofa",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/scorfano-rosso/chatgpt_primo-piano-habitat_2026-07-10T07-45-04.webp",
+    "publishedAt": "2026-07-10T08:33:51.168Z"
+  },
+  {
     "id": "sgombro",
     "name": "Sgombro",
     "scientificName": "Scomber scombrus",
