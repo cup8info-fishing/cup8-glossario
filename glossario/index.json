@@ -173,7 +173,7 @@
     "scientificName": "Scorpaena scrofa",
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/scorfano-rosso/chatgpt_primo-piano-habitat_2026-07-10T07-45-04.webp",
-    "publishedAt": "2026-07-10T08:33:51.168Z"
+    "publishedAt": "2026-07-10T08:43:15.202Z"
   },
   {
     "id": "sgombro",
@@ -182,6 +182,14 @@
     "category": "pesce_vertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sgombro/chatgpt_primo-piano-habitat_2026-07-07T14-43-05.webp",
     "publishedAt": "2026-07-07T18:57:33.338Z"
+  },
+  {
+    "id": "spigola-branzino",
+    "name": "Spigola/Branzino",
+    "scientificName": "Dicentrarchus labrax",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/spigola-branzino/chatgpt_primo-piano-habitat_2026-07-11T11-03-46.webp",
+    "publishedAt": "2026-07-11T11:58:38.796Z"
   },
   {
     "id": "storione-comune",
