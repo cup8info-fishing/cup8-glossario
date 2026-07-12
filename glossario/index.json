@@ -136,6 +136,14 @@
     "publishedAt": "2026-07-09T10:54:04.431Z"
   },
   {
+    "id": "pesce-san-pietro",
+    "name": "Pesce San Pietro",
+    "scientificName": "Zeus faber",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-san-pietro/chatgpt_primo-piano-habitat_2026-07-12T15-30-06.webp",
+    "publishedAt": "2026-07-12T17:51:04.026Z"
+  },
+  {
     "id": "pesce-serra",
     "name": "Pesce serra",
     "scientificName": "Pomatomus saltatrix",
