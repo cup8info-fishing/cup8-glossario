@@ -1,0 +1,60 @@
+{
+  "id": "katsuwonus-pelamis",
+  "name": "Tonnetto striato",
+  "scientificName": "Katsuwonus pelamis",
+  "family": "Scombridae (sottofamiglia Scombrinae).",
+  "category": "pesce_vertebrato",
+  "description": "Il tonnetto striato ha un corpo fusiforme ed estremamente idrodinamico, con un tratto distintivo inequivocabile: 4-7 marcate strisce scure orizzontali che corrono lungo il ventre argenteo, in forte contrasto con il dorso blu-acciaio e violaceo. Animale altamente gregario, si aggrega in banchi fittissimi di migliaia di individui in superficie, seguendo relitti o associandosi a uccelli e cetacei; poiché è sprovvisto di vescica natatoria, è condannato a un nuoto ininterrotto per garantirsi il galleggiamento e l'ossigenazione branchiale.",
+  "habits": "Per la pesca sportiva si predilige la traina d'altura con esche artificiali e lo spinning sulle mangianze a galla; in ambito professionale si adottano le reti a circuizione (pesca su banchi liberi o con l'ausilio di FAD), palangari, reti da posta derivanti e le lenze a canna (pole-and-line, un metodo tradizionale considerato tra i più selettivi e sostenibili).",
+  "habitat": "Specie epipelagica e oceanodroma di mare aperto, raramente si avvicina alle coste; nuota tipicamente in una fascia batimetrica compresa tra 0 e 260 metri di profondità, concentrandosi nelle zone di upwelling e convergenza con temperature dell'acqua comprese tra i 14,7 °C e i 30 °C.",
+  "diet": "Predatore carnivoro e piscivoro estremamente vorace, si nutre specialmente all'alba e al crepuscolo cacciando piccoli pesci pelagici (come clupeidi, acciughe e sardine), crostacei e cefalopodi; pratica con frequenza anche il cannibalismo.",
+  "size": {
+    "min": 3,
+    "max": 110
+  },
+  "averageSize": "80 cm, ma gli esemplari solitamente commercializzati si aggirano tra i 45 e gli 80 cm, con pesi medi compresi tra i 3 e i 10 kg.",
+  "weight": {
+    "min": 0,
+    "max": 35
+  },
+  "pesoText": "34,5 - 35 kg.",
+  "maxAge": "8 - 12 anni.",
+  "locations": [
+    "Sicilia",
+    "Mediterraneo"
+  ],
+  "regioniText": "Specie cosmopolita diffusa in tutti gli oceani tropicali e temperati caldi; nel Mar Mediterraneo ha una presenza pelagica complessivamente rara, segnalata principalmente lungo le coste italiane meridionali, vicino alla Sicilia e a Lampedusa, mentre è del tutto assente nel Mar Nero.",
+  "iucnStatus": "LC (Rischio minimo / Least Concern), trattandosi di una specie globalmente abbondante e a rapido turnover demografico.",
+  "fishingRequirements": "La taglia minima legale per la cattura in Italia è fissata a 30 cm; non viene stabilito un fermo biologico assoluto a livello di legge generale, ma le catture avvengono nel rispetto dei ritmi naturali (la riproduzione si verifica tra la primavera e l'estate, permettendo concentrazioni di pesca sportiva e commerciale tra agosto e ottobre).",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate un concentrato di muscoli puro: ben il 68% del peso corporeo di questo animale è costituito da muscolo scheletrico dedicato esclusivamente al nuoto. Stiamo parlando del Tonnetto striato (<em>Katsuwonus pelamis</em>), l&#39;unico membro del suo genere e un vero e proprio bolide pelagico appartenente alla famiglia Scombridae. </p>\n<p>È un pesce di taglia medio-piccola rispetto ai giganti del mare, ma incute comunque rispetto: gli esemplari comuni misurano circa 80 cm per 8-10 kg di peso, ma i veri campioni possono sfiorare i 110 cm e raggiungere i 34,5 kg. Sulla sua aspettativa di vita, le fonti litigano un po&#39;: c&#39;è chi afferma che viva in media 7 anni, chi dice tra i 6 e i 12, e chi giura arrivi fino a 12 anni pieni. Probabilmente dipende dalle zone o da chi lo pesca!</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Ha un corpo fusiforme ed estremamente idrodinamico, con il dorso di un bel blu scuro iridescente o violaceo e il ventre argentato. Il tratto distintivo inequivocabile, quello che gli dà il nome, sono le <strong>4-6 vistose bande scure longitudinali</strong> che corrono lungo la pancia e i fianchi inferiori. Il suo corpo è completamente privo di scaglie, eccezion fatta per la linea laterale e il &quot;corsaletto&quot;, ovvero una spessa e ruvida fascia circolare di scaglie posta subito dietro la testa. Presenta due pinne dorsali molto vicine tra loro e dei piccoli filamenti (pinnule) verso la coda, supportata da potenti carene (keels) alla base.</p>\n<p>Attenzione a non fare confusione al mercato con la Palamita (<em>Sarda sarda</em>): quest&#39;ultima ha le strisce scure oblique che puntano in avanti sul dorso, mentre il nostro tonnetto le ha diritte e sul ventre. In Italia il nome ufficiale è Tonnetto striato, ma la tradizione popolare gli ha donato un&#39;identità precisa in base alle regioni: in Sicilia, tra Messina e Ganzirri, i pescatori lo chiamano fieramente <em>Palamitu &#39;mperíali</em> o <em>Pisci gumma</em>. </p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>Abitante instancabile degli oceani di tutto il mondo, ama le acque calde, tropicali e temperate, con temperature che spaziano dai 14,7°C ai 30°C. Lo troverete in tutti i mari tranne che nel Mar Nero e nel Mediterraneo Orientale, dove è del tutto assente. È una creatura di mare aperto: di giorno si immerge a caccia fino a 260 metri di profondità, mentre di notte preferisce pattugliare le acque superficiali.</p>\n<p>È un animale estremamente socievole che viaggia in banchi immensi, composti anche da 50.000 individui. Adora radunarsi nelle zone di risalita delle correnti o sotto oggetti galleggianti, viaggiando in compagnia di balene, squali e uccelli marini, compiendo salti spettacolari fuori dall&#39;acqua. A tavola è un predatore vorace e opportunista: caccia principalmente all&#39;alba e al tramonto, ingoiando a vista acciughe, sardine, calamari e crostacei. Non ha proprio il senso della famiglia, anzi pratica un <strong>cannibalismo feroce</strong>: si ciba regolarmente dei propri simili più piccoli, un comportamento che agisce da vero e proprio controllo demografico naturale. Riguardo alla riproduzione, nelle zone equatoriali depone uova tutto l&#39;anno, rilasciandone da 100.000 a 2 milioni per volta, che si schiudono nel tempo record di un solo giorno.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Senza di lui, l&#39;industria peschereccia mondiale crollerebbe: da solo rappresenta ben il <strong>60% del pescato mondiale di tonno</strong> ed è il terzo pesce più catturato in assoluto a livello globale. A livello industriale si cattura principalmente con enormi reti a circuizione (purse-seine), spesso raggruppando i pesci con i controversi FAD (oggetti galleggianti artificiali). Esiste però un metodo tradizionale ed ecologico molto apprezzato, la pesca con lenze a canna (pole-and-line), considerata decisamente più sostenibile. </p>\n<p>Gli sportivi lo insidiano invece praticando la traina d&#39;altura con attrezzature leggere, impiegando piume, cucchiaini o esche artificiali. A dispetto delle decine di migliaia di tonnellate pescate ogni anno, la sua rapidità di accrescimento e i tassi di riproduzione formidabili fanno sì che la specie sia classificata a <strong>Rischio Minimo (Least Concern)</strong> nella lista rossa IUCN.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le sue carni sono di colore rosa-rossastro, mediamente magre e dalla consistenza morbida; offrono un sapore deciso ma meno intenso rispetto ai giganti come il tonno rosso o il pinna gialla. Il suo pregio imbattibile? Vivendo meno e restando più piccolo, il tonnetto striato vanta <strong>tenori di mercurio nettamente più bassi</strong> rispetto ad altre specie, rendendolo una scelta raccomandata per chi consuma spesso pesce o per categorie a rischio come donne in gravidanza e bambini. </p>\n<p>È proprio lo <em>skipjack</em> che trovate quasi sempre nelle classiche <strong>scatolette di &quot;tonno light&quot;</strong> al naturale o sott&#39;olio. Se lo comprate al banco, chiedete sempre garanzie leggendo l&#39;etichetta (dovrebbe riportare <em>Katsuwonus pelamis</em>), così eviterete che vi rifilino pesci decongelati e colorati chimicamente. Il consiglio del pescatore per i tranci freschi è di scottarli alla piastra su fiamma altissima, lasciandoli rosati al cuore per preservarne la tenerezza. Un&#39;ottima variante è servirli tagliati a fette spesse, accompagnati con senape e un <em>ragout</em> di pomodoro, scalogno e aceto. Se preferite mangiarlo crudo tipo sushi, ricordatevi la regola d&#39;oro: è necessario abbatterlo nel freezer domestico per almeno 96 ore prima del consumo.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>È condannato a nuotare:</strong> Esattamente come gli squali, il tonnetto striato è sprovvisto di vescica natatoria. Questo significa che la spinta di galleggiamento è nulla: se smette di nuotare, affonda letteralmente a picco.</li>\n<li><strong>Sangue &quot;caldo&quot;:</strong> Possiede uno speciale sistema circolatorio a &quot;scambio controcorrente&quot; che gli permette di trattenere il calore metabolico generato dai muscoli. Grazie a questo meccanismo è parzialmente a sangue caldo e può portare la propria temperatura corporea a livelli estremi, toccando i 31°C durante le immersioni di caccia o nei momenti riproduttivi.</li>\n<li><strong>Nomi surreali:</strong> Nel mondo anglosassone la creatività non manca. A causa delle sue strisce sul ventre viene soprannominato <em>watermelon</em> (cocomero), ma è noto anche con l&#39;inglorioso nome di <em>mushmouth</em> (bocca molle).</li>\n<li><strong>Profumo intenso:</strong> A differenza di altri pesci pelagici, è famoso per sprigionare, appena pescato, un odore peculiare ed estremamente potente.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_primo-piano-habitat_2026-07-13T13-37-02.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_primo-piano-habitat_2026-07-13T13-37-02.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_azione_2026-07-13T13-32-11.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_sociale_2026-07-13T13-32-14.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_dettaglio-hd_2026-07-13T13-36-56.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_habitat-largo_2026-07-13T14-06-25.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-07-13T14:06:39.941Z",
+  "classification": {
+    "zones": [
+      "pelagici"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; pelagic-oceanic; depth 0-260 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-07-13T14:06:40.446Z"
+  }
+}

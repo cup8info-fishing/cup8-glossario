@@ -232,6 +232,14 @@
     "publishedAt": "2026-07-09T10:53:57.724Z"
   },
   {
+    "id": "katsuwonus-pelamis",
+    "name": "Tonnetto striato",
+    "scientificName": "Katsuwonus pelamis",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/katsuwonus-pelamis/chatgpt_primo-piano-habitat_2026-07-13T13-37-02.webp",
+    "publishedAt": "2026-07-13T14:06:39.941Z"
+  },
+  {
     "id": "tonno-rosso",
     "name": "Tonno rosso",
     "scientificName": "Thunnus thynnus",
