@@ -40,6 +40,14 @@
     "publishedAt": "2026-07-03T12:24:27.119Z"
   },
   {
+    "id": "dentice",
+    "name": "Dentice",
+    "scientificName": "Dentex dentex",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/dentice/chatgpt_primo-piano-habitat_2026-07-13T06-56-17.webp",
+    "publishedAt": "2026-07-13T08:50:09.977Z"
+  },
+  {
     "id": "granchio-blu",
     "name": "Granchio blu",
     "scientificName": "Callinectes sapidus",
