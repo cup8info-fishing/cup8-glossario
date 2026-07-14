@@ -1,0 +1,23 @@
+name: Segnala deploy cup8.it
+
+# Ogni volta che qui arriva un push (= l'Atlas ha pubblicato un pesce), avvisa cup8all
+# di rigenerare e deployare le pagine su cup8.it. Il deploy vero gira nel repo PRIVATO
+# cup8all (dove sta la service account Firebase), non qui.
+on:
+  push:
+    branches: [main]
+
+concurrency:
+  group: trigger-deploy-cup8it
+  cancel-in-progress: true
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: repository_dispatch -> cup8all
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          gh api repos/cup8info-fishing/cup8all/dispatches \
+            -f event_type=publish-glossario
