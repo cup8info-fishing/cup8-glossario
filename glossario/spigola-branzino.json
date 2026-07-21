@@ -50,10 +50,10 @@
   "publishedAt": "2026-07-11T11:58:38.796Z",
   "classification": {
     "zones": [
-      "acquadolce",
-      "costa"
+      "costa",
+      "acquadolce"
     ],
-    "habitat": "acquadolce",
+    "habitat": "costa",
     "source": "FishBase",
     "evidence": "Marine; freshwater; brackish; demersal; depth 10-100 m",
     "water": {

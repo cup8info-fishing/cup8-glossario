@@ -50,10 +50,10 @@
   "publishedAt": "2026-07-09T10:53:47.684Z",
   "classification": {
     "zones": [
-      "acquadolce",
-      "costa"
+      "costa",
+      "acquadolce"
     ],
-    "habitat": "acquadolce",
+    "habitat": "costa",
     "source": "WoRMS",
     "evidence": "WoRMS: marine; brackish; freshwater",
     "at": "2026-07-09T14:56:33.566Z"
