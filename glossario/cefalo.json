@@ -49,10 +49,10 @@
   },
   "classification": {
     "zones": [
-      "acquadolce",
-      "costa"
+      "costa",
+      "acquadolce"
     ],
-    "habitat": "acquadolce",
+    "habitat": "costa",
     "source": "FishBase",
     "evidence": "Marine; freshwater; brackish; benthopelagic; depth 0-120 m",
     "at": "2026-07-09T14:56:32.519Z"
