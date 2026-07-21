@@ -72,6 +72,14 @@
     "publishedAt": "2026-07-01T00:20:18.198Z"
   },
   {
+    "id": "luccio-europeo",
+    "name": "Luccio europeo",
+    "scientificName": "Esox lucius",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/luccio-europeo/chatgpt_primo-piano-habitat_2026-07-21T15-26-49.webp",
+    "publishedAt": "2026-07-21T18:56:07.899Z"
+  },
+  {
     "id": "lucioperca",
     "name": "Lucioperca",
     "scientificName": "Sander lucioperca",
