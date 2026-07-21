@@ -1,0 +1,66 @@
+{
+  "id": "donzella",
+  "name": "Donzella",
+  "scientificName": "Coris julis",
+  "family": "Labridae (sottofamiglia Julidinae).",
+  "category": "pesce_vertebrato",
+  "description": "La Donzella è un elegante e snello pesce costiero noto per il suo ermafroditismo proteroginico: nasce femmina per poi subire un'inversione sessuale e diventare maschio crescendo. Presenta un forte dimorfismo sessuale: gli esemplari con livrea primaria (femmine e maschi giovani) hanno il dorso rossastro o marrone separato da una fascia bianca e gialla; gli esemplari con livrea secondaria (maschi terminali) sfoggiano invece un appariscente dorso verde-bluastro, ventre chiaro, e una vistosa fascia laterale a zigzag arancione delimitata da macchie nere o blu. Diurno e curioso, per riposare di notte o per sfuggire ai predatori adotta un comportamento fossorio seppellendosi rapidamente nella sabbia.",
+  "habits": "* Pesca ricreativa costiera e da natante con **lenze leggere** (ami innescati con esche animali di vario genere, che attacca sempre in modo vorace). * Pesca tradizionale con l'utilizzo di **nasse** in filo metallico o di canna. * Cattura incidentale (bycatch) attraverso le **reti da posta** (es. tramagli) o **piccole reti a strascico/sciabiche da spiaggia** operate a livello artigianale.",
+  "habitat": "Zone costiere con fondali rocciosi, banchi di sabbia, ghiaia e praterie di posidonia; la sua diffusione batimetrica tipica va da 1 a 60 metri di profondità, ma durante l'inverno i maschi adulti possono spingersi fino a 120 metri.",
+  "diet": "Specie carnivora che si nutre prevalentemente di invertebrati bentonici, tra cui crostacei (anfipodi, copepodi, isopodi e gamberetti), molluschi (bivalvi e gasteropodi), echinodermi (ricci di mare), vermi policheti e occasionalmente di alghe.",
+  "size": {
+    "min": 20,
+    "max": 30
+  },
+  "averageSize": "Circa 20 cm.",
+  "weight": {
+    "min": 0,
+    "max": 200
+  },
+  "pesoText": "200 grammi.",
+  "maxAge": "7 anni in ambiente naturale (fino a 10 anni in cattività/acquario).",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Ampiamente diffusa in tutto il Mar Mediterraneo (Mar Ligure, Tirreno, Adriatico, Ionio, coste di Sardegna e Sicilia), nel Mar Nero e nell'Oceano Atlantico orientale.",
+  "iucnStatus": "LC (Least Concern - Rischio minimo). Le popolazioni della specie sono considerate stabili o in incremento, molto abbondanti nell'areale e prive di gravi cause di minaccia.",
+  "fishingRequirements": "Le fonti fornite non riportano restrizioni legali quali misure minime di conservazione o periodi di fermo biologico specifici per questa specie. A causa dello scarso valore commerciale delle carni (usate prevalentemente per zuppe, come il cacciucco), non è soggetta a pesca specifica mirata.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate di nascere femmina, vivere i primi anni della vostra vita sfoggiando un vestitino sobrio e discreto, per poi un bel giorno stravolgere tutto: cambiare sesso, diventare un maschio territoriale e indossare un abito dai colori sgargianti ed eccentrici. Questo è il destino della <strong>Donzella</strong>, nota alla scienza come <em>Coris julis</em>.</p>\n<p>Appartenente alla numerosa e variopinta famiglia dei <strong>Labridi</strong>, questo pesce è un vero e proprio gioiello delle nostre coste. Si tratta di un animale snello e affusolato, dalle dimensioni contenute: in genere si aggira intorno ai 20 centimetri, ma i maschi più anziani e imponenti possono toccare il record di 30 centimetri di lunghezza. </p>\n<p>Nonostante la taglia non proprio da mostro marino, è un pesce tenace e longevo, capace di vivere fino a 7 anni scorrazzando tra gli scogli e le praterie sommerse.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Riconoscere la Donzella è facile, ma attenzione alle sue due &quot;identità&quot;. Il corpo è sempre a forma di fuso, con un muso a punta e una bocca piccola ma armata di denti anteriori sporgenti, simili a canini, perfetti per frantumare piccoli gusci. Le squame sono piccolissime e del tutto assenti sulla testa. La vera magia, però, sta nel colore, che cambia radicalmente con il sesso (un fenomeno chiamato <strong>dimorfismo sessuale</strong>). </p>\n<p>Gli esemplari con <strong>livrea primaria</strong> (ovvero le femmine e i maschi più giovani) hanno un aspetto più mimetico: il dorso è marrone o rossastro, separato dal ventre bianco da una striscia gialla e da una sottile linea a zigzag marrone scuro o nera. Quando l&#39;animale compie la transizione e indossa la <strong>livrea secondaria</strong> (diventando un maschio terminale a tutti gli effetti), esplode in un tripudio di colori: il dorso si fa verde-bluastro o bruno scuro, mentre sui fianchi compare una vistosa e inconfondibile <strong>fascia a zigzag arancione vivo</strong>. In più, sfoggia una grossa macchia nera o blu scuro proprio dietro la pinna pettorale e un&#39;altra sull&#39;opercolo (la placca che copre le branchie).</p>\n<p>Potreste confonderla con la specie &quot;gemella&quot; <em>Coris melanura</em> — un tempo considerata la stessa specie, ma che al posto della striscia a zigzag presenta delle barre verticali scure sui fianchi — oppure con la donzella pavonina (<em>Thalassoma pavo</em>), che però ha una tinta di fondo verdastra con bande verticali blu e rosse e una grossa macchia sul dorso. </p>\n<p>Se girate per l&#39;Italia, preparatevi a sentirla chiamare in mille modi: a Livorno è il <strong>Cazzo di re</strong> o <strong>Nicchio di re</strong>, a Napoli diventa <strong>Cazzillo e&#39; rre</strong> o <strong>Pinto e&#39; rre</strong>, in Sicilia la chiamano <strong>Viola</strong>, <strong>&#39;Nzuraddu</strong> o <strong>Viriola</strong>, mentre in Sardegna la trovate come <strong>Pisci urrej</strong>.</p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>La Donzella è una cittadina onnipresente del <strong>Mar Mediterraneo</strong>, del Mar Nero e dell&#39;Oceano Atlantico orientale. È un pesce strettamente costiero che ama i <strong>fondali rocciosi</strong> e le praterie di posidonia, spingendosi da pochi centimetri sotto il pelo dell&#39;acqua fino a circa 60 metri di profondità. Durante i mesi invernali, i maschi adulti tendono a inabissarsi, scendendo anche fino a 120 metri per cercare un po&#39; di tranquillità.</p>\n<p>È un predatore carnivoro di fondo dalla fame insaziabile: passa le giornate a cacciare piccoli crostacei (come gamberetti e copepodi), molluschi, vermi marini e persino ricci di mare, che riesce a triturare con i suoi dentini aguzzi. I giovani e le femmine tendono a fare gruppetto, mostrando un certo gregarismo, mentre i grandi maschi colorati sono dei veri e propri lupi solitari, molto territoriali.</p>\n<p>Le sue abitudini sono rigorosamente diurne. La notte, o quando si sente minacciata da un predatore, adotta un comportamento bizzarro e geniale: <strong>si tuffa a capofitto e si seppellisce completamente nella sabbia</strong> per dormire al sicuro. La riproduzione, curiosa per via dell&#39;ermafroditismo proteroginico (nasce femmina e diventa maschio), avviene in estate, tra giugno e luglio, quando vengono rilasciate in mare minuscole uova pelagiche galleggianti.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Commercialmente parlando, la Donzella ha un valore modesto, motivo per cui non esiste una pesca professionale mirata specificamente a lei. Si cattura più che altro in modo artigianale con le nasse. </p>\n<p>Per i pescatori sportivi, invece, è un incontro fin troppo frequente. Abbocca con una voracità incredibile a qualsiasi esca animale (vermi, pezzetti di gambero, molluschi), diventando spesso una seccatura per chi sta cercando di insidiare prede più nobili o di taglia maggiore. Se pescate a fondo vicino agli scogli, è quasi impossibile non allamarne una.</p>\n<p>A livello di conservazione possiamo stare tranquilli: lo stato assegnato dalla IUCN è <strong>Rischio minimo</strong> (Least Concern). Le sue popolazioni sono non solo stabili, ma in alcune aree del Mediterraneo persino in espansione.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le carni della Donzella sono delicate, dolci e molto saporite, ma c&#39;è un &quot;ma&quot; grosso come una casa: <strong>è ricca di lische</strong>. Per questo motivo non è adatta a cotture arrosto o alla griglia, ma trova la sua vocazione assoluta come ingrediente principe nei brodi e nelle zuppe di pesce. </p>\n<p>A Livorno è uno dei pesci fondamentali per dare sapore al leggendario <strong>Cacciucco</strong>, cotto lentamente insieme a polpi, seppie, cozze e cicale di mare. Nel sud Italia, specialmente tra Sicilia e Calabria, è la base per un <strong>brodetto</strong> ristretto e densissimo con cui si condiscono gli spaghetti. Ottima è anche la <strong>frittura di donzelle</strong>: gli esemplari più piccoli, puliti e infarinati, si tuffano interi in abbondante olio bollente finché non diventano dorati e croccanti da mangiare in un sol boccone.</p>\n<p><em>Il consiglio del pescatore:</em> Se volete fare gli Spaghetti al Brodetto di Donzella, fate rosolare aglio, olio e pomodorini, aggiungete le donzelle intere e l&#39;acqua e fate sobbollire per un&#39;ora. A quel punto, passate tutto il composto in un passaverdure a maglie strette: otterrete un sugo rosa-arancio dal sapore di mare esplosivo, lasciando tutte le fastidiose lische e squame fuori dal piatto!</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>È una star del cinema.</strong> Il nome siciliano della donzella, <em>Viola di mare</em>, insieme al suo alter ego <em>Minchia di re</em>, ha dato il titolo a un famoso romanzo e a un omonimo film del 2009 con Valeria Solarino e Isabella Ragonese. L&#39;inversione sessuale del pesce viene usata come bellissima metafora per raccontare una storia d&#39;amore e di identità di genere nella Sicilia dell&#39;Ottocento.</li>\n<li><strong>La regola del centimetro.</strong> Studi biologici hanno dimostrato che il cambio di sesso dura circa 5 mesi. Le fonti litigano su un dettaglio: c&#39;è chi dice che superati i 18 centimetri e chi oltre i 19 centimetri siano tutti inesorabilmente esemplari maschi. In ogni caso, se pescate una donzella &quot;gigante&quot;, potete scommettere che è un signor maschio!</li>\n<li><strong>Un nome da fanciulla.</strong> Il nome scientifico del genere, <em>Coris</em>, deriva dalla parola greca &quot;kore&quot; che significa fanciulla o domestica. Linneo le diede questo nome nel 1758 proprio per la sua silhouette elegante, le squame sottili e i colori che ricordavano la grazia di una giovane ragazza.</li>\n<li><strong>Occhio alle imitazioni in Toscana.</strong> Se in un&#39;osteria toscana o romagnola vi propongono delle &quot;donzelle fritte&quot;, non aspettatevi di mangiare del pesce! In quelle zone, le donzelle (o <em>ficattole</em>) sono dei deliziosi rombi di pasta da pane o da pizza fritti, da gustare dolci o accompagnati da salumi, celebrati persino da Pellegrino Artusi.</li>\n<li><strong>Fa il lavoro sporco.</strong> Nonostante sia un vorace predatore, i giovani di questa specie si comportano a volte da &quot;pesci pulitori&quot;, liberando dai parassiti pesci di dimensioni enormemente più grandi di loro, come il gigantesco pesce luna (<em>Mola mola</em>).</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_primo-piano-habitat_2026-07-21T19-42-25.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_primo-piano-habitat_2026-07-21T19-42-25.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_habitat-largo_2026-07-21T19-42-24.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_azione_2026-07-21T19-44-12.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_sociale_2026-07-21T19-51-48.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_dettaglio-hd_2026-07-21T20-51-44.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-07-21T21:16:45.244Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; reef-associated; depth 0-120 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-07-21T21:16:46.076Z"
+  }
+}

@@ -56,6 +56,14 @@
     "publishedAt": "2026-07-13T08:50:09.977Z"
   },
   {
+    "id": "donzella",
+    "name": "Donzella",
+    "scientificName": "Coris julis",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/donzella/chatgpt_primo-piano-habitat_2026-07-21T19-42-25.webp",
+    "publishedAt": "2026-07-21T21:16:45.244Z"
+  },
+  {
     "id": "granchio-blu",
     "name": "Granchio blu",
     "scientificName": "Callinectes sapidus",
