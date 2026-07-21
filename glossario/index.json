@@ -216,6 +216,14 @@
     "publishedAt": "2026-07-14T09:23:21.748Z"
   },
   {
+    "id": "sarago-testanera",
+    "name": "Sarago testa nera",
+    "scientificName": "Diplodus vulgaris",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-testanera/chatgpt_primo-piano-habitat_2026-07-14T09-53-10.webp",
+    "publishedAt": "2026-07-21T19:32:52.659Z"
+  },
+  {
     "id": "scorfano-rosso",
     "name": "Scorfano rosso",
     "scientificName": "Scorpaena scrofa",
