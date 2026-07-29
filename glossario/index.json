@@ -48,6 +48,14 @@
     "publishedAt": "2026-07-03T12:24:27.119Z"
   },
   {
+    "id": "cernia-bruna",
+    "name": "Cernia bruna",
+    "scientificName": "Epinephelus marginatus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_primo-piano-habitat_2026-07-21T21-25-43.webp",
+    "publishedAt": "2026-07-29T08:58:05.902Z"
+  },
+  {
     "id": "corvina",
     "name": "Corvina",
     "scientificName": "Sciaena umbra",

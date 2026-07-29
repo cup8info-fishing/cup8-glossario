@@ -1,0 +1,65 @@
+{
+  "id": "cernia-bruna",
+  "name": "Cernia bruna",
+  "scientificName": "Epinephelus marginatus",
+  "family": "Epinephelidae (spesso ascritta anche storicamente come sottofamiglia Epinephelinae all'interno dei Serranidae).",
+  "category": "pesce_vertebrato",
+  "description": "La Cernia bruna è un pesce dal corpo massiccio, compresso lateralmente, con una testa imponente dotata di un'ampia bocca e mandibola prominente. Si distingue per la livrea mimetica dal marrone-rossastro al grigio con un tipico disegno irripetibile a macchie chiare o giallastre, ventre dorato e margini bianchi evidenti su coda e pinna anale. Pur essendo un predatore estremamente territoriale e solitario, mostra una marcata curiosità persino verso l'uomo. Biologicamente, si caratterizza per l'ermafroditismo proteroginico monandrico: ogni individuo nasce femmina per poi, in media tra i 9 e i 16 anni, subire un'inversione sessuale e diventare un grande maschio riproduttore.",
+  "habits": "- Pesca in apnea (con fucile subacqueo): praticata all'aspetto o in tana, ma consentita solo dove non vige il divieto e nei limiti di cattura previsti dalle normative locali. - Bolentino profondo: da natante, con esche naturali (polpo, seppia, pesce) calate sui fondali rocciosi e sulle secche dove la specie si intana.",
+  "habitat": "Specie demersale che predilige fondali duri e scogliere rocciose ricche di grotte, anfratti e cavità da usare come tana, frequentando solo occasionalmente i letti di *Posidonia*. Gli esemplari adulti si spingono a profondità tipiche comprese tra i 20 e i 200-300 metri, mentre i giovanili stazionano prevalentemente vicino alla costa e in pozze di marea fino a 15 metri di profondità.",
+  "diet": "Carnivoro opportunista e super-predatore che caccia principalmente all'agguato. La sua dieta è dominata da molluschi cefalopodi (con netta preferenza per i polpi), crostacei decapodi (come i granchi) e piccoli pesci teleostei.",
+  "size": {
+    "min": 37,
+    "max": 150
+  },
+  "averageSize": "Gli adulti si aggirano su una dimensione comune di 120 cm, sebbene gli individui abbiano una lunghezza media di prima maturità (femminile) compresa tra i 36,7 e i 54 cm, e in commercio spesso arrivino esemplari più piccoli.",
+  "weight": {
+    "min": 0,
+    "max": 60
+  },
+  "pesoText": "Fino a 60 kg.",
+  "maxAge": "Raggiunge una longevità eccezionale stimata tra i 60 e i 61 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Ampiamente diffusa in tutto il Mar Mediterraneo (inclusi Adriatico, Tirreno, Ionio, Ligure, mare di Sardegna e mari siciliani), oltre a popolare l'Oceano Atlantico (orientale e sud-occidentale) e porzioni dell'Oceano Indiano.",
+  "iucnStatus": "A livello globale è classificata come VU (Vulnerabile), ma per via del drastico calo demografico nel Mar Mediterraneo, la classificazione regionale l'ha innalzata a EN (In Pericolo).",
+  "fishingRequirements": "Taglia minima legale di cattura 45 cm. Specie protetta in diverse aree marine, dove la cattura è vietata; la pesca in apnea è soggetta a limiti e divieti locali che vanno verificati prima di ogni uscita.",
+  "badges": {
+    "protected": true,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": null,
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_primo-piano-habitat_2026-07-21T21-25-43.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_primo-piano-habitat_2026-07-21T21-25-43.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_dettaglio-hd_2026-07-22T07-49-48.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_habitat-largo_2026-07-22T08-08-57.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_sociale_2026-07-22T07-49-49.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cernia-bruna/chatgpt_azione_2026-07-22T13-07-01.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-07-29T08:58:05.902Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; reef-associated; depth 8-300 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-07-29T08:58:06.568Z"
+  }
+}
