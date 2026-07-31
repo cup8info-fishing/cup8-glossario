@@ -272,6 +272,14 @@
     "publishedAt": "2026-07-10T08:43:15.202Z"
   },
   {
+    "id": "seppia-comune",
+    "name": "Seppia comune",
+    "scientificName": "Sepia officinalis",
+    "category": "invertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/seppia-comune/chatgpt_primo-piano-habitat_2026-07-28T15-04-16.webp",
+    "publishedAt": "2026-07-31T10:24:32.984Z"
+  },
+  {
     "id": "sgombro",
     "name": "Sgombro",
     "scientificName": "Scomber scombrus",
