@@ -256,6 +256,14 @@
     "publishedAt": "2026-07-14T09:23:21.748Z"
   },
   {
+    "id": "sarago-pizzuto",
+    "name": "Sarago pizzuto",
+    "scientificName": "Diplodus puntazzo",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_primo-piano-habitat_2026-07-23T21-59-28.webp",
+    "publishedAt": "2026-08-03T07:42:38.497Z"
+  },
+  {
     "id": "sarago-testanera",
     "name": "Sarago testa nera",
     "scientificName": "Diplodus vulgaris",

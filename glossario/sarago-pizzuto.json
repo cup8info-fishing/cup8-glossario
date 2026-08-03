@@ -1,0 +1,63 @@
+{
+  "id": "sarago-pizzuto",
+  "name": "Sarago pizzuto",
+  "scientificName": "Diplodus puntazzo",
+  "family": "Sparidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il sarago pizzuto si distingue dagli altri sparidi per il peculiare profilo frontale concavo e il muso marcatamente allungato e acuminato, provvisto di incisivi inclinati in avanti adatti a strappare. Il suo corpo argenteo ovale e compresso è solcato da 7-13 bande verticali scure (che tendono a sbiadire con l'età) e presenta un anello nero marcato sul peduncolo caudale. Mentre gli esemplari più giovani manifestano spesso un forte gregarismo, gli adulti tendono ad assumere un comportamento assai diffidente e spiccatamente solitario.",
+  "habits": "* Pesca con canna bolognese (5-7 metri) da moli o scogliere rocciose; i risultati migliori si ottengono durante le mareggiate o in fase di scaduta, quando il moto ondoso dissotterra nutrimento nel sottocosta. * Pesca subacquea in apnea, privilegiando in particolare la tecnica dell'agguato o l'aspetto nei momenti di maggiore attività alimentare, quali le prime ore dell'alba o poco prima del tramonto. * Pesca a fondo (surfcasting) o lenze, innescando esche animali (come molluschi o polpa di gambero) o miste vegetali, vista la natura spiccatamente onnivora della specie.",
+  "habitat": "Substrati rocciosi, frangiflutti, porti e praterie di *Posidonia oceanica*, prevalentemente a una profondità compresa tra 0 e 50-60 metri, sebbene possa spingersi fino a 150 metri.",
+  "diet": "Specie spiccatamente onnivora, si nutre di una sostanziale frazione algale/vegetale e di macrobenthos, predando crostacei, molluschi, cefalopodi e policheti.",
+  "size": {
+    "min": 30,
+    "max": 60
+  },
+  "averageSize": "30 cm.",
+  "weight": {
+    "min": 0,
+    "max": 1.7
+  },
+  "pesoText": "1,7 kg.",
+  "maxAge": "10 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Comune in tutto il Mar Mediterraneo (compresi Adriatico, Ligure, Ionio, Tirreno, isole maggiori), nel Mar Nero e lungo le coste dell'Oceano Atlantico orientale.",
+  "iucnStatus": "LC (Rischio Minimo) - Le popolazioni globali della specie sono considerate ampie e stabili e non mostrano segni imminenti di rarefazione, nonostante il prelievo talvolta sregolato delle flotte locali.",
+  "fishingRequirements": "La misura minima legale di cattura nell'Unione Europea è di 18 cm, anche se biologicamente la prima maturità sessuale viene raggiunta a 21-22 cm; le fonti non indicano un periodo di fermo biologico di legge, ma la fase riproduttiva si concentra tra settembre e novembre.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina un pesce che, di fronte a un subacqueo, non si rintana terrorizzato nel buio di una grotta o in uno spacco come farebbero i suoi cugini, ma schizza via fiero verso il blu profondo, in acqua libera. Questo è il sarago pizzuto, o <em>Diplodus puntazzo</em> per i biologi.</p>\n<p>Appartiene alla grande e nobile famiglia degli Sparidi, l&#39;aristocrazia costiera dei nostri mari. È un pesce dal corpo ovale e fortemente compresso ai lati, un vero lottatore. </p>\n<p>Di solito, in pescheria o nel carniere di un pescatore, lo vedi intorno ai <strong>30 centimetri</strong>, ma i nonni della specie possono sfiorare i <strong>60 centimetri</strong> e superare il chilo e mezzo di peso. È un tipo che se la prende comoda: può vivere tranquillamente per 10 anni, e nel mare Adriatico orientale i ricercatori hanno contato le &quot;rughe&quot; di alcuni matusalemme arrivati addirittura a 18 anni!</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Non puoi sbagliarti, ha una faccia unica. Ha un profilo frontale <strong>concavo</strong>, praticamente incavato proprio davanti agli occhi, e un <strong>muso marcatamente allungato e appuntito</strong>. Da questo muso sporgente, quasi un becco, nasce il nome &quot;pizzuto&quot;. La bocca è dotata di labbra sottilissime e di <strong>otto incisivi inclinati in avanti</strong>, perfetti per strappare tenacemente il cibo dalle rocce. Dietro ha dei piccoli molari, che però crescendo tendono a sparire.</p>\n<p>Il vestito è un grigio argenteo elegante, attraversato da bande verticali scure (le fonti non si mettono d&#39;accordo sul numero esatto: c&#39;è chi ne conta 6-7, chi fino a 13; la natura ama variare!). Sull&#39;attaccatura della coda (il peduncolo caudale) spicca un evidente <strong>anello nero</strong> che avvolge quasi del tutto la base, mentre la pinna caudale ha il margine orlato di nero. </p>\n<p>A un occhio inesperto può sembrare il sarago maggiore (<em>Diplodus sargus</em>) o il sarago fasciato (<em>Diplodus vulgaris</em>). Ma il maggiore ha la fronte bombata, convessa, non incavata; il fasciato, invece, ha una grossa e inconfondibile banda scura a forma di collare dietro la testa. </p>\n<p>L&#39;Italia marinara lo ha ribattezzato in mille modi, specchio delle nostre tradizioni: in Liguria lo chiamano <strong>Testoneigra</strong> per il colore scuro che assume la testa negli adulti, in Toscana è lo <strong>Spizzo</strong>, nel Lazio diventa <strong>Sbarrone</strong> o <strong>Sacristanu</strong>. Se scendi in Campania chiedi del <strong>Varriale</strong> o <strong>Sarucu</strong>, in Puglia della <strong>Cazzita</strong>, in Calabria del <strong>Varancoddu</strong>, mentre in Sicilia ha nomi geniali come <strong>Puntaloru</strong> (per il muso a punteruolo) o <strong>Suca</strong>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>Il nostro pizzuto è un cittadino del mondo: lo trovi in tutto il <strong>Mar Mediterraneo</strong>, nel Mar Nero e persino nell&#39;Atlantico orientale (dalla Spagna fino alla Sierra Leone e giù fino al Sudafrica). È un pesce <strong>bentopelagico</strong>, il che significa che vive legato al fondo ma nuota spavaldo nella colonna d&#39;acqua. Si spinge fino a 150 metri, anche se adora stare nell&#39;acqua bassa, tra lo zero e i 60 metri di profondità.</p>\n<p>Da giovane ama la confusione: forma allegri branchi nelle lagune, negli estuari e tra le praterie sottomarine di <em>Posidonia</em>. Crescendo diventa un po&#39; l&#39;orso del mare. Gli adulti preferiscono la solitudine o formano piccoli gruppetti passeggeri, nuotando instancabilmente tra le scogliere e proprio lì, nella violenta zona di risacca, dove l&#39;onda sbatte e frange le rocce. </p>\n<p>A tavola è un <strong>onnivoro</strong> formidabile. Divora crostacei, piccoli calamari, vermi e molluschi, ma ha una sfrenata passione per le alghe e i vegetali (in certe zone, come nel Golfo di Gabès, le piante sono il 90% della sua dieta!). Madre natura, infatti, gli ha donato un intestino più lungo rispetto ai parenti carnivori per digerire bene tutta questa &quot;verdura&quot;. È un tipo mattiniero: caccia e si nutre in modo attivissimo quasi solo di giorno.</p>\n<p>La riproduzione avviene in autunno, tra settembre e novembre. E qui c&#39;è la magia: il pizzuto è <strong>ermafrodita proterandrico</strong> (la maggior parte degli individui nasce maschio e, crescendo, si trasforma in femmina). </p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Per i pescatori sportivi è un avversario di prim&#39;ordine. Si pesca da moli e scogliere con la <strong>canna bolognese</strong> lunga dai 5 ai 7 metri, innescando gamberetti o pezzetti di mollusco. I vecchi pescatori sanno che il momento magico è durante le mareggiate o in fase di &quot;scaduta&quot; (quando il moto ondoso diminuisce), perché le onde che sbattono scavano il fondo e alzano una nuvola di cibo naturale. I pescatori in apnea, invece, lo insidiano all&#39;agguato sfruttando le prime ore dell&#39;alba o il tramonto.</p>\n<p>Sul suo valore commerciale le marinerie e le fonti litigano allegramente: alcuni lo snobbano, considerandolo meno pregiato del sarago maggiore per la consistenza delle sue carni (e per le molte lische), mentre altri lo ritengono eccellente e ricercatissimo. Questione di gusti (o di chi sta ai fornelli)!</p>\n<p>L&#39;uomo lo alleva anche in acquacoltura. Cresce in fretta e gradisce persino insilati a base di polpa di agrumi mescolati al mangime. Però è un pesce che si stressa facilmente in gabbia, dove soffre per l&#39;aggressività tra simili e per i parassiti, motivo per cui la produzione commerciale è ancora di nicchia.</p>\n<p>Per fortuna, la specie sta benissimo: il suo stato di conservazione globale è a <strong>Rischio Minimo (LC)</strong>, in quanto molto abbondante.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Per valutarne la freschezza al banco, il pizzuto ti offre un trucco infallibile, da vecchio lupo di mare: <strong>le bande verticali sui fianchi restano particolarmente marcate e visibili anche a qualche ora dalla morte</strong>. Se lo vedi bello zebrato e contrastato sul ghiaccio, sei a cavallo. </p>\n<p>Le sue carni sono sode, mediamente grasse e saporite. Come si prepara? Se è grosso, la morte sua è alla griglia, condito generosamente con un salmoriglio (olio, aglio, prezzemolo e limone). </p>\n<p>Se vuoi portarlo in cucina come un vero chef mediterraneo, le preparazioni regine sono due. Il classico <strong>Sarago in padella</strong>: pulisci la pancia, la riempi con aglio, rosmarino fresco e pepe, poi lo scotti in olio d&#39;oliva sfumando col vino bianco e aggiungendo olive taggiasche, capperi e pomodorini. L&#39;alternativa infallibile è il <strong>Sarago al forno alla Mediterranea</strong>, adagiato in teglia con un trito di erbe miste profumate e un bel giro d&#39;olio buono. </p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<p>• <strong>Terrore dalle corde:</strong> Nel Mare Adriatico croato si usa una tecnica di pesca tradizionale e specializzata, detta pesca &quot;tramata&quot;. Usano enormi corde, lunghe fino a 4 chilometri e addobbate con striscioline di plastica colorata o piastre di legno. Tirando le corde verso la riva, queste creano un forte effetto visivo e vibrazioni paurose che terrorizzano i pizzuti (pesci molto sensibili), spingendoli a radunarsi in piccoli specchi d&#39;acqua costieri dove vengono poi catturati.\n• <strong>Il dottore del mare:</strong> Da giovanissimi, i saraghi pizzuti non disdegnano il mestiere di &quot;pesce pulitore&quot;. Si avvicinano ad altri pesci per mangiare i fastidiosi parassiti attaccati alla loro pelle!\n• <strong>L&#39;assaggiatore di lumache aliene:</strong> Nel Mar Nero meridionale, per adattarsi, gli adulti di pizzuto hanno imparato a nutrirsi delle uova della <em>Rapana venosa</em>, un grosso e famelico mollusco asiatico invasivo. \n• <strong>Il paradosso della legge europea:</strong> L&#39;Unione Europea permette ai pescatori di trattenere i pizzuti che abbiano raggiunto i <strong>18 centimetri</strong>. Eppure, biologicamente, questo pesce diventa maturo e capace di riprodursi solo quando arriva a 21-22 centimetri. In pratica, è legalmente consentito pescare individui giovanissimi che non hanno ancora avuto la possibilità di fare figli nemmeno una volta!</p>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_primo-piano-habitat_2026-07-23T21-59-28.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_primo-piano-habitat_2026-07-23T21-59-28.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_habitat-largo_2026-07-23T22-00-55.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_sociale_2026-07-23T22-21-18.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_dettaglio-hd_2026-07-23T23-29-39.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-pizzuto/chatgpt_azione_2026-07-24T07-00-06.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-03T07:42:38.497Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; benthopelagic; depth 0-150 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-08-03T07:42:39.263Z"
+  }
+}
