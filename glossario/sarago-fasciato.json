@@ -29,7 +29,7 @@
   ],
   "regioniText": "Diffuso in tutto il bacino del Mar Mediterraneo e nell'Atlantico orientale. In Italia è storicamente più comune lungo le coste meridionali e in Sicilia (es. Stretto di Sicilia), mentre è tradizionalmente raro o assente in Adriatico, Mar Ligure e alto Tirreno. Recenti fenomeni di tropicalizzazione e riscaldamento delle acque hanno tuttavia favorito un'espansione stabile della specie anche nei mari più settentrionali, come il Mar Ligure, l'Arcipelago Toscano e il Tirreno continentale.",
   "iucnStatus": "LC (Least Concern - Rischio minimo). A livello globale la specie non è considerata a rischio, ma su scala locale lo stock può risultare sovrasfruttato (overfishing) a causa del notevole prelievo antropico, della biologia riproduttiva lenta e della vulnerabilità delle femmine e dei giovanili.",
-  "fishingRequirements": "Nelle fonti fornite non vengono riportate misure minime legali specifiche per l'Italia né l'esistenza di un fermo biologico nazionale per questa specie. Per la salvaguardia dello stock, studi scientifici raccomandano la protezione tramite Aree Marine Protette (AMP). (A titolo comparativo, le normative indicano una misura minima di 20 cm nelle Canarie e 15 cm in Portogallo).",
+  "fishingRequirements": "In Italia il sarago faraone non ha una misura minima legale specifica né un fermo biologico nazionale dedicato. Per la salvaguardia dello stock la protezione passa soprattutto dalle Aree Marine Protette. Altrove nel suo areale la misura minima è fissata a 20 cm alle Canarie e a 15 cm in Portogallo: sotto i 20-25 cm, quindi, conviene rimetterlo in acqua anche dove nessuna norma te lo impone.",
   "badges": {
     "protected": false,
     "alien": null,
@@ -46,7 +46,7 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_azione_2026-07-26T12-02-24.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-08-05T16:46:30.791Z",
+  "publishedAt": "2026-08-05T16:48:29.408Z",
   "classification": {
     "zones": [
       "costa"
