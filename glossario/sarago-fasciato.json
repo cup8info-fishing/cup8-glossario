@@ -1,0 +1,64 @@
+{
+  "id": "sarago-fasciato",
+  "name": "Sarago faraone",
+  "scientificName": "Diplodus cervinus",
+  "family": "Sparidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il sarago faraone è la specie più grande del genere *Diplodus*; ha un inconfondibile corpo alto, ovale e compresso, ornato da una brillante livrea argenteo-dorata su cui spiccano 5 o 6 grosse bande verticali bruno-nerastre che arrivano quasi al ventre e una banda scura che attraversa l'occhio. È provvisto di labbra grosse e carnose e di una potente dentatura eterodonte ideale per frantumare i gusci delle prede. Si tratta di un pesce ermafrodita proteroginico (nasce femmina e da anziano diventa maschio), dal comportamento tendenzialmente solitario in età adulta o che forma piccoli harem durante la riproduzione.",
+  "habits": "* Pesca sportiva da costa o natante (a galleggiante e a fondo): utilizzando palamiti e lenze. Tra le esche migliori si suggerisce la polpa di gambero, ma è insidiabile anche con altre esche naturali o sarde. * Pesca in apnea / subacquea: spesso praticata all'aspetto o in tana; i pescatori subacquei riferiscono che per far avvicinare gli esemplari sospettosi può bastare il sollevamento della sabbia del fondale generato dal movimento delle pinne. * Piccola pesca artigianale e professionale: le catture avvengono occasionalmente tramite l'utilizzo di nasse, reti da posta, tramagli e palangari di fondo.",
+  "habitat": "Specie bentopelagica fortemente specializzata che predilige substrati rocciosi costieri ricchi di anfratti, grotte, macroalghe o coralligeno, posizionandosi tipicamente tra i 30 e gli 80 metri di profondità. Può scendere eccezionalmente fino a 200-300 metri su fondi fangosi o sabbiosi, mentre i giovani frequentano le aree di *nursery* in acque molto basse (0,5-8 metri).",
+  "diet": "Specie onnivora con spiccata dominanza carnivora (macrobentivora). Si nutre di crostacei (decapodi, anfipodi, isopodi), molluschi (gasteropodi e bivalvi), policheti, echinodermi e alghe marine. Svolge il ruolo ecologico di predatore chiave frantumando e consumando ricci di mare, controllandone così le popolazioni.",
+  "size": {
+    "min": 35,
+    "max": 55
+  },
+  "averageSize": "Intorno ai 35 cm.",
+  "weight": {
+    "min": 0,
+    "max": 5
+  },
+  "pesoText": "Scientificamente registrato fino a 2,7 kg (o 2,74 kg), con rari esemplari eccezionali segnalati nella pesca subacquea che sfiorano i 5 kg.",
+  "maxAge": "Specie notevolmente longeva, con stime che indicano un'età massima di 17 anni nella maggior parte del suo areale, fino ad arrivare a stime di 18,9 - 24,7 anni (circa 25 anni) in specifici studi di accrescimento sulle popolazioni insulari.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Mar Ligure",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Diffuso in tutto il bacino del Mar Mediterraneo e nell'Atlantico orientale. In Italia è storicamente più comune lungo le coste meridionali e in Sicilia (es. Stretto di Sicilia), mentre è tradizionalmente raro o assente in Adriatico, Mar Ligure e alto Tirreno. Recenti fenomeni di tropicalizzazione e riscaldamento delle acque hanno tuttavia favorito un'espansione stabile della specie anche nei mari più settentrionali, come il Mar Ligure, l'Arcipelago Toscano e il Tirreno continentale.",
+  "iucnStatus": "LC (Least Concern - Rischio minimo). A livello globale la specie non è considerata a rischio, ma su scala locale lo stock può risultare sovrasfruttato (overfishing) a causa del notevole prelievo antropico, della biologia riproduttiva lenta e della vulnerabilità delle femmine e dei giovanili.",
+  "fishingRequirements": "Nelle fonti fornite non vengono riportate misure minime legali specifiche per l'Italia né l'esistenza di un fermo biologico nazionale per questa specie. Per la salvaguardia dello stock, studi scientifici raccomandano la protezione tramite Aree Marine Protette (AMP). (A titolo comparativo, le normative indicano una misura minima di 20 cm nelle Canarie e 15 cm in Portogallo).",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina un pesce che indossa un abito a strisce così maestoso da ricordare le vesti dei sovrani dell&#39;antico Egitto. Parliamo del sarago faraone, il cui nome scientifico è <em>Diplodus cervinus</em>, un fiero e imponente rappresentante della famiglia degli <strong>Sparidi</strong>. </p>\n<p>È il gigante indiscusso dei saraghi mediterranei. Se i suoi cugini si accontentano di taglie modeste, lui viaggia su una media di <strong>35 cm</strong>, ma i veri patriarchi della specie possono raggiungere i <strong>55 cm</strong> di lunghezza e sfiorare i <strong>3-5 kg</strong> di peso. </p>\n<p>Un vero e proprio matusalemme degli abissi: sulla sua longevità le stime litigano un po&#39;, c&#39;è chi dice che viva al massimo 17 anni e chi giura arrivi a sfiorare i 25. Probabilmente dipende dalle zone e da quanto è bravo a evitare le reti! </p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Incontrare un sarago faraone sott&#39;acqua è un&#39;emozione, e riconoscerlo è facilissimo. Ha un corpo alto, ovale e schiacciato sui fianchi. La sua inconfondibile livrea <strong>argenteo-dorata</strong> è attraversata da <strong>5 o 6 larghe bande verticali</strong> molto scure (brune o nerastre) che scendono giù fin quasi alla pancia, più una banda scura che gli attraversa l&#39;occhio come una maschera e il muso appuntito con la punta scura. La bocca è un&#39;altra firma d&#39;autore: è dotata di <strong>labbra grosse e molto carnose</strong>. Le pinne pettorali sono lunghe e appuntite, e quelle ventrali tendono al nerastro.</p>\n<p>Attenzione a non fare confusione con i parenti stretti:</p>\n<ul>\n<li>Il <strong>sarago maggiore</strong> (<em>Diplodus sargus</em>) ha labbra molto più sottili, una macchia nera a forma di sella sul peduncolo caudale — cioè la base della coda — e indossa un &quot;vestito&quot; gessato con 5 strisce sottili alternate a 4 grigie.</li>\n<li>Il <strong>sarago pizzuto</strong> (<em>Diplodus puntazzo</em>) ha anch&#39;esso delle strisce, ma ha un muso molto più a punta, quasi a becco.</li>\n</ul>\n<p>Girando per i porti italiani sentirai chiamarlo in mille modi: a Livorno è il prestigioso <strong>&quot;Sarago reale&quot;</strong>, a Trapani lo chiamano <strong>&quot;Sarraco faraone&quot;</strong>, se scendi a Porto Empedocle diventa il <strong>&quot;Fànfaru&quot;</strong>, mentre a Bari o a Taranto si riassume in <strong>&quot;Sarge&quot;</strong> o <strong>&quot;Sparo&quot;</strong>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un tipo esigente che non ama la banalità. Predilige i <strong>fondali rocciosi costieri</strong> ricchi di grotte, anfratti e praterie di macroalghe, snobbando i fondali sabbiosi piatti. Di solito bazzica a profondità comprese tra i <strong>30 e gli 80 metri</strong>, anche se qualche esploratore solitario si spinge fino a 200-300 metri. Storicamente era un pesce del sud, comunissimo in Nord Africa e Sicilia, ma con il riscaldamento globale ha fatto le valigie verso nord, colonizzando stabilmente anche il Mar Ligure e l&#39;Arcipelago Toscano.</p>\n<p>A tavola è un onnivoro con una fortissima passione per la &quot;carne&quot;: mangia crostacei, molluschi, vermi marini e alghe, ma la sua vera specialità sono i ricci di mare. Da adulto è un tipo tendenzialmente <strong>solitario</strong>, ma durante la riproduzione (che avviene tra la primavera e l&#39;estate) forma dei piccoli <strong>harem</strong>: un maschio dominante se ne va in giro circondato da un gruppetto di femmine.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>È una preda nobile e ambitissima, sia per la rarità che per la mole. Viene insidiato dalla <strong>piccola pesca artigianale</strong> con nasse, tramagli e palangari di fondo, e dai <strong>pescatori sportivi</strong> con canna da riva o dalla barca, innescando bocconi prelibati come la polpa di gambero. La verità scomoda è che noi pescatori ricreativi preleviamo quasi dieci volte di più rispetto alla flotta commerciale, rendendo la pressione su questa specie altissima.</p>\n<p>A livello globale l&#39;Unione Internazionale per la Conservazione della Natura (IUCN) lo classifica a <strong>&quot;Rischio minimo&quot;</strong> (LC), ma a livello locale le popolazioni sono spesso <strong>sovrasfruttate</strong>, con troppi giovani catturati prima di potersi riprodurre. Hanno provato anche ad allevarlo in acquacoltura per ripopolare il mare, ma è un pesce difficile: cresce lentamente, si stressa facilmente in cattività e richiede mangimi con troppe proteine.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Sui banchi del pesce è un incontro fortunato. Per assicurarti che sia freschissimo, guarda che il corpo sia <strong>lucido e d&#39;argento vivo</strong>, quasi rigido e inarcato. Le squame devono essere ben pettinate e salde alla pelle, le branchie di un bel rosso porpora e l&#39;occhio turgido, trasparente, mai infossato.</p>\n<p>Le carni sono bianche, sode, compatte e <strong>molto sapide</strong> (grazie alla sua dieta a base di crostacei e ricci). </p>\n<p><em>Il consiglio del pescatore:</em> se appena lo metti in padella o in forno senti un <strong>odore intenso e sgradevole</strong>, non buttare via niente e non disperare! È un fenomeno normalissimo legato a certe alghe o vermi che mangia in natura: l&#39;esalazione svanisce completamente dopo i primissimi minuti di calore e la polpa sarà dolce e perfetta.</p>\n<p>Tre preparazioni classiche per onorarlo:</p>\n<ul>\n<li><strong>Allo spiedo (tradizione toscana):</strong> Riempi la pancia del faraone con una fetta di prosciutto toscano saporito e un rametto di rosmarino. Infilzalo sullo spiedo alternandolo con fette di pane casereccio e foglie di salvia, cuocendolo alla brace e spennellandolo con olio, sale e limone.</li>\n<li><strong>All&#39;Acqua Pazza (tradizione campana):</strong> Cotto intero in una padella larga con olio, aglio dorato, capperi, olive nere (magari di Gaeta) e, dopo aver sfumato con vino bianco, una manciata di pomodorini.</li>\n<li><strong>Sargo Breado al Horno (stile canario):</strong> Pesce intero inciso sul dorso per infilare aglio e limone, adagiato su un letto di patate, cipolle e peperoni a fettine, irrorato con vino bianco.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Cambio di sesso in corsa:</strong> Il sarago faraone è un ermafrodita proteroginico. Significa che nasce e cresce come femmina, ma una volta raggiunta una certa taglia e la veneranda età di circa 5 anni, si trasforma in maschio per mettere su il proprio harem.</li>\n<li><strong>Una dentiera implacabile:</strong> Ha una dentatura eterodonte potentissima, dotata di incisivi taglianti e file di robusti molari posteriori. È uno dei pochi pesci in grado di frantumare senza sforzo l&#39;esoscheletro calcareo dei ricci di mare, facendo da &quot;spazzino&quot; ed evitando che i ricci distruggano le praterie di alghe.</li>\n<li><strong>Il trucco della sabbia:</strong> I pescatori in apnea sanno che il faraone è un pesce sospettosissimo. Ma ha un punto debole: è un curiosone in cerca di prede. Spesso basta sollevare un po&#39; di sabbia dal fondale sbattendo le pinne per farlo avvicinare magicamente, convinto che ci sia un pasto facile da scovare.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_primo-piano-habitat_2026-07-26T11-54-22.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_primo-piano-habitat_2026-07-26T11-54-22.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_habitat-largo_2026-07-26T11-21-00.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_dettaglio-hd_2026-07-26T11-47-04.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_sociale_2026-07-26T11-47-06.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_azione_2026-07-26T12-02-24.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-05T16:46:30.791Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; reef-associated; depth 30-300 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-08-05T16:46:31.586Z"
+  }
+}

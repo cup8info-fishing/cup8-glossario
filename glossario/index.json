@@ -248,6 +248,14 @@
     "publishedAt": "2026-07-09T06:50:40.655Z"
   },
   {
+    "id": "sarago-fasciato",
+    "name": "Sarago faraone",
+    "scientificName": "Diplodus cervinus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-fasciato/chatgpt_primo-piano-habitat_2026-07-26T11-54-22.webp",
+    "publishedAt": "2026-08-05T16:46:30.791Z"
+  },
+  {
     "id": "sarago-maggiore",
     "name": "Sarago maggiore",
     "scientificName": "Diplodus sargus",
