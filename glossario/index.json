@@ -184,6 +184,14 @@
     "publishedAt": "2026-07-01T12:41:24.528Z"
   },
   {
+    "id": "pesce-balestra",
+    "name": "Pesce balestra",
+    "scientificName": "Balistes capriscus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-balestra/chatgpt_primo-piano-habitat_2026-07-25T16-51-07.webp",
+    "publishedAt": "2026-08-06T08:20:51.783Z"
+  },
+  {
     "id": "pesce-luna",
     "name": "Pesce luna",
     "scientificName": "Mola mola",
