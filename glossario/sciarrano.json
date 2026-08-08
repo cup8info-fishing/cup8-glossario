@@ -1,0 +1,63 @@
+{
+  "id": "sciarrano",
+  "name": "Sciarrano",
+  "scientificName": "Serranus scriba",
+  "family": "Serranidae",
+  "category": "pesce_vertebrato",
+  "description": "Lo Sciarrano è un pesce **ermafrodita sincrono** (sviluppa contemporaneamente gonadi maschili e femminili). È facilmente riconoscibile dal corpo tozzo con 5-7 bande verticali scure, la vistosa macchia azzurro-violacea sul ventre e il capo ornato da un intricato disegno di linee blu e rosse che ricorda i caratteri della scrittura araba (da cui il nome *scriba*). Specie solitaria, molto territoriale e curiosa, funge spesso da \"sentinella\" per i polpi: staziona immobile nei pressi delle loro tane per nutrirsi opportunitisticamente degli scarti di cibo lasciati dai cefalopodi in un rapporto di commensalismo.",
+  "habits": "* **Pesca a fondo:** praticata sia dalla barca (bolentino) che direttamente dagli scogli, utilizzando esche naturali come vermi, pezzi di calamaro, paguri o granchietti. * **Lenze a mano e palangari:** per le quali si consiglia l'uso di fili in nylon resistenti (es. 0,20 mm) per evitare che i suoi denti affilati taglino i terminali, preferibilmente abbinati ad ami grandi e senza ardiglione per ridurre le ferite (pratica del catch and release). * **Pesca in apnea:** risulta molto facile per via dell'indole fiera e spiccatamente territoriale del pesce, che non teme il subacqueo e si lascia avvicinare (motivo per cui da alcuni \"puristi\" è considerata una preda poco sportiva). * **Pesca professionale e artigianale:** le catture avvengono frequentemente come specie accessoria (by-catch) mediante l'utilizzo di reti da posta (tramagli) e nasse.",
+  "habitat": "Popola prevalentemente fondali costieri rocciosi e bioconcrezionati (ricchi di alghe e anfratti) e le praterie di *Posidonia oceanica*, spingendosi occasionalmente in substrati misti di sabbia e fango. La profondità tipica in cui vive varia dai 5 ai 30 metri, sebbene raramente possa essere rinvenuto fino a 150-200 metri.",
+  "diet": "È un predatore carnivoro all'agguato. La sua dieta si basa su crostacei bentonici (decapodi e isopodi), piccoli pesci (latterini, ghiozzi, piccoli labridi), molluschi cefalopodi e bivalvi, nonché vermi policheti.",
+  "size": {
+    "min": 15,
+    "max": 36
+  },
+  "averageSize": "Tra i 15 e i 25 cm.",
+  "weight": {
+    "min": 0,
+    "max": 456.7
+  },
+  "pesoText": "Circa 0,45 kg (il record documentato è di 456,7 g).",
+  "maxAge": "16 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "È diffuso nel Mar Mediterraneo (comunissimo in Italia nel Tirreno, Ionio, Adriatico e Stretto di Messina), nel Mar Nero e nell'Oceano Atlantico orientale (dal Golfo di Biscaglia fino al Senegal e alla Mauritania, incluse le isole Canarie, Azzorre, Madera e Capo Verde).",
+  "iucnStatus": "LC (Least Concern - Rischio minimo). Le popolazioni sono stabili a livello globale, anche se a livello locale (come in Mar Nero o alle Canarie) subisce la pressione della pesca costiera e il degrado ambientale.",
+  "fishingRequirements": "Non è prevista alcuna taglia minima legale per la pesca e la commercializzazione secondo la regolamentazione italiana ed europea; non è soggetto a specifici periodi di fermo biologico.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate un pesce che porta scritte in arabo sul muso, che è maschio e femmina nello stesso momento e che fa la spia per i polpi. Parliamo dello Sciarrano, battezzato dalla scienza <em>Serranus scriba</em>, un piccolo ma agguerrito predatore costiero che appartiene alla nobile famiglia dei Serranidae, la stessa delle grandi e maestose cernie. </p>\n<p>Rispetto alle sue cugine giganti, lo Sciarrano ha dimensioni decisamente più contenute: in genere lo incontriamo tra i <strong>15 e i 25 centimetri</strong>, anche se qualche esemplare da record, magari il &quot;nonno&quot; della scogliera, è arrivato a toccare i 36 centimetri per quasi mezzo chilo di peso. E a proposito di nonni, la sua longevità è sorprendente per un pesce così piccolo, potendo vivere fino a <strong>16 anni</strong>.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Se lo incontrate sott&#39;acqua, lo Sciarrano si fa notare. Ha un <strong>corpo ovale e un po&#39; tozzo</strong>, compresso sui lati, con un muso a punta e una bocca decisamente grande, armata non solo di dentini ma anche di veri e propri &quot;canini&quot; aguzzi. Il suo mantello è un capolavoro di mimetismo e colore: il dorso va dal rossiccio al bruno, attraversato da <strong>5-7 bande verticali scure</strong> che si sdoppiano verso il basso. Ma la sua vera firma d&#39;autore sono due: la <strong>vistosa macchia azzurro-violacea sul ventre</strong> e, soprattutto, quel meraviglioso e intricato labirinto di <strong>linee azzurre e rosse sulla testa</strong> che ricorda i caratteri della scrittura araba o ebraica (da cui il nome <em>scriba</em>). Le pinne pettorali e ventrali sono gialle, e la coda ha un margine dritto o appena arrotondato.</p>\n<p>Potreste confonderlo facilmente con due parenti stretti: la Perchia (<em>Serranus cabrilla</em>) e il Sacchetto (<em>Serranus hepatus</em>). Per non farvi ingannare, guardate il corpo: la Perchia è più affusolata, ha due evidenti strisce orizzontali (una attraversa l&#39;occhio) e le manca sia la macchia blu sul ventre sia la &quot;scrittura&quot; sul muso. Il Sacchetto, invece, è ancora più tozzo e si riconosce al volo per una netta macchia nera al centro della pinna dorsale, che lo Sciarrano non possiede. </p>\n<p>Essendo frequentatore di tutte le nostre coste, i pescatori gli hanno affibbiato decine di <strong>nomi dialettali</strong>. A Genova lo chiamano Luxerna, a Livorno Boccaccia, a Civitavecchia e a Napoli Perchia (generando non poca confusione con l&#39;altra specie!), in Calabria Buddaci o Vuddaci, a Taranto Ganala o Cannusu, a Venezia Donzela o Sperga, e in Sicilia Precchia o Pisu.</p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>È un pesce di casa nostra: popola in abbondanza il <strong>Mediterraneo</strong>, il Mar Nero e l&#39;Atlantico orientale (dal Golfo di Biscaglia al Senegal). Ama l&#39;acqua bassa, stabilendosi di solito <strong>tra i 5 e i 30 metri di profondità</strong>, sebbene qualche avventuriero si spinga fino a 150-200 metri. I suoi &quot;quartieri&quot; preferiti sono i <strong>fondali rocciosi ricchi di anfratti e le praterie di <em>Posidonia oceanica</em></strong>. </p>\n<p>Lo Sciarrano è un cacciatore solitario, fieramente territoriale e con abitudini diurne, particolarmente attivo all&#39;alba e al tramonto. Applica la tecnica dell&#39;agguato (&quot;sit and wait&quot;): sta immobile mimetizzato sul fondo e, appena individua una preda, fa uno scatto fulmineo. Si nutre con voracità di <strong>crostacei (granchi e gamberi), piccoli pesci (come ghiozzi, latterini e giovani labridi), molluschi e vermi</strong>. </p>\n<p>Curiosissima la sua vita amorosa: è un <strong>ermafrodita sincrono</strong>, ovvero sviluppa sia le gonadi maschili che quelle femminili contemporaneamente. Si riproduce in primavera ed estate (maggio-agosto), ma sulle età della prima maturità sessuale le fonti litigano: chi dice che siano pronti già a 1-2 anni, chi invece sostiene che debbano aspettare il quarto anno di vita. Probabilmente dipende da dove vivono e dalla pressione di pesca.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Commercialmente parliamo di un pesce &quot;povero&quot;, catturato come preda accessoria (by-catch) dai pescatori artigianali con <strong>tramagli, reti da posta e nasse</strong>, o pescato a bolentino dagli sportivi con lenze innescate a vermi o pezzetti di calamaro. A livello sportivo, per chi pratica la <strong>pesca in apnea</strong>, è un bersaglio quasi banale: essendo molto curioso e sfrontato nel difendere il suo territorio, non fugge davanti al subacqueo, motivo per cui i &quot;puristi&quot; della fiocina lo snobbano, considerandolo una preda troppo facile e poco sportiva.</p>\n<p>Lo stato di conservazione globale lo classifica a <strong>Rischio Minimo (Least Concern)</strong>. Tuttavia, la continua pressione della pesca sportiva costiera potrebbe minacciarlo a livello locale, tanto che in luoghi come le Isole Canarie è tenuto sotto stretta osservazione. E se vi venisse voglia di metterlo in acquario, rassegnatevi: è aggressivo, sbrana qualsiasi coinquilino più piccolo e richiede acqua refrigerata, altrimenti si stressa e si ammala.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le sue carni sono <strong>magre, bianche, sode e digeribilissime</strong>, ricche di proteine, omega-3 e sali minerali. Per valutarne la freschezza al banco, c&#39;è un trucco infallibile da pescatore: <strong>osservate la macchia azzurro-violacea sul ventre</strong>. Negli esemplari freschissimi è brillante, ma sbiadisce e scompare quasi del tutto poco dopo la morte.</p>\n<p>Il consiglio d&#39;oro prima di metterlo in padella è armarsi di pazienza: ha squame piccolissime, sottili e taglienti che vanno raschiate via con cura maniacale, altrimenti vi ritroverete una sgradevole &quot;sabbiolina&quot; nel piatto. E siccome ha molte lische, le preparazioni ideali sono due. La prima è la <strong>zuppa di pesce</strong>: a Livorno (dove lo chiamano Boccaccia) è uno dei pesci di scoglio obbligatori e certificati per il vero <strong>Cacciucco 5C</strong>, perché le sue teste e le lische, ricche di collagene, vengono passate al passaverdure regalando un brodo denso e saporitissimo. La seconda è la frittura: nel <strong>fritto misto</strong> di paranza, l&#39;olio bollente rende le sue spinette croccanti ed edibili. Se trovate esemplari più grandicelli, sfilettateli per condire una golosa pasta (come le <strong>Mezzemaniche con perchie</strong> e pomodorini) oppure cuoceteli interi <strong>al cartoccio</strong> con olive, aglio e rosmarino per mantenere la carne succosa.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>La spia del polpo:</strong> Pescatori e subacquei lo sanno bene. Se vedete uno Sciarrano immobile che fissa un anfratto, preparatevi: lì dentro c&#39;è un polpo! Lo Sciarrano infatti fa da &quot;sentinella&quot; opportunista, aspettando fuori dalla tana del cefalopode per rubargli i rimasugli di conchiglie e granchi sminuzzati.</li>\n<li><strong>Chi imbroglia in amore viene scaricato:</strong> Durante l&#39;accoppiamento, che avviene al tramonto, la coppia fa letteralmente a turno (&quot;egg trading&quot;). Uno fa la femmina e rilascia un pacchetto di uova, l&#39;altro fa il maschio e le feconda; poi si scambiano i ruoli. Se però uno dei due fa il furbo (il &quot;cheater&quot;) e si rifiuta di rilasciare le uova quando è il suo turno, il partner interrompe immediatamente il corteggiamento e se ne va indignato.</li>\n<li><strong>L&#39;inganno delle prede:</strong> I piccoli labridi (come il tordo ocellato) sanno di essere nel suo menù. Quando vedono arrivare uno Sciarrano, si mettono di traverso e rizzano al massimo le pinne dorsali e ventrali. Così facendo sembrano improvvisamente più &quot;larghi&quot; e lo Sciarrano, avendo una bocca limitata, rinuncia a inghiottirli.</li>\n<li><strong>Stazione di pulizia:</strong> Nonostante la sua indole aggressiva, in alcune occasioni lo Sciarrano si mette in verticale, a testa in giù, sospendendo ogni ostilità per farsi ripulire dai parassiti proprio dai piccoli labridi che di solito mangerebbe.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_primo-piano-habitat_2026-07-22T16-36-24.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_primo-piano-habitat_2026-07-22T16-36-24.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_habitat-largo_2026-07-22T14-33-09.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_sociale_2026-07-22T15-10-41.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_dettaglio-hd_2026-07-22T15-10-43.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_azione_2026-07-22T15-53-52.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-08T16:13:14.761Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 5-150 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-08-08T16:13:15.504Z"
+  }
+}

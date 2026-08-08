@@ -296,6 +296,14 @@
     "publishedAt": "2026-07-21T19:32:52.659Z"
   },
   {
+    "id": "sciarrano",
+    "name": "Sciarrano",
+    "scientificName": "Serranus scriba",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sciarrano/chatgpt_primo-piano-habitat_2026-07-22T16-36-24.webp",
+    "publishedAt": "2026-08-08T16:13:14.761Z"
+  },
+  {
     "id": "scorfano-rosso",
     "name": "Scorfano rosso",
     "scientificName": "Scorpaena scrofa",
