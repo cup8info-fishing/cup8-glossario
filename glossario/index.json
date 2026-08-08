@@ -96,6 +96,14 @@
     "publishedAt": "2026-07-01T00:20:18.198Z"
   },
   {
+    "id": "leccia",
+    "name": "Leccia",
+    "scientificName": "Lichia amia",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_primo-piano-habitat_2026-07-22T19-03-55.webp",
+    "publishedAt": "2026-08-08T09:15:16.534Z"
+  },
+  {
     "id": "luccio-europeo",
     "name": "Luccio europeo",
     "scientificName": "Esox lucius",

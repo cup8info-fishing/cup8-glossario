@@ -1,0 +1,66 @@
+{
+  "id": "leccia",
+  "name": "Leccia",
+  "scientificName": "Lichia amia",
+  "family": "Carangidae (sottofamiglia Trachinotinae).",
+  "category": "pesce_vertebrato",
+  "description": "La Leccia è un predatore possente, aerodinamico e muscoloso, riconoscibile per il corpo molto compresso lateralmente color argenteo-verde e per una distintiva linea laterale nera che compie una sinuosa curva a forma di \"U\" lungo i fianchi. È un cacciatore veloce che sfrutta spesso l'acqua torbida dei canali per lanciare \"cacciate\" esplosive a galla; per tenacia e forza è considerata un vero e proprio trofeo dai pescatori sportivi.",
+  "habits": "* Traina col vivo: considerata la tecnica più efficace per gli esemplari record; si innescano pesci vivi come cefali, aguglie o sugarelli trainandoli lentamente (1-2 nodi). * Spinning: molto emozionante perché mira ad attacchi visivi a galla (topwater); vengono utilizzati grandi artificiali come popper, WTD (walking the dog) e long jerk, animati con rapidità per imitare foraggio in fuga. * Drifting: tecnica con barca ancorata o in deriva vicino la costa, pasturando con costanza e impiegando filetti di sarda o esche vive calate a diverse profondità con o senza galleggiante. * Surfcasting: praticata da riva (spiagge o moli) usando robusti tranci di seppia, calamaro o cefalo, specialmente di sera o con condizioni di mare mosso che mascherano le insidie.",
+  "habitat": "Specie pelagico-costiera ed eurialina; vive in prossimità della costa, frequentando lagune salmastre, foci di fiumi, porti e spiagge. La profondità tipica in cui nuota e caccia va da 0 a 50 metri.",
+  "diet": "Carnivora e vorace. Gli adulti sono piscivori obbligati e cacciano principalmente cefali, aguglie, latterini e cefalopodi. I giovani sono più opportunisti e si nutrono anche di piccoli crostacei e molluschi.",
+  "size": {
+    "min": 100,
+    "max": 200
+  },
+  "averageSize": "Intorno a 100 cm.",
+  "weight": {
+    "min": 0,
+    "max": 70
+  },
+  "pesoText": "Fino a 50 kg (alcune registrazioni citano potenziali pesi massimi di 50-70 kg).",
+  "maxAge": "Può superare i 20 anni di età.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Diffusa in tutto il Mar Mediterraneo (inclusi Tirreno, Adriatico, Ionio, Ligure e mari di isole come Sardegna e Sicilia), nell'Atlantico orientale e nell'oceano Indiano occidentale.",
+  "iucnStatus": "LC (Least Concern - Rischio minimo). Le popolazioni globali e mediterranee sono considerate stabili senza evidenti cali strutturali, anche se alcune comunità locali (es. in Sudafrica) patiscono la sovrapesca.",
+  "fishingRequirements": "La misura minima legale in Italia per la cattura e la commercializzazione è di 60 cm. Non sono previsti periodi di fermo biologico specifici a livello nazionale italiano per questa specie, ma le normative di taglia la tutelano finché non raggiunge la maturità riproduttiva.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Se c&#39;è un pesce che merita il titolo indiscusso di regina del sottocosta, è lei. Un siluro d&#39;argento puro, un concentrato di muscoli e idrodinamica progettato per esplodere a galla e seminare il panico tra i banchi di foraggio. Non è una preda per chi pesca a caso: incrociarla significa fare i conti con un predatore che testa la resistenza dei nervi e dell&#39;attrezzatura. </p>\n<p>Parliamo della leccia, o leccia amia, il cui nome scientifico è <em>Lichia amia</em>. Appartiene alla grande e nobile famiglia dei <strong>Carangidae</strong> (sottofamiglia Trachinotinae) ed è un pesce così unico da essere l&#39;unico membro vivente del suo genere. </p>\n<p>Le sue dimensioni incutono un certo timore reverenziale. Sebbene la taglia media si aggiri intorno al metro, gli esemplari adulti da record possono raggiungere i <strong>2 metri di lunghezza</strong> e superare agilmente i <strong>50 kg di peso</strong>, con stime che sfiorano i 70 kg per i pesci più imponenti. È anche un pesce longevo, capace di superare i <strong>20 anni di età</strong> pattugliando instancabilmente le nostre coste.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Il corpo della leccia è inconfondibile: <strong>ovale, allungato e fortemente compresso lateralmente</strong>, fende l&#39;acqua come una lama. La testa presenta un muso appuntito e una bocca ampia, con la mascella inferiore leggermente sporgente. Il colore è un capolavoro di mimetismo pelagico: il dorso varia dal grigio-verdastro al blu-grigio o brunastro, mentre i fianchi e il ventre sono di un <strong>bianco argenteo brillantissimo</strong>. Le pinne, dotate di apici neri sulle punte dei lobi dorsali e anali, sono scure, e la coda è profondamente forcuta, il motore perfetto per le accelerazioni brucianti. </p>\n<p>Il segno distintivo assoluto, la sua &quot;firma&quot;, è la <strong>linea laterale nera</strong>: non è dritta, ma compie una bizzarra e sinuosissima curva a forma di &quot;U&quot; al centro dei fianchi. </p>\n<p>Attenzione a non fare confusione. I mari sono pieni di &quot;lecce&quot; che in realtà sono cugine minori o lontane. La <strong>leccia stella</strong> (<em>Trachinotus ovatus</em>) è molto più piccola, ovale e ha macchie nere sulle pinne; la <strong>leccia fasciata</strong> (<em>Campogramma vadigo</em>) presenta bande verticali scure sui fianchi; infine la <strong>leccia bastarda</strong> (<em>Trachinotus glaucus</em>) si distingue per i lobi delle pinne molto allungati e una fascia dorata longitudinale. </p>\n<p>In giro per l&#39;Italia la fantasia popolare le ha affibbiato decine di nomi: a Roma la chiamano <strong>Ombrina leccia</strong>, in Sicilia diventa <strong>Cirviola</strong> a Palermo, <strong>Cagnola</strong> a Messina o <strong>Scifaiola</strong> a Catania. Salendo a nord, a Viareggio è l&#39;<strong>Aluzzo</strong>, a Genova la <strong>Serena</strong>, mentre in Veneto la conoscono come <strong>Lissa</strong>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un pesce <strong>pelagico-costiero</strong>, un grande nuotatore che frequenta tutto il Mar Mediterraneo, l&#39;Atlantico orientale e scende fino all&#39;Oceano Indiano sudafricano. Di solito non ama gli abissi: il suo terreno di caccia ideale va dalla superficie fino a <strong>50 metri di profondità</strong>. </p>\n<p>La leccia è una specie <strong>eurialina</strong> — cioè capace di sopportare grandi sbalzi di salinità. Per questo non si limita al mare aperto, ma entra spavaldamente nelle lagune salmastre, nei porti e risale persino le foci dei fiumi per chilometri. Se i giovani si muovono in branco, gli adulti diventano cacciatori solitari o formano piccolissimi gruppi. </p>\n<p>È un carnivoro spietato e ittiofago: la sua dieta è a base di pesci costieri come <strong>cefali, aguglie, latterini e sugarelli</strong>, ma non disdegna i cefalopodi. La sua tecnica di caccia è spettacolare, fatta di inseguimenti a galla e &quot;cacciate&quot; fragorose che sollevano schiuma ed esplosioni d&#39;acqua. Dà il meglio di sé dalla primavera all&#39;autunno, avvicinandosi molto a riva specialmente all&#39;<strong>alba e al tramonto</strong>, quando la luce tenue le garantisce un vantaggio tattico sulle prede.</p>\n<p>E per quanto riguarda la riproduzione, che avviene in primavera vicino alla costa, le fonti litigano: chi dice che le uova vengono deposte sui sassi e tenute incollate con una sostanza mucillaginosa, chi invece giura che siano uova pelagiche rilasciate libere nella corrente — probabilmente dipende tutto dalle correnti e dal fondale locale!</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>La leccia è il sogno proibito di ogni pescatore sportivo, molto più che una preda commerciale. La pesca professionale la incrocia quasi per caso, catturandola con reti da posta, sciabiche o palangari, e per questo le sue popolazioni godono di buona salute: il suo <strong>stato di conservazione è classificato come LC (Rischio Minimo)</strong>. </p>\n<p>La vera sfida si gioca con la canna da pesca. Le tecniche regine sono la <strong>traina col vivo</strong>, innescando un bel cefalo o un&#39;aguglia e navigando lentissimi (1-2 nodi) per ingannare i pesci trofeo, o lo <strong>spinning</strong>, una pesca estremamente visiva fatta lanciando grosse esche artificiali <em>topwater</em> (popper o WTD, esche che zigzagano e sollevano grandi spruzzi d&#39;acqua in superficie) recuperate a scatti frenetici per simulare un pesce in fuga. Anche il <strong>drifting</strong> (pesca in deriva pasturando con le sarde) o un robusto <strong>surfcasting</strong> da spiaggia con mare mosso possono regalare allamate indimenticabili. </p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>La stagione migliore per gustarla coincide con i mesi caldi, quando si avvicina alle coste e popola le pescherie locali. È un pesce considerato di &quot;medio pregio&quot;, leggermente inferiore alla ricciola, ma se trattato bene ha carni <strong>bianche, sode, compatte e povere di grassi</strong>, con un eccellente apporto di proteine e Omega 3. </p>\n<p>Un consiglio d&#39;oro da pescatore scafato: la carne è deliziosa, ma state attenti all&#39;odore della pancia. Se l&#39;esemplare ha vissuto troppo a lungo all&#39;interno di zone portuali trafficate, i tessuti ventrali potrebbero aver assorbito il sapore degli idrocarburi, rovinando il piatto.</p>\n<p>In cucina si presta a ricette semplici che esaltano la carne soda: solitamente si taglia a tranci (o filetti, facilissimi da spinare) e la si fa <strong>al forno con patate, pomodorini, vino bianco e aromi</strong> (timo e maggiorana). È strepitosa <strong>alla griglia</strong>, spennellata con una citronette di olio, limone, prezzemolo e aglio. E se il pesce è freschissimo e abbattuto correttamente, si trasforma in un fantastico <strong>sashimi a crudo</strong>, magari impreziosito da un&#39;emulsione di frutto della passione per contrastare la dolcezza delle carni.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Un nome goloso:</strong> Il nome del genere <em>Lichia</em> deriva dal francese medievale &quot;lecha&quot;, che affonda le radici nel verbo <em>lécher</em> (leccare, o essere golosi/ingordi), termine perfetto per un predatore così vorace. <em>Amia</em> invece era il nome che gli antichi greci usavano per indicare grossi predatori marini simili agli squali.</li>\n<li><strong>Dentiera integrale:</strong> La leccia non ha i denti solo sulle mascelle. Per non farsi scappare le prede, possiede minuscoli dentini affilati e cardiformi anche sul vomere (il palato), e perfino sulla lingua!</li>\n<li><strong>La gioventù mascherata:</strong> I giovani di leccia (sotto i 12 cm) non sono d&#39;argento uniforme, ma sfoggiano un &quot;pigiama&quot; fatto di fasce verticali nero-brunastre sui fianchi, un travestimento che scompare del tutto man mano che crescono.</li>\n<li><strong>Niente squame sulla linea:</strong> La sua particolarissima linea laterale a forma di &quot;U&quot; non ha squame normali come il resto del corpo. In quel tratto specifico, la pelle si trasforma sviluppando dei piccoli scudetti ossei protettivi.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_primo-piano-habitat_2026-07-22T19-03-55.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_primo-piano-habitat_2026-07-22T19-03-55.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_sociale_2026-07-22T19-21-28.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_dettaglio-hd_2026-07-22T20-17-01.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_habitat-largo_2026-07-22T20-17-08.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/leccia/chatgpt_azione_2026-07-23T07-59-43.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-08T09:15:16.534Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; depth 0-50 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-08-08T09:15:17.309Z"
+  }
+}
