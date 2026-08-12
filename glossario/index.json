@@ -288,6 +288,14 @@
     "publishedAt": "2026-08-03T07:42:38.497Z"
   },
   {
+    "id": "sarago-sparaglione",
+    "name": "Sarago sparaglione",
+    "scientificName": "Diplodus annularis",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_primo-piano-habitat_2026-07-26T10-33-32.webp",
+    "publishedAt": "2026-08-12T05:30:02.908Z"
+  },
+  {
     "id": "sarago-testanera",
     "name": "Sarago testa nera",
     "scientificName": "Diplodus vulgaris",

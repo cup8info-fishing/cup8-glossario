@@ -1,0 +1,64 @@
+{
+  "id": "sarago-sparaglione",
+  "name": "Sarago sparaglione",
+  "scientificName": "Diplodus annularis",
+  "family": "Sparidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il sarago sparaglione è il più piccolo rappresentante del genere *Diplodus*. Si riconosce per il corpo argenteo dai riflessi giallo-dorati, le caratteristiche pinne ventrali giallo-arancio vivo e una vistosa macchia nera ad anello sul peduncolo caudale che, a differenza di specie simili, è priva di bordatura bianca. È un pesce curioso che talvolta si avvicina ai subacquei, ed è un ermafrodito proterandrico (nasce maschio per poi, in molti casi, divenire femmina nel corso della crescita).",
+  "habits": "* Pesca a galleggiante o a fondo impiegando lenze sottili e ami di piccola misura, adatti alla sua bocca. * Pesca subacquea, approfittando dell'indole curiosa del pesce che si avvicina quando viene sollevata la sabbia dal fondale. * Pesca artigianale e professionale tramite nasse, reti da posta (tramagli), palamiti di fondo, sciabichelli e lenze a mano. * Le esche naturali migliori e più utilizzate sono polpa di gambero, cozze, vermi, piccoli cefalopodi e tranci di cannolicchio (*Solen vagina*) o sarda (*Sardina pilchardus*).",
+  "habitat": "Specie bentopelagica con abitudini prettamente costiere, predilige praterie di *Posidonia oceanica* e *Zostera*, ma frequenta assiduamente anche fondali sabbiosi, fangosi e rocciosi o scogliere artificiali (porti). La profondità tipica varia da 0 a 50 metri, spingendosi eccezionalmente fino a 90 metri, e in primavera si addentra frequentemente in lagune salmastre ed estuari.",
+  "diet": "Carnivora e opportunista (con alcuni tratti di onnivoria); si ciba principalmente di vermi, crostacei, piccoli molluschi, echinodermi, nematodi, idrozoi e alghe, compiendo anche variazioni di dieta tra la fase giovanile e quella adulta.",
+  "size": {
+    "min": 13,
+    "max": 28
+  },
+  "averageSize": "13-16 cm.",
+  "weight": {
+    "min": 0,
+    "max": 0.33
+  },
+  "pesoText": "0,33 kg.",
+  "maxAge": "17 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Ampiamente diffuso in tutto il Mar Mediterraneo, Mar Nero e Atlantico orientale; è comune in tutti i mari italiani, con presenze particolarmente abbondanti nel Tirreno, nell'Adriatico e lungo le coste di Sicilia e Sardegna.",
+  "iucnStatus": "LC (Least Concern - Rischio Minimo). Specie molto comune, ampiamente distribuita e senza segnali di grave declino a livello globale.",
+  "fishingRequirements": "La misura minima legale per la cattura in Italia e nell'Unione Europea (Allegato III) è fissata a 12 cm. Le fonti fornite non riportano specifici periodi di fermo biologico nazionale dedicati unicamente a questa specie, pur sottostando alle regole generali per i sistemi a strascico o le reti da posta locali.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate un pesce che si porta a spasso un ospite alieno nel cervello, in attesa che un gabbiano scenda in picchiata a mangiarselo. Benvenuti nel bizzarro mondo del <strong>sarago sparaglione</strong>, il cui nome scientifico è <em>Diplodus annularis</em>, un piccolo ma tenace rappresentante della famiglia degli <strong>Sparidae</strong>. </p>\n<p>Tra tutti i saraghi è in assoluto il più piccolo: la sua taglia media da adulto si aggira sui <strong>13-16 centimetri</strong>, anche se qualche esemplare da record può toccare i 28 centimetri e sfiorare i 330 grammi di peso. Ma non fatevi ingannare dalle dimensioni ridotte: questo piccoletto è un vero e proprio maratoneta dei fondali e può vivere fino a <strong>17 anni</strong>. </p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Il suo corpo è un disco ovale, alto e schiacciato sui fianchi, un concentrato di muscoli color argento con affascinanti sfumature giallo-dorate. La sua firma inconfondibile, che gli dà il nome &quot;annularis&quot;, è una <strong>marcatissima macchia nera ad anello</strong> che circonda quasi del tutto il peduncolo caudale — cioè la base della coda — e che, attenzione, non ha mai il bordino bianco.</p>\n<p>Un altro dettaglio per non sbagliare sono le <strong>pinne ventrali e anali</strong>, che spesso si accendono di un bel giallo-arancio vivo. Come distinguerlo dai cugini più grandi? Facile: lo sparaglione adulto non ha le strisce verticali scure tipiche del sarago maggiore (<em>Diplodus sargus</em>), anche se da giovanissimo o quando si sente minacciato può far comparire delle tenui bande verticali mimetiche.</p>\n<p>È un vero pesce del popolo e in ogni porto lo chiamano in modo diverso: a Genova è lo <strong>Sparlo</strong>, a Livorno lo <strong>Sparlotto</strong>, a Roma lo chiamano <strong>Saraghetto</strong>, mentre a Civitavecchia è lo <strong>Sparajone</strong>. Scendendo a Sud diventa <strong>Sparaglione</strong> a Napoli, <strong>Pupazzu</strong> o <strong>Sargu</strong> a Reggio Calabria, per trasformarsi in <strong>Spareddu</strong> o <strong>Sparagghiuni</strong> in Sicilia e a Taranto. </p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>Questo instancabile esploratore bento-pelagico ama le acque costiere poco profonde, nuotando in piccoli branchi vivaci tra gli <strong>0 e i 50 metri</strong> di profondità, spingendosi eccezionalmente fino a 90 metri. Il suo paradiso sono le immense praterie sottomarine di <em>Posidonia oceanica</em> e <em>Zostera</em>, ma adora anche i fondali sabbiosi, quelli fangosi e le scogliere artificiali dei porti, dove curiosa tra le rocce al cambio di marea. </p>\n<p>A tavola, in mare, è un predatore opportunista: la sua bocca è armata con 8 denti incisivi affilati per raschiare e file di possenti molari rotondi perfetti per frantumare. Le fonti litigano un po&#39; sulla sua dieta: alcune lo descrivono come un carnivoro puro, altre lo ritengono onnivoro — probabilmente dipende da cosa offre la dispensa! Divora vermi, piccoli crostacei, molluschi bivalvi, idrozoi, minuscoli ricci di mare e alghe. È interessante il suo &quot;turno di lavoro&quot;: i giovani a caccia di plancton sono attivi di giorno tra le fronde di posidonia, mentre gli adulti preferiscono pattugliare il fondo durante la notte.</p>\n<p>La sua vita sessuale è un capolavoro di adattamento: è un <strong>ermafrodito proterandrico</strong>. Significa che nasce e cresce come maschio e poi, nel corso della vita, molti esemplari si trasformano in femmine. La riproduzione, nei nostri mari, avviene tra la primavera e l&#39;estate, rilasciando uova galleggianti che vengono trasportate dalle correnti.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Lo sparaglione è una preda popolarissima sia per i pescatori professionisti (che usano reti a strascico, reti da posta, tramagli e nasse) sia per i dilettanti. Se pescate a canna o a galleggiante, servono lenze sottili e ami piccoli, innescati con vermi, polpa di gambero o cozza. Il pescatore professionista usa un trucco con i palamiti: per catturare tanti sparaglioni innesca tranci di cannolicchio (<em>Solen vagina</em>), che essendo duri resistono ai morsi, ma se vuole catturare solo gli adulti più grossi ed esperti usa morbidi pezzetti di sarda, che hanno un richiamo olfattivo irresistibile.</p>\n<p>A livello commerciale ha un valore basso rispetto ai &quot;nobili&quot; dentici o orate, a causa della taglia ridotta. È un pesce comunissimo e il suo stato di conservazione globale è classificato come <strong>Rischio Minimo (LC)</strong>. Attenzione però: la legge fissa a <strong>12 centimetri</strong> la taglia minima di cattura per proteggere i giovani e garantire che si riproducano almeno una volta. </p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le carni del sarago sparaglione sono classificate come semigrasse (5-6% di grassi), eccezionalmente digeribili e ricche di calcio, ferro, zinco e preziosi Omega-3. Insomma, un vero toccasana a sole 103 calorie per etto. Al banco del pesce la freschezza è tutto, perché perde fragranza molto in fretta: cercate occhi chiari e brillanti, pelle tesa, squame aderentissime, ventre sodo e branchie di un bel rosso scuro. Sentite odore di ammoniaca o dolciastro? Lasciate perdere.</p>\n<p>In cucina dà il meglio di sé se assecondato con semplicità. I più grandicelli sono favolosi cotti in forno o al cartoccio, profumati con aglio, timo, rosmarino e pomodorini. \nMa è con i pesci più piccoli (la cosiddetta <em>mazzumàja</em>) che si fa la storia: sono il cuore pulsante delle grandi e antiche zuppe di pesce regionali — dalla <em>Zuppa alla Civitavecchiese</em> al brodetto, fino alla <em>Sbroscia</em> laziale e al cacciucco toscano. Le loro teste e lische, cotte a lungo, rilasciano una quantità di collagene e sapore di mare che nessun dado potrà mai eguagliare. </p>\n<p><em>Il consiglio del pescatore:</em> volete preservare tutto il gusto? Consumatelo il prima possibile e squamatelo rigorosamente <strong>solo un attimo prima di cuocerlo</strong>. E se sfilettate i pesci più grandi, non osate buttare gli scarti: lessateli con sedano, carota, cipolla, prezzemolo e poco sale per ottenere un brodo di mare ristretto da far resuscitare i morti.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Il passeggero alieno nel cervello:</strong> Il <em>Diplodus annularis</em> è l&#39;ospite intermedio preferito di un parassita chiamato <em>Cardiocephaloides longicollis</em>. Le larve di questo trematode penetrano nel pesce, viaggiano fino al suo cervello (nello specifico nei lobi ottici) e lì si incistano. Cosa aspettano? Che il sarago diventi lo spuntino di un gabbiano, l&#39;ospite definitivo dove il parassita diventerà adulto.</li>\n<li><strong>Curiosità fatale:</strong> È un pesce così curioso e sfrontato che spesso non scappa davanti all&#39;uomo. Anzi, si avvicina ai subacquei ogni volta che questi sollevano un po&#39; di sabbia dal fondo con le pinne, sperando di scroccare qualche crostaceo portato alla luce.</li>\n<li><strong>Allo spiedo in Toscana:</strong> Sebbene sia un pesce, in alcune zone della Toscana la tradizione impone di trattarlo come la cacciagione: viene farcito con rosmarino e prosciutto, e cotto letteralmente allo spiedo, intervallato da fette di pane e foglie di salvia.</li>\n<li><strong>L&#39;appetito non passa mai:</strong> Alcuni studi sulle reazioni dei pesci alla pesca ricreativa hanno dimostrato che lo sparaglione, a differenza di altri pesci più furbi e sospettosi, non impara a evitare gli ami. Continua ad abboccare con lo stesso entusiasmo anche in zone molto sfruttate dai pescatori.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_primo-piano-habitat_2026-07-26T10-33-32.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_primo-piano-habitat_2026-07-26T10-33-32.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_habitat-largo_2026-07-26T10-33-34.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_azione_2026-07-26T10-33-35.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_sociale_2026-07-26T10-33-37.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sarago-sparaglione/chatgpt_dettaglio-hd_2026-07-26T10-33-39.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-12T05:30:02.908Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; benthopelagic; depth 0-90 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-08-12T05:30:04.297Z"
+  }
+}
