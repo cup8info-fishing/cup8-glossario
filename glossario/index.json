@@ -352,6 +352,14 @@
     "publishedAt": "2026-07-09T10:53:57.724Z"
   },
   {
+    "id": "tombarello",
+    "name": "Tombarello",
+    "scientificName": "Auxis rochei",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tombarello/chatgpt_primo-piano-habitat_2026-07-26T15-26-49.webp",
+    "publishedAt": "2026-08-13T05:30:00.162Z"
+  },
+  {
     "id": "katsuwonus-pelamis",
     "name": "Tonnetto striato",
     "scientificName": "Katsuwonus pelamis",
