@@ -368,6 +368,14 @@
     "publishedAt": "2026-07-13T14:06:39.941Z"
   },
   {
+    "id": "tonno-alalunga",
+    "name": "Tonno alalunga",
+    "scientificName": "Thunnus alalunga",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tonno-alalunga/chatgpt_primo-piano-habitat_2026-08-01T13-52-32.webp",
+    "publishedAt": "2026-08-15T05:30:00.147Z"
+  },
+  {
     "id": "thunnus-albacares",
     "name": "Tonno albacora",
     "scientificName": "Thunnus albacares",
