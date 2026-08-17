@@ -1,0 +1,67 @@
+{
+  "id": "thalassoma-pavo",
+  "name": "Donzella pavonina",
+  "scientificName": "Thalassoma pavo",
+  "family": "Labridae (Labridi).",
+  "category": "pesce_vertebrato",
+  "description": "La donzella pavonina è un pesce ermafrodita proteroginico (le femmine crescendo cambiano sesso diventando maschi) ed un noto indicatore biologico del riscaldamento delle acque marine. Sfoggia un vistoso dicromatismo sessuale: le femmine e i giovani sono verdastro-dorati con strisce blu verticali e una macchia nera sul dorso, mentre i grandi maschi terminali perdono la macchia, sviluppando una testa rossa e blu, una spessa barra blu scuro dietro la pinna pettorale e una coda \"a lira\". Curiosa e dotata di nuoto instancabile, ha l'abitudine di seppellirsi completamente sotto la sabbia durante la notte o per sfuggire ai predatori.",
+  "habits": "* Pesca sportiva con lenza: abbocca facilmente alle esche calate vicino al fondo roccioso. È un pesce curioso e vorace, frequentemente attirato dai sedimenti sollevati dal fondale. * Pesca professionale artigianale: viene tradizionalmente catturata sottocosta mediante l'utilizzo di nasse (trappole) e reti da posta come i tramagli. * *Nota gastronomica*: le sue carni non sono particolarmente pregiate e la donzella pavonina è adatta e catturata quasi esclusivamente per la preparazione della tipica zuppa di pesce.",
+  "habitat": "Substrati e fondali rocciosi ben illuminati, pareti, fessure e praterie di *Posidonia oceanica*. La profondità tipica in cui nuota va da 1 a 50 metri, sebbene eccezionalmente possa essere avvistata fino a 150 metri di profondità.",
+  "diet": "Carnivoro predatore opportunista. Si nutre attivamente di piccoli invertebrati bentonici tra cui molluschi (gasteropodi, bivalvi), crostacei (granchi, anfipodi, isopodi), echinodermi, policheti e talvolta uova deposte da altri pesci, come quelle delle castagnole.",
+  "size": {
+    "min": 15,
+    "max": 25
+  },
+  "averageSize": "15 - 20 cm (le femmine raggiungono solitamente i 18 cm).",
+  "weight": {
+    "min": 0,
+    "max": 0
+  },
+  "pesoText": "Informazione non specificata nelle fonti.",
+  "maxAge": "*Informazione non specificata nelle fonti.*",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Puglia",
+    "Lazio",
+    "Abruzzo",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Mar Mediterraneo e coste dell'Oceano Atlantico orientale. In Italia è ampiamente diffusa nel Mar Tirreno, nel Mar Ionio e nel Mar Ligure; a causa del riscaldamento climatico (fenomeno di meridionalizzazione), il suo areale si è espanso anche al Mar Adriatico, con popolazioni in Puglia e recenti segnalazioni fino alla costa dei Trabocchi in Abruzzo.",
+  "iucnStatus": "LC (Least Concern / Rischio minimo / Preoccupazione minore). Specie abbondante con un indice di vulnerabilità alla pesca molto basso, le cui popolazioni appaiono stabili o in espansione verso nord senza subire minacce significative.",
+  "fishingRequirements": "Misure minime di legge e periodi di fermo biologico *non specificati nelle fonti*. È tuttavia documentato che la specie ha un interesse commerciale e gastronomico solo marginale e a livello prettamente locale.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina di nascere femmina, vestirti di giallo e verde, e poi un bel giorno decidere che è ora di cambiare sesso, trasformandoti in un maschio rosso e azzurro, un vero pavone dei mari. Questa è la magia della <strong>donzella pavonina</strong>! </p>\n<p>Il suo nome scientifico, <em>Thalassoma pavo</em>, è pura poesia: <em>thalassa</em> (mare) e <em>soma</em> (corpo) in greco, unito al latino <em>pavo</em> (pavone). È un bellissimo pesce osseo che appartiene alla coloratissima famiglia dei <strong>Labridi</strong>.</p>\n<p>Parliamo di un pesce di dimensioni contenute: di solito si aggira sui 20 centimetri. I grandi maschi possono spingersi al massimo fino a 25 cm, mentre le femmine si fermano solitamente a 18 cm. Le date anagrafiche precise della sua longevità non sono note, ma si tratta di una specie molto prolifica e tenace, capace di raddoppiare l&#39;intera popolazione in meno di quattro anni!</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>La donzella pavonina sfoggia un guardaroba che cambia radicalmente nel corso della vita, un fenomeno noto come dicromatismo sessuale. Ha un corpo slanciato ma leggermente compresso ai lati, con una bocca piccola armata di dentini aguzzi e curvi su un&#39;unica fila, e una pinna dorsale lunga e uniforme.</p>\n<p>Le <strong>femmine e i giovani</strong> (nella cosiddetta fase iniziale) hanno un colore di fondo giallo-dorato o verdastro, solcato da 4 a 6 strisce verticali azzurre. Il loro inconfondibile marchio di fabbrica? Una <strong>vistosa macchia nera</strong> a metà del dorso.</p>\n<p>Quando una femmina cresce e si trasforma in <strong>maschio terminale</strong>, la macchia nera sparisce. La testa diventa di un rosso acceso coperta da ghirigori e reticoli blu, mentre dietro la pinna pettorale compare una spessa banda blu scuro orlata di rosso. Anche la pinna caudale (la coda) muta forma: da tronca e dritta, sviluppa punte molto allungate assumendo un&#39;elegante <strong>forma a mezzaluna</strong> (o &quot;a lira&quot;).</p>\n<p><strong>Attenzione a non confonderla!</strong> L&#39;unico pesce che può trarti in inganno è la cugina stretta, la donzella comune (<em>Coris julis</em>). Come le distingui a colpo d&#39;occhio? Semplice: la donzella pavonina ha un <strong>corpo palesemente più alto e tozzo</strong> rispetto alla donzella comune, che ha invece una forma molto più affusolata e a siluro. </p>\n<p>Viaggiando, la sentirai chiamare in tanti modi: in Spagna è il <em>Fredi</em> o <em>Pez verde</em>, in Francia è la <em>Girelle paon</em>, nel sud Italia è spesso detta <em>Girella pavone</em>, in Grecia <em>Gaitanouri</em> e in Portogallo <em>Peixe-verde</em>.</p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>È un pesce che ama la luce e l&#39;acqua calda. Lo trovi a suo agio in fondali rocciosi ricchi di alghe e nelle praterie sottomarine di <em>Posidonia oceanica</em>, solitamente tra <strong>1 e 50 metri di profondità</strong>, sebbene qualche esploratore si spinga eccezionalmente a 150 metri. Frequenta persino i porti e le dighe frangiflutti! Geograficamente, domina l&#39;Atlantico orientale (dal Portogallo al Gabon, incluse le Canarie e le Azzorre) e il Mediterraneo.</p>\n<p>Questo labride è un predatore carnivoro diurno, curioso e instancabile nel nuoto. Cosa mangia? Piccoli molluschi, crostacei, vermi policheti, echinodermi, piccoli medusoidi e soprattutto uova. Le femmine e i giovani viaggiano spesso in piccoli e rumorosi branchi, mentre i vistosi maschi adulti amano fare i lupi solitari. </p>\n<p>In estate (tra giugno e luglio) si scatena la <strong>riproduzione</strong>. I grossi maschi lottano tra loro per conquistare e difendere un bel tratto di roccia a circa 5 metri di profondità. Il vincitore invita le femmine nel suo territorio per fecondare le uova a mezz&#39;acqua. Ma attenzione: ci sono dei maschi &quot;furbetti&quot; (maschi nati già maschi che mantengono i colori anonimi delle femmine) che si intrufolano rapidissimi e fecondano le uova di nascosto dal padrone di casa!</p>\n<p>Al calar della notte, o se l&#39;acqua diventa improvvisamente fredda, compie una magia: <strong>si seppellisce interamente sul fianco</strong> sotto la sabbia, agitando in modo forsennato la coda finché non scompare, mettendosi al riparo dai predatori.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Questo pesce è una preda comunissima per i pescatori sportivi che calano la lenza vicino agli scogli. Essendo un animale tremendamente curioso, viene attratto irresistibilmente appena si solleva un po&#39; di sedimento dal fondo, fiondandosi sull&#39;esca. A livello professionale, i pescatori costieri la catturano tradizionalmente con nasse (trappole) e tramagli (reti da posta).</p>\n<p>Ha un grandissimo valore per l&#39;acquariofilia: le sue tinte sgargianti lo rendono uno dei pesci più ricercati e adatti per gli acquari mediterranei. </p>\n<p>Come sta di salute? Benissimo! Gode di uno stato di conservazione di <strong>Rischio minimo (LC)</strong>. È abbondante, la sua popolazione appare stabile e in alcune zone persino in rapida espansione numerica. </p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Se cerchi un pesce per una frittura prelibata o per il forno, hai sbagliato specie. Te lo confermerà ogni vecchio pescatore: le carni della donzella pavonina <strong>non hanno un grande interesse commerciale o gastronomico</strong>. Per questo motivo è raro vederla esposta in solitaria sui banchi del pesce, e non esistono regole specifiche per valutarne occhio o branchie al mercato, in quanto non viene venduta come pezzo pregiato.</p>\n<p>C&#39;è però una preparazione classica, la vera destinazione d&#39;onore per questa specie: la <strong>zuppa di pesce</strong>. In un brodetto tradizionale, le carni di questo labride si mescolano a quelle degli altri piccoli pesci di scoglio, sciogliendosi e donando quel sapore verace, sapido e intensamente marino al sugo in cui andrai a inzuppare il pane!</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>È il &quot;pesce del clima&quot;:</strong> Amante delle acque calde, è considerato un vero e proprio &quot;termometro biologico&quot;. Il riscaldamento dei mari (la cosiddetta <em>meridionalizzazione</em>) ha permesso alla donzella pavonina di espandersi caparbiamente verso nord: negli ultimi anni ha colonizzato il Mar Ligure e si è spinta su per il Medio Adriatico (fino alla Costa dei Trabocchi in Abruzzo) dove storicamente non era mai esistita!</li>\n<li><strong>Ruba-uova professionista:</strong> Passa molto tempo a pattugliare gli scogli in cerca dei nidi della Castagnola (<em>Chromis chromis</em>). Appena ne scova uno, si formano istantaneamente assembramenti famelici di donzelle pavonine pronte a fare un banchetto con le uova.</li>\n<li><strong>Lavora come dentista:</strong> I giovani esemplari sono stati spesso sorpresi a fare da veri e propri &quot;pesci pulitori&quot;, ripulendo pesci molto più grandi di loro dai fastidiosi parassiti esterni.</li>\n<li><strong>Intimità o folla:</strong> Quando i pesci su uno scoglio sono pochi, maschio e femmina si riproducono romanticamente in coppia. Ma se la densità supera i 10 individui ogni 100 metri quadrati, la situazione degenera e cambiano completamente tecnica, riproducendosi tutti insieme in gruppi caotici. E chi ringrazia per questa confusione? Il sarago fasciato (<em>Oblada melanura</em>), che ne approfitta per nuotare in mezzo al gruppo e fare scorpacciate delle uova appena deposte!</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_primo-piano-habitat_2026-07-24T13-31-23.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_primo-piano-habitat_2026-07-24T13-31-23.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_habitat-largo_2026-07-24T13-20-40.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_azione_2026-07-24T13-31-26.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_sociale_2026-07-24T13-31-29.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/thalassoma-pavo/chatgpt_dettaglio-hd_2026-08-01T17-06-29.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-08-17T05:30:00.137Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; reef-associated; depth 1-150 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-08-17T05:30:00.891Z"
+  }
+}
