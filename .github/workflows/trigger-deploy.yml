@@ -6,6 +6,14 @@ name: Segnala deploy cup8.it
 on:
   push:
     branches: [main]
+    # nostradamus-daily.json e' l'export della pescabilita' del giorno: il bot nostradamus
+    # lo pubblica qui ogni mattina solo per farlo servire da GitHub Pages (il sito lo legge
+    # a runtime, non e' cotto nelle pagine). Non c'e' NIENTE da rigenerare, quindi non
+    # innescare un deploy: sarebbe un deploy in piu' al giorno = una versione in piu' su
+    # Firebase Hosting (che ha una quota) e la pubblicazione di qualunque cosa si trovi su
+    # master in quel momento.
+    paths-ignore:
+      - nostradamus-daily.json
 
 concurrency:
   group: trigger-deploy-cup8it
