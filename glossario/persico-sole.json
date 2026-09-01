@@ -1,0 +1,60 @@
+{
+  "id": "persico-sole",
+  "name": "Persico sole",
+  "scientificName": "Lepomis gibbosus",
+  "family": "Centrarchidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il persico sole presenta un corpo ovale, tozzo e compresso lateralmente, distinguibile grazie alla peculiare livrea brillante che mescola toni di verde-oliva, riflessi metallici bronzei e screziature azzurre, arancioni e rosse. Sull'opercolo branchiale è ben visibile una tipica macchia nera orlata di rosso o arancio. Da adulto è un pesce spiccatamente territoriale e aggressivo; il maschio scava dei nidi circolari sui fondali sabbiosi difendendo le uova e gli avannotti contro qualsiasi intruso. Per l'alta adattabilità e l'attività predatoria a danno della fauna nativa, risulta una delle specie aliene più dannose in Europa, capace di distruggere interi ecosistemi alterandone l'equilibrio trofico.",
+  "habits": "* Pesca al colpo con galleggiante: praticata presso le rive e nei canneti utilizzando esche naturali, come lombrichi, larve di mosca carnaria, mais o pane. * Spinning ultraleggero (incluso il *rockfishing* d'acqua dolce): le esche artificiali di dimensioni minime risultano estremamente catturanti per via della marcata aggressività e territorialità di questa specie, soprattutto nei pressi dei nidi. * Impiego di nasse innescate e reti litoranee (affiancate talvolta da elettrostorditore): sono queste le metodologie utilizzate non dai pescatori dilettanti, bensì dai tecnici specializzati in ambito dei piani di controllo ecologico volti all'eradicazione del pesce nei laghi minori o in zone circoscritte.",
+  "habitat": "Predilige acque lentiche o a lento scorrimento, stabilendosi in sponde o zone litorali con fondali sabbiosi o fangoso-melmosi densamente ricchi di vegetazione acquatica riparia e sommersa. Staziona in acque basse tipicamente tra 1 e 2 metri di profondità, spostandosi in fondali più profondi solo nei mesi invernali per svernare.",
+  "diet": "Vorace predatore con spettro alimentare carnivoro/onnivoro; si ciba di invertebrati di fondo, larve di insetti, molluschi, crostacei, anellidi, larve di anfibi, uova e avannotti di altre specie ittiche native.",
+  "size": {
+    "min": 8,
+    "max": 60
+  },
+  "averageSize": "Tra gli 8 e i 15 cm nei nostri ecosistemi acquatici europei e italiani.",
+  "weight": {
+    "min": 0,
+    "max": 4
+  },
+  "pesoText": "Nel suo areale originario in Nord America raggiunge mediamente i 0,45 - 0,63 kg (una singola fonte non scientifica riporta anomalamente fino a 4 kg). Negli ambienti invasi in Italia l'accrescimento è limitato e il peso si mantiene quasi sempre inferiore ai 0,15 kg.",
+  "maxAge": "Compresa tra 10 e 12 anni sia in natura che in cattività, con stime che in contesti ottimali possono toccare i 21 anni.",
+  "locations": [
+    "Sardegna",
+    "Sicilia"
+  ],
+  "regioniText": "Ampiamente diffuso in tutta Italia nelle acque interne dolci (tra cui i laghi Maggiore, di Garda, Como, Iseo, Trasimeno, i bacini laziali e i fiumi Po, Tevere, Arno, Ticino) e in habitat occasionalmente salmastri come alcuni stagni ed estuari, incluse Sardegna, Sicilia, Friuli Venezia Giulia e Alto Adige.",
+  "iucnStatus": "LC (Least Concern - Rischio minimo), in virtù dell'amplissima distribuzione globale e del continuo incremento numerico delle popolazioni dovunque venga introdotto.",
+  "fishingRequirements": "Essendo una Specie Esotica Invasiva di rilevanza unionale, per il persico sole non esiste alcuna misura minima legale né periodo di fermo biologico. La normativa impone l'assoluto divieto di rilascio del pescato (pratica del *catch and release* interdetta), rendendo obbligatoria la soppressione immediata di ogni esemplare allamato. È inoltre severamente vietato l'utilizzo di questa specie come esca viva.",
+  "badges": {
+    "protected": false,
+    "alien": "Aliena",
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina un seme di zucca colorato come un pappagallo tropicale, catapultato nei nostri laghi con la fama di essere uno dei peggiori invasori d&#39;Europa. Questo è il <strong>persico sole</strong>, scientificamente noto come <em>Lepomis gibbosus</em>. Appartiene alla famiglia dei Centrarchidi, un gruppo di pesci nordamericani dal carattere a dir poco bellicoso. </p>\n<p>Le sue dimensioni tipiche nei nostri fiumi e laghi sono modeste, in media tra gli 8 e i 15 centimetri, con punte massime di 20-22 centimetri. Sulla longevità le fonti litigano un po&#39;: c&#39;è chi dice che in natura viva in media 5-6 anni, chi si spinge a dire 8, ma pare che in ambienti protetti o in cattività possa spegnere persino 10 o 12 candeline.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Riconoscerlo è un gioco da ragazzi. Ha un corpo ovale, tozzo e incredibilmente schiacciato sui lati, proprio come un seme di zucca. La livrea è un vero spettacolo: il dorso è verde-oliva o dorato, mentre i fianchi sono un&#39;esplosione di macchie iridescenti azzurre, arancioni e rosse. Il ventre, invece, sfuma su un giallo-arancio acceso.</p>\n<p>Il vero marchio di fabbrica è sull&#39;opercolo — cioè la piastra ossea che copre e protegge le branchie — dove spicca una evidente macchia nera orlata di un rosso o arancio brillante. Attenzione a non pungervi: la sua unica pinna dorsale è armata di 10-11 spine acuminate, perfette per scoraggiare i predatori, supportate da altre 3 spine belle appuntite sulla pinna anale.</p>\n<p>Potreste confonderlo con il <strong>persico reale</strong> (<em>Perca fluviatilis</em>), ma quest&#39;ultimo ha un corpo più allungato, pinne ventrali rosse e grosse bande verticali scure, senza la tipica macchia colorata sulle branchie. A livello dialettale, in molte zone d&#39;Italia viene simpaticamente chiamato &quot;gobbino&quot;, &quot;gobbetto&quot; o &quot;gobbo&quot;.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>Ama la vita comoda. Predilige acque calde, ferme o a lento scorrimento, come stagni, laghi e fiumi di pianura. Lo troverete quasi sempre vicino a riva, in acque basse (tra 1 e 2 metri di profondità), rintanato tra fitte foreste di vegetazione acquatica e su fondali sabbiosi o fangosi. Curiosamente, tollera anche le acque salmastre degli estuari e degli stagni costieri.</p>\n<p>È un predatore vorace e opportunista. Manda giù di tutto: insetti, crostacei, vermi, molluschi, larve di anfibi e, purtroppo, uova e avannotti di pesci nativi. I giovani amano fare gruppo e nuotare in banco, ma crescendo gli adulti diventano solitari, aggressivi e incredibilmente territoriali, muovendosi in piccoli drappelli di due o quattro individui al massimo. Caccia di giorno, con un picco di attività nel pomeriggio, mentre di notte si riposa rintanato sul fondo.</p>\n<p>La riproduzione è uno show. In tarda primavera, i maschi scavano con la coda delle buche circolari sul fondo sabbioso, creando nidi larghi circa 30 centimetri. Dopo che le femmine (spesso più di una per nido) hanno deposto migliaia di uova adesive, il papà si trasforma in un gladiatore: fa la guardia al nido per circa 11 giorni, scacciando a morsi qualsiasi intruso e riportando in bocca i piccoli avannotti che provano ad allontanarsi troppo.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Pescarlo è fin troppo facile, abbocca letteralmente a tutto: lombrichi, bigattini, pezzetti di pane o piccole esche artificiali. Si pesca tipicamente da riva con il galleggiante o a spinning ultraleggero. Spesso è considerato una vera e propria seccatura dai pescatori, perché attacca l&#39;esca con tale foga da ingoiarla in profondità, rendendo lunghissimo e difficile slamarlo senza fare danni.</p>\n<p>Commercialmente non vale quasi nulla a causa delle piccole dimensioni, ma sportivamente regala combattimenti tenaci che fanno divertire chi ha la lenza in mano. A livello di conservazione gode di ottima salute ed è classificato come &quot;Rischio minimo&quot; (LC). Anzi, sta fin troppo bene: è una temibile specie esotica invasiva che minaccia gli ecosistemi locali. Se lo pescate, la normativa parla chiaro: è assolutamente vietato ributtarlo in acqua o usarlo come esca viva; avete l&#39;obbligo di sopprimerlo immediatamente.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Il mese d&#39;oro per gustarlo è luglio, quando le acque si scaldano. Al banco, o appena pescato, controllate che il colore sia brillante e iridescente, l&#39;occhio convesso e lucido, le branchie di un bel rosa vivace e il corpo rigido e sodo.</p>\n<p>La consistenza delle sue carni bianche è ottima: soda, magra, dolciastra e molto digeribile, senza un sapore di pesce troppo invadente. Il vero problema? È un campo minato di lische fittissime!. </p>\n<p>Ecco il consiglio del pescatore per non impazzire: se i pesci sono piccolini (sotto i 12 cm), non provate a sfilettarli altrimenti vi ritroverete con una poltiglia. Squamateli sfregando il dorso di un coltello, togliete testa e interiora, passateli nella farina di mais o in pastella e friggeteli interi in abbondante olio caldo a 180°C per 3-4 minuti; le micro-lische diventeranno friabilissime e potrete mangiare tutto. Un&#39;altra preparazione da osteria per i piccoli è &quot;in carpione&quot;: fritti e marinati bollenti in aceto, vino, aglio, cipolla e salvia, una tecnica che ammorbidisce ulteriormente le spine e crea un antipasto strepitoso. Per i più grossi, provate il &quot;brustico&quot; tipico del Trasimeno: cotti interi sulle braci di canna lacustre, poi spellati, spinati a mano e conditi con olio a crudo, aceto, sale e pepe.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li>Il suo nome americano, &quot;Pumpkinseed&quot;, significa letteralmente &quot;seme di zucca&quot;, per via della sua forma inconfondibile.</li>\n<li>La finta macchia nera e rossa sulle branchie crea un&#39;illusione ottica per ingannare i predatori: sembra un occhio gigantesco piazzato molto più indietro sul corpo. Quando si sente minacciato, il persico sole allarga le branchie per sembrare quattro volte più grande di quello che è!.</li>\n<li>Negli Stati Uniti del sud, grazie a una mostruosa plasticità ecologica, ha sviluppato muscoli della mascella enormi per frantumare i durissimi gusci delle lumache di cui va ghiotto, guadagnandosi il soprannome di &quot;shellcracker&quot; (schiaccianoci).</li>\n<li>Come la famosa Gambusia, è un vero e proprio cecchino contro le zanzare, essendo un formidabile ed efficiente divoratore delle loro larve in acqua.</li>\n<li>Sulle sue misure massime le fonti litigano di brutto: se nei laghi del continente si ferma in genere a 20 centimetri, alcune stime in Sardegna riportano che possa teoricamente sfiorare i 60 centimetri! Probabilmente dipende dall&#39;isolamento genetico e dalle risorse del territorio.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_primo-piano-habitat_2026-08-17T14-39-13.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_primo-piano-habitat_2026-08-17T14-39-13.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_habitat-largo_2026-08-17T14-39-15.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_azione_2026-08-17T14-39-16.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_sociale_2026-08-17T14-39-18.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_dettaglio-hd_2026-08-17T14-39-19.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-01T10:13:10.211Z",
+  "classification": {
+    "zones": [
+      "acquadolce"
+    ],
+    "habitat": "acquadolce",
+    "source": "WoRMS",
+    "evidence": "WoRMS: brackish; freshwater",
+    "water": {
+      "marine": false,
+      "brackish": true,
+      "fresh": true
+    },
+    "at": "2026-09-01T10:14:15.669Z"
+  }
+}

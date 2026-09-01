@@ -232,6 +232,14 @@
     "publishedAt": "2026-07-01T12:41:24.528Z"
   },
   {
+    "id": "persico-sole",
+    "name": "Persico sole",
+    "scientificName": "Lepomis gibbosus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-sole/chatgpt_primo-piano-habitat_2026-08-17T14-39-13.webp",
+    "publishedAt": "2026-09-01T10:13:10.211Z"
+  },
+  {
     "id": "pesce-balestra",
     "name": "Pesce balestra",
     "scientificName": "Balistes capriscus",
