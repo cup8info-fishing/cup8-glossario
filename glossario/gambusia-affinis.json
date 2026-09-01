@@ -1,0 +1,63 @@
+{
+  "id": "gambusia-affinis",
+  "name": "Gambusia",
+  "scientificName": "Gambusia affinis",
+  "family": "Poeciliidae.",
+  "category": "pesce_vertebrato",
+  "description": "Piccolo pesce ovoviviparo originario del Nord America, introdotto nelle paludi italiane nel XX secolo con l'illusione di usarlo nella lotta biologica contro la malaria. Mostra un marcato dimorfismo sessuale: le femmine sono più capienti con una macchia scura sul ventre, mentre i maschi possiedono un gonopodio (la pinna anale modificata per l'accoppiamento). A causa del suo comportamento aggressivo e dell'incredibile tolleranza agli sbalzi termici, minaccia gravemente gli ecosistemi decimando gli anfibi e soppiantando per esclusione competitiva i pesci autoctoni come il nono (*Aphanius fasciatus*).",
+  "habits": "* La specie non riveste alcun interesse per la pesca sportiva o commerciale. * Storicamente veniva incautamente pescata per l'uso come esca viva per pesci predatori e tartarughe, pratica oggi totalmente illegale. * Gli unici prelievi autorizzati avvengono ai fini di monitoraggio o eradicazione ecologica, mediante elettropesca in zone di acqua bassa, piccole reti a strascico (sciabiche) trascinate a riva, guadini a maglia stretta o prosciugamento totale dei bacini isolati.",
+  "habitat": "Substrato fangoso, tollerante ad acque dolci e salmastre; predilige acque calde, stagnanti o a lento scorrimento ricche di vegetazione sommersa. Profondità tipica bassissima, a partire da zone di appena 3 mm di acqua fino alle sponde litorali, rifugiandosi in fosse di svernamento profonde 0,9 - 1,2 metri durante i mesi freddi.",
+  "diet": "Onnivora e predatrice altamente opportunista; si nutre di zooplancton, detriti, alghe, macroinvertebrati e larve di insetti (tra cui quelle di zanzara), ma preda voracemente anche uova e avannotti di specie ittiche autoctone e larve di anfibi.",
+  "size": {
+    "min": 3,
+    "max": 8
+  },
+  "averageSize": "Circa 3,9 cm; generalmente i maschi si assestano sui 3-4 cm e le femmine sui 4-5 cm.",
+  "weight": {
+    "min": 0,
+    "max": 0
+  },
+  "pesoText": "Dato non riportato nelle fonti (peso irrisorio stimabile in pochi grammi, considerate le ridottissime dimensioni della specie).",
+  "maxAge": "Fino a 3 anni.",
+  "locations": [
+    "Sardegna",
+    "Sicilia",
+    "Puglia",
+    "Lazio",
+    "Toscana"
+  ],
+  "regioniText": "Distribuita capillarmente nelle acque dolci e di transizione (salmastre) in gran parte d'Italia, comprese Pianura Padana, Emilia-Romagna, Toscana, Lazio, Puglia, Lombardia, Sicilia e Sardegna. Non è una specie di mare aperto.",
+  "iucnStatus": "LC (Rischio minimo) - Nonostante il suo eccellente stato di salute e l'ampia diffusione globale, l'IUCN la inserisce nella temuta lista delle 100 specie aliene invasive più dannose al mondo.",
+  "fishingRequirements": "Nessuna misura minima legale né periodo di fermo biologico previsti per la pesca sportiva; in quanto Specie Esotica Invasiva (IAS) di rilevanza unionale (D. Lgs. 230/2017), è rigorosamente vietato il rilascio in natura, la detenzione, il trasporto, l'allevamento e il commercio di qualsiasi esemplare.",
+  "badges": {
+    "protected": false,
+    "alien": "Aliena",
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina un pesce così piccolo che ti sta comodamente in un cucchiaio, ma così spietato e vorace da essere finito dritto nella famigerata lista delle 100 specie aliene invasive più dannose dell&#39;intero pianeta. Questa è la <em>Gambusia affinis</em> (spesso e volentieri accomunata alla sua &quot;gemella&quot; <em>Gambusia holbrooki</em>), un minuscolo pesce d&#39;acqua dolce che appartiene alla famiglia dei <strong>Poeciliidae</strong>. </p>\n<p>Le sue dimensioni sono a dir poco ridicole: i maschi, più minuti e snelli, faticano a raggiungere i 4 centimetri, mentre le vere dominatrici della specie, le femmine, possono arrivare fino a 7 o 8 centimetri di lunghezza massima. La loro vita è tanto breve quanto vissuta al massimo: un esemplare, se riesce a non farsi mangiare, ha un&#39;aspettativa di vita media che in natura oscilla solitamente tra 1 e 3 anni.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>In acqua, la Gambusia non è certo un pesce da sfilata. Ha un corpo tozzo nella parte anteriore che si fa più affusolato verso la coda, una testolina piatta sulla parte superiore e una minuscola bocca rivolta verso l&#39;alto, perfetta per cacciare e respirare a pelo d&#39;acqua. Il colore va dal grigio-oliva al bruno verdastro sul dorso, per sfumare in un ventre argenteo o biancastro, spesso con tenui riflessi bluastri e scaglie dal bordo scuro che creano un effetto &quot;a reticolo&quot;. Sotto l&#39;occhio si nota frequentemente una macchia scura a forma di lacrima.</p>\n<p>Riconoscere maschi e femmine è un gioco da ragazzi. La femmina sfoggia una vistosa <strong>macchia gravidica</strong> nera proprio sul pancione gonfio, mentre il maschio adulto ha la pinna anale modificata e appuntita, trasformata in un tubicino copulatore chiamato <strong>gonopodio</strong>. Se le vedi in un fosso, potresti confonderle con le femmine del Guppy (<em>Poecilia reticulata</em>), ma la Gambusia è molto meno colorata. </p>\n<p>Le fonti scientifiche litigano un po&#39; per distinguere esattamente <em>Gambusia affinis</em> da <em>Gambusia holbrooki</em>: c&#39;è chi conta i raggi della pinna dorsale (generalmente 6 o 7 per l&#39;una, 7 o 8 per l&#39;altra) e chi guarda se il gonopodio ha dei piccoli dentelli o è liscio; per un occhio non allenato, però, sono lo stesso, identico pesce. Quanto ai nomi locali, la parola stessa &quot;gambusino&quot; deriva dallo spagnolo cubano e significa colloquialmente &quot;inutile&quot;, un&#39;espressione usata dai pescatori quando tornano a casa con le reti vuote. In Australia, invece, le odiano a tal punto per i danni ecologici che causano da averle ribattezzate <strong>DAMNbusia</strong>, ovvero &quot;il pesce dannazione&quot;.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un vero e proprio &quot;carro armato&quot; acquatico, originario dei bacini del fiume Mississippi e del Golfo del Messico negli Stati Uniti, ma oggi diffuso ovunque. Adora i fondali fangosi e sguazza felice in acque calde, stagnanti o a lento scorrimento, come stagni, paludi, canali di bonifica e lanche fittamente vegetate. È una specie gregaria, nuota spesso in fitti branchi, ed è capace di tollerare l&#39;intollerabile: acque scarsissime di ossigeno, inquinamento organico, alta salinità e sbalzi termici che vanno da temperature vicine allo zero fino a sfiorare i 42°C. Riesce persino a nuotare e disperdersi in pozzanghere profonde appena 3 millimetri.</p>\n<p>Di giorno è instancabile. La sua dieta è onnivora e ferocemente opportunista: mangia zooplancton, detriti e piccoli insetti, ma va letteralmente pazza per le larve di zanzara. Il problema è che essendo un predatore molto aggressivo (ama mordere e strappare le pinne agli altri pesci), divora con ingordigia anche uova e avannotti di pesci autoctoni, nonché piccoli girini. La riproduzione è affascinante: sono pesci <strong>ovovivipari</strong>, il che significa che le uova si schiudono direttamente nella pancia della madre, la quale &quot;partorisce&quot; dalle 40 alle 60 (e talvolta molte di più!) minuscole gambusie già perfettamente in grado di nuotare e cacciare.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Dimenticatevi canne da pesca o ecoscandagli: a livello sportivo e commerciale, il valore della Gambusia è pari a zero. La si raccoglie tuttalpiù con piccoli guadini a maglia stretta o sciabiche tirate a riva. Un tempo veniva usata dai pescatori come esca viva per i pesci predatori, una pratica che oggi è totalmente illegale.</p>\n<p>Il suo rapporto con l&#39;uomo ha segnato la storia: a partire dall&#39;inizio del &#39;900, la Gambusia è stata allevata e introdotta in bacini di mezzo mondo (inclusa l&#39;Italia) come arma biologica per eradicare le zanzare portatrici della malaria. Il suo stato di conservazione generale è classificato come &quot;Rischio minimo&quot;, perché la specie esplode demograficamente ovunque trovi acqua. Ma l&#39;uomo ha creato un mostro: essendo diventata un predatore fuori controllo per le specie locali, l&#39;Unione Europea l&#39;ha inserita nella lista delle Specie Esotiche Invasive (IAS). Oggi è rigorosamente vietato trasportarla, venderla, allevarla e, soprattutto, rilasciarla in natura.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Stagione ottimale? Nessuna. Come valutarla al banco? Impossibile, non la troverai mai in una pescheria. Un pescatore ruspante si metterebbe a ridere alla sola idea di cucinarla: la consistenza delle carni non è classificabile, perché questo pesciolino di pochissimi grammi è composto in gran parte solo da lische, interiora e scaglie. </p>\n<p>L&#39;unica &quot;preparazione classica&quot; storicamente nota non riguardava le padelle umane, ma gli acquari e i terrari: in passato veniva data cruda e viva in pasto a tartarughe d&#39;acqua o grossi pesci carnivori. Ma badate bene: oggi in Europa perfino detenerle o regalarle come mangime vivo è un reato. Questo non è un pesce da mettere nel piatto, è un pesce che si &quot;mangia&quot; letteralmente la biodiversità dei nostri stagni.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Eroi antimalarici italiani:</strong> Negli anni &#39;20 del Novecento, per debellare la malaria che flagellava il Paese, eminenti scienziati italiani come Giovanni Battista Grassi e Massimo Sella importarono le gambusie in Italia (prima passando per la Spagna). Furono gettate nelle acque di Ostia, delle Paludi Pontine e in Sicilia, dove si moltiplicarono con un tasso di sopravvivenza formidabile.</li>\n<li><strong>Respirano a galla:</strong> Quando nelle pozze stagnanti l&#39;ossigeno crolla a livelli letali, le gambusie non si arrendono. Si posizionano appena sotto la superficie dell&#39;acqua, dove lo strato liquido è ancora a contatto con l&#39;aria e trattiene un velo di ossigeno. Sono state persino viste sopravvivere dentro fosse settiche piene di liquami.</li>\n<li><strong>Banca dello sperma vivente:</strong> Dopo un solo accoppiamento, la femmina è in grado di immagazzinare e conservare vitale nel proprio corpo lo sperma di più maschi. Con questa &quot;scorta&quot;, può fecondare autonomamente dalle due alle sei nidiate successive nell&#39;arco della stessa stagione, senza bisogno di incontrare altri partner.</li>\n<li><strong>Asimmetria evolutiva:</strong> Le gambusie sono i peggiori serial killer dei nostri anfibi. I girini italiani, come quelli della Rana di Lataste o del Tritone crestato, non sono evolutivamente abituati a convivere con piccoli pesci predatori nordamericani. A causa di questa mancanza di &quot;memoria genetica&quot;, non riconoscono la Gambusia come un pericolo e si lasciano divorare senza attuare comportamenti di fuga o adattamenti.</li>\n<li><strong>Mangiatrici da record:</strong> Una singola Gambusia è una macchina mangia-zanzare inarrestabile. Si è osservato che una femmina può arrivare a ingurgitare larve in una sola giornata per un peso equivalente al 167% del suo stesso peso corporeo.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_primo-piano-habitat_2026-08-09T14-40-44.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_primo-piano-habitat_2026-08-09T14-40-44.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_habitat-largo_2026-08-09T14-51-28.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_azione_2026-08-09T14-54-08.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_sociale_2026-08-09T15-43-53.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_dettaglio-hd_2026-08-09T15-43-53.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-01T10:10:48.219Z",
+  "classification": {
+    "zones": [
+      "acquadolce"
+    ],
+    "habitat": "acquadolce",
+    "source": "WoRMS",
+    "evidence": "WoRMS: brackish; freshwater",
+    "water": {
+      "marine": false,
+      "brackish": true,
+      "fresh": true
+    },
+    "at": "2026-09-01T10:11:15.225Z"
+  }
+}

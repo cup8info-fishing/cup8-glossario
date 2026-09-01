@@ -104,6 +104,14 @@
     "publishedAt": "2026-08-17T05:30:00.137Z"
   },
   {
+    "id": "gambusia-affinis",
+    "name": "Gambusia",
+    "scientificName": "Gambusia affinis",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/gambusia-affinis/chatgpt_primo-piano-habitat_2026-08-09T14-40-44.webp",
+    "publishedAt": "2026-09-01T10:10:48.219Z"
+  },
+  {
     "id": "granchio-blu",
     "name": "Granchio blu",
     "scientificName": "Callinectes sapidus",
