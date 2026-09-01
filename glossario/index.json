@@ -416,6 +416,14 @@
     "publishedAt": "2026-07-02T15:20:59.487Z"
   },
   {
+    "id": "trota-iridea",
+    "name": "Trota iridea",
+    "scientificName": "Oncorhynchus mykiss",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/trota-iridea/chatgpt_primo-piano-habitat_2026-08-03T13-41-30.webp",
+    "publishedAt": "2026-09-01T10:09:50.023Z"
+  },
+  {
     "id": "velella",
     "name": "Velella",
     "scientificName": "Velella velella",
