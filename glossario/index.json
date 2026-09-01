@@ -32,6 +32,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "boga",
+    "name": "Boga",
+    "scientificName": "Boops boops",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/boga/chatgpt_primo-piano-habitat_2026-08-26T18-59-09.webp",
+    "publishedAt": "2026-09-01T10:09:18.353Z"
+  },
+  {
     "id": "carassio-dorato",
     "name": "Carassio dorato",
     "scientificName": "Carassius auratus",
