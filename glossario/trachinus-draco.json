@@ -1,0 +1,63 @@
+{
+  "id": "trachinus-draco",
+  "name": "Tracina drago",
+  "scientificName": "Trachinus draco",
+  "family": "Trachinidae.",
+  "category": "pesce_vertebrato",
+  "description": "La tracina drago ha un corpo allungato e compresso, una bocca ampia rivolta verso l'alto e occhi sporgenti sulla sommità del cranio. La sua livrea presenta una colorazione bruno-verdastra sul dorso e fianchi bianco-giallastri percorsi da vivaci strie oblique azzurre e gialle. Predatore d'agguato eccezionale, di giorno vive mimetizzata sotto la sabbia lasciando sporgere unicamente gli occhi e la prima pinna dorsale nera, mentre di notte diventa un attivo cacciatore pelagico, nuotando liberamente nella colonna d'acqua. Possiede aculei veleniferi (dorsali e opercolari) che inoculano un potente veleno a scopo difensivo, le cui tossine restano pericolosamente attive anche dopo la morte dell'animale.",
+  "habits": "* Reti da posta, reti a strascico e sciabiche costiere (pesca professionale in cui figura regolarmente tra il pescato). * Pesca sportiva o occasionale con lenze di ogni tipo o da traina, innescate indifferentemente con esche naturali o artificiali.",
+  "habitat": "Substrato: vive a stretto contatto con il fondale marino, prediligendo substrati sabbiosi, fangosi o ghiaiosi dove può infossarsi facilmente. Profondità tipica: spazia dalle acque basse (1-5 metri) fino a 150 metri, sebbene sia maggiormente concentrata nella fascia tra i 5 e i 30 metri durante la stagione estiva.",
+  "diet": "Specie carnivora e predatrice. I giovani si nutrono prevalentemente di piccoli invertebrati bentonici e planctonici (copepodi, misidacei, larve di decapodi); crescendo, gli adulti passano a predare piccoli pesci teleostei, grandi crostacei decapodi nuotatori e molluschi cefalopodi.",
+  "size": {
+    "min": 20,
+    "max": 53
+  },
+  "averageSize": "Solitamente le dimensioni degli esemplari maturi si aggirano tra i 20 e i 30 cm.",
+  "weight": {
+    "min": 0,
+    "max": 1.9
+  },
+  "pesoText": "1,90 kg (il record mondiale registrato dall'IGFA è di 1,74 kg).",
+  "maxAge": "Fino a 11 anni, documentata in studi su popolazioni di alcune aree del Mediterraneo.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Diffusa nell'intero Mar Mediterraneo, Mar Nero, Mar Egeo e nell'Oceano Atlantico orientale (dalla Norvegia fino al Marocco, incluse le isole Canarie e Madeira). In Italia è eccezionalmente comune in tutti i bacini: Adriatico, Tirreno, Ionio e Ligure.",
+  "iucnStatus": "LC (Least Concern / Rischio minimo). Rientra in questa categoria per la sua ampia distribuzione e per la mancanza di evidenze su una riduzione dei numeri o di minacce globali significative.",
+  "fishingRequirements": "Le fonti fornite non riportano l'esistenza di misure minime legali o di periodi di fermo biologico per l'Italia; a livello commerciale è spesso classificata come cattura accessoria (bycatch) non bersaglio, pur se altamente vulnerabile allo sfruttamento.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": true
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Chi ha avuto la sventura di appoggiarci inavvertitamente sopra un piede nudo, non la dimenticherà mai più! La <strong>tracina drago</strong> (nome scientifico <em>Trachinus draco</em>), conosciuta da tutti come <strong>pesce ragno</strong>, è un formidabile predatore dei nostri mari appartenente alla famiglia dei <strong>Trachinidae</strong>. </p>\n<p>È un pesce a crescita lenta ma piuttosto longevo, in grado di raggiungere dimensioni di tutto rispetto: la taglia media si aggira tra i <strong>20 e i 30 cm</strong>, ma i veri giganti possono toccare il record di <strong>53 cm</strong> di lunghezza per quasi <strong>1,9 kg</strong> di peso. </p>\n<p>Terrore dei bagnanti per la sua puntura dolorosissima, è al contempo una delle prede più ambite da chi ama la vera cucina di mare tradizionale.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>La tracina drago ha un <strong>corpo allungato</strong> (la lunghezza è più di sei volte l&#39;altezza) e schiacciato lateralmente. La bocca è ampia e rivolta verso l&#39;alto, così come gli <strong>occhi sporgenti</strong> posizionati sulla sommità del cranio, perfetti per sbirciare fuori quando è insabbiata. Il colore è <strong>bruno-verdastro</strong> sul dorso e <strong>bianco-giallastro</strong> sul ventre, ma il vero marchio di fabbrica sono le vivaci <strong>linee oblique azzurre e gialle</strong> che ne solcano i fianchi, oltre alle macchie scure sulla testa. </p>\n<p>La prima pinna dorsale è corta, di un inequivocabile <strong>colore nero</strong>, ed è armata di <strong>spine velenifere</strong>; un&#39;altra spina velenosa, lunga e robusta, si trova sull&#39;<strong>opercolo branchiale</strong> — la lamina ossea che copre e protegge le branchie. </p>\n<p>In mare puoi facilmente confonderla con le sue &quot;cugine&quot;, ma ecco come distinguerle:</p>\n<ul>\n<li><em>Trachinus radiatus</em> (tracina raggiata): ha macchie ad anello che ricordano il manto di un leopardo ed è l&#39;unica ad avere le <strong>pupille strette e allungate</strong>.</li>\n<li><em>Trachinus araneus</em> (tracina ragno): ha una sola fila di grosse macchie nere sui fianchi ed è molto bellicosa, tanto che se disturbata si lancia in una vera e propria danza intimidatoria.</li>\n<li><em>Echiichthys vipera</em> (tracina vipera): è minuscola (massimo 15 cm), priva di spinette davanti agli occhi, e ha il corpo cosparso di piccoli puntini marroni.</li>\n</ul>\n<p>L&#39;Italia è ricchissima di nomi dialettali per questa specie: a Genova la chiamano <strong>agna</strong> o <strong>traxina</strong>, in Veneto e Friuli è il <strong>varagno</strong>, a Livorno, Roma e Palermo semplicemente <strong>tracina</strong>. Spostandoci sull&#39;Adriatico diventa <strong>pesce ragno tigrato</strong> ad Ancona e <strong>parasaula</strong> a Bari. A Napoli la definiscono <strong>tracena liscia</strong>, mentre in Sicilia è la <strong>tracina pinta</strong> a Catania e <strong>carrubbara</strong> a Messina. </p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>È un pesce <strong>bentonico</strong> — vive cioè a stretto contatto con il fondale — diffusissimo in tutto il <strong>Mar Mediterraneo</strong>, nel Mar Nero e nell&#39;Oceano Atlantico orientale (dalla Norvegia fino al Marocco). Ama i <strong>fondali sabbiosi, fangosi o ghiaiosi</strong>. Sulla profondità massima le fonti litigano un po&#39;: chi dice si fermi a 100 metri, chi la spinge fino a 150 metri, ma di sicuro in estate si concentra in acque bassissime, dai 5 ai 20 metri, arrivando fino a riva.</p>\n<p>È un <strong>predatore d&#39;agguato</strong> carnivoro ed eccezionale trasformista. Di giorno vive <strong>completamente infossata nella sabbia</strong>, lasciando sporgere solo gli occhi e la temibile pinna dorsale nera, pronta a scattare fulminea su piccoli pesci, crostacei e molluschi. Ma la notte cambia abito: abbandona il fondale e diventa una nuotatrice <strong>pelagica</strong> (che nuota nella colonna d&#39;acqua), cacciando attivamente a mezz&#39;acqua. </p>\n<p>È una specie ovipara; la <strong>riproduzione</strong> avviene in estate (tra giugno e agosto) e le uova, grandi appena 1 mm, vengono rilasciate in mare aperto dove fluttuano trasportate dalle correnti.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>La tracina drago non è quasi mai il bersaglio principale di flotte dedicate, ma rappresenta un&#39;eccellente <strong>cattura accessoria</strong> (il cosiddetto <em>bycatch</em>). Finisce regolarmente nelle <strong>reti a strascico</strong> o nelle <strong>reti da posta</strong> professionali, ma abbocca con estrema voracità anche alle lenze dei pescatori sportivi e alle traine, attaccando sia esche naturali che artificiali.</p>\n<p>Essendo un predatore di fondo che cresce lentamente, in alcune zone è piuttosto vulnerabile alla pesca intensiva a strascico. Tuttavia, a livello globale le popolazioni sono abbondanti e il suo stato di conservazione è classificato come <strong>Rischio minimo (LC - Least Concern)</strong> dalla IUCN. Non esiste allevamento per questa specie.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>La tracina è considerata un &quot;pesce povero&quot;, ma chi se ne intende sa che ha un valore gastronomico immenso. Disponibile in ogni stagione, ha carni <strong>bianche, sode, magre e saporitissime</strong>, con una consistenza delicata che ricorda molto la sogliola o l&#39;orata, oltre a essere un&#39;ottima fonte di Omega-3. </p>\n<p>Il consiglio d&#39;oro del pescatore al banco? <strong>Fattela sempre pulire dal pescivendolo!</strong> Chiedi di rimuovere la testa e tagliare le spine velenose con forbici robuste. Il veleno, infatti, resta pericolosamente attivo anche quando il pesce è morto da ore o è stato congelato.</p>\n<p>In cucina dà il meglio di sé in base alla taglia:</p>\n<ul>\n<li><strong>Zuppe di mare:</strong> Gli esemplari più piccoli sono l&#39;ingrediente segreto e immancabile per dare corpo a preparazioni tradizionali come la <em>bouillabaisse</em> francese, il <em>brodetto</em> adriatico o il <em>ciuppin</em> ligure.</li>\n<li><strong>In guazzetto alla borbonica:</strong> Gli esemplari più grandi sfilettati sono spettacolari cotti rapidamente in padella con olio extravergine, aglio, pomodorini gialli e decorati con striscioline di peperone friggitello crudo.</li>\n<li><strong>Con la pasta:</strong> La sua polpa è perfetta per condire degli spaghettoni o delle mezze maniche: basta scottarla con aglio, peperoncino, datterini e sfumare col vino bianco per un primo piatto indimenticabile.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Acqua calda, non urina!</strong> Il veleno della tracina è <em>termolabile</em>, ovvero viene distrutto dal calore. Se vieni punto, il rimedio infallibile è immergere la parte in <strong>acqua molto calda</strong> (40°-50° C) o infilarla nella sabbia rovente per almeno 30 minuti. Farci pipì sopra? È solo una vecchia (e inutile) credenza popolare!</li>\n<li><strong>Un dolore da svenimento:</strong> Il veleno non è letale per l&#39;uomo, ma il dolore è così lancinante e violento che può propagarsi a tutto l&#39;arto e provocare cali di pressione, nausea o veri e propri svenimenti.</li>\n<li><strong>Il nome &quot;ragno&quot;:</strong> Viene chiamata pesce ragno non a caso: la sua strategia di caccia infossata nella sabbia ricorda esattamente quella dei ragni botola terrestri, che aspettano la preda mimetizzati nelle loro tane.</li>\n<li><strong>Mostro dell&#39;antichità:</strong> La sua fama la precede da millenni. Già Plinio il Vecchio, nella sua monumentale opera, la chiamava <em>draco marinus</em> (drago marino) descrivendo la sua prodigiosa velocità nello scavarsi buche e seppellirsi nella sabbia.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_primo-piano-habitat_2026-08-15T14-39-17.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_primo-piano-habitat_2026-08-15T14-39-17.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_sociale_2026-08-12T21-35-43.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_habitat-largo_2026-08-13T11-34-40.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_azione_2026-08-13T11-34-42.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinus-draco/chatgpt_dettaglio-hd_2026-08-13T11-34-45.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-01T10:11:29.942Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 1-150 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-09-01T10:11:42.064Z"
+  }
+}
