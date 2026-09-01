@@ -48,6 +48,14 @@
     "publishedAt": "2026-07-09T10:53:50.991Z"
   },
   {
+    "id": "carpa-comune",
+    "name": "Carpa comune",
+    "scientificName": "Cyprinus carpio",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/carpa-comune/chatgpt_primo-piano-habitat_2026-08-03T12-06-19.webp",
+    "publishedAt": "2026-09-01T10:09:23.073Z"
+  },
+  {
     "id": "cefalo",
     "name": "Cefalo",
     "scientificName": "Mugil cephalus",
