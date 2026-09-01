@@ -328,6 +328,14 @@
     "publishedAt": "2026-07-21T19:32:52.659Z"
   },
   {
+    "id": "scardola",
+    "name": "Scardola",
+    "scientificName": "Scardinius erythrophthalmus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/scardola/chatgpt_primo-piano-habitat_2026-08-05T13-00-48.webp",
+    "publishedAt": "2026-09-01T10:10:18.555Z"
+  },
+  {
     "id": "sciarrano",
     "name": "Sciarrano",
     "scientificName": "Serranus scriba",
