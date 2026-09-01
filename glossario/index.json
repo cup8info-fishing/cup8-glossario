@@ -456,6 +456,14 @@
     "publishedAt": "2026-09-01T10:11:29.942Z"
   },
   {
+    "id": "trota-fario",
+    "name": "Trota fario",
+    "scientificName": "Salmo trutta",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/trota-fario/chatgpt_primo-piano-habitat_2026-08-17T01-02-50.webp",
+    "publishedAt": "2026-09-01T10:12:07.429Z"
+  },
+  {
     "id": "trota-iridea",
     "name": "Trota iridea",
     "scientificName": "Oncorhynchus mykiss",
