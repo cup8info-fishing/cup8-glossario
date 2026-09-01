@@ -1,0 +1,64 @@
+{
+  "id": "torpedine-ocellata",
+  "name": "Torpedine ocellata",
+  "scientificName": "Torpedo torpedo",
+  "family": "Torpedinidae.",
+  "category": "pesce_vertebrato",
+  "description": "La Torpedine ocellata si riconosce facilmente per il corpo appiattito a forma di disco sub-circolare, privo di scaglie o denticoli dermici. Sul dorso (di colore marrone o rossastro) presenta caratteristiche macchie azzurre, dette ocelli, solitamente 5 e disposte simmetricamente (tre davanti e due dietro) e circondate da anelli scuri e chiari. Si tratta di un predatore da agguato, notturno e solitario: passa le giornate insabbiato sul fondo ed emerge di notte per cacciare, utilizzando una coppia di organi elettrici a forma di fagiolo situati nelle pinne pettorali per scaricare fino a 200 volt. Questo meccanismo è letale per i piccoli pesci e serve anche da difesa; per un uomo, la scossa è dolorosa e può disorientare, ma non costituisce un pericolo letale.",
+  "habits": "Essendo una specie priva di valore economico o sportivo, non esiste una pesca a lei mirata; le interazioni con i pescatori avvengono esclusivamente in forma di bycatch (catture accidentali). Le tecniche e gli attrezzi in cui incappa più di frequente sono: * Reti a strascico di fondo (bottom trawls), responsabili della maggior parte delle catture accidentali a livello commerciale. * Reti da posta fisse e tramagli (set nets e trammel nets), che intrappolano gli esemplari bentonici che nuotano a ridosso del fondo. * Palangari di fondo (palamiti), attratta occasionalmente dalle esche depositate sul substrato.",
+  "habitat": "Specie demersale o bentonica, predilige substrati morbidi come fondali sabbiosi, fangosi o le praterie di fanerogame (es. *Posidonia oceanica*). Vive tipicamente in acque costiere poco profonde, tra i 2 e i 70 metri, sebbene eccezionalmente sia stata individuata fino a 400 metri di profondità.",
+  "diet": "Essenzialmente piscivora, si nutre di piccoli e medi pesci ossei bentonici o bentopelagici come sogliole, aringhe, triglie, ghiozzi, gronghi e dragoncelli. Gli esemplari giovani presentano una dieta più varia che include anche invertebrati come crostacei e policheti.",
+  "size": {
+    "min": 30,
+    "max": 60
+  },
+  "averageSize": "Circa 30 cm per gli esemplari maschi e 39 cm per le femmine.",
+  "weight": {
+    "min": 0,
+    "max": 40
+  },
+  "pesoText": "Le fonti non registrano un record di peso massimo assoluto globale, tuttavia gli studi riportano femmine pesanti fino a 1,25 kg per circa 40 cm di lunghezza.",
+  "maxAge": "Oltre i 10 anni di vita.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Oceano Atlantico orientale (dal Golfo di Biscaglia fino all'Angola) e Mar Mediterraneo, dove risulta particolarmente comune nel bacino occidentale e lungo le coste del Nord Africa. È stata segnalata anche nel Tirreno e nello Ionio, mentre in mare Adriatico ha subìto un declino diventando estremamente rara.",
+  "iucnStatus": "VU (Vulnerable / Vulnerabile) - Classificata in questa categoria a causa di un calo della popolazione stimato tra il 30% e il 49% negli ultimi 30 anni, dovuto all'elevata pressione della pesca (catture accidentali o bycatch) e al degrado degli habitat costieri.",
+  "fishingRequirements": "Le fonti fornite non riportano misure minime legali o specifici periodi di fermo biologico in Italia per la specie. Tuttavia, essendo considerata una specie vulnerabile, beneficia delle restrizioni previste dal Regolamento UE 2019/1241 sulle misure tecniche per la riduzione dell'impatto della pesca sugli elasmobranchi. Date le sue carni flaccide e prive di sapore, è priva di valore commerciale e, quando catturata, viene generalmente rigettata in mare.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate di passeggiare a piedi nudi in pochi centimetri d&#39;acqua e... ZAP! Siete appena stati colpiti da una scarica da 200 volt. Benvenuti nel mondo della torpedine ocellata o torpedine comune (<em>Torpedo torpedo</em>), un vero e proprio accumulatore di energia vivente della famiglia dei Torpedinidae.</p>\n<p>Non si tratta di un colosso del mare: i maschi si fermano mediamente attorno ai 30 cm di lunghezza, mentre le femmine, più robuste, raggiungono i 39 cm. I record assoluti parlano di 60 cm per gli esemplari più grandi. È un animale che ama prendersela comoda, cresce lentamente e può superare agilmente i 10 anni di vita.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Il suo corpo è inconfondibile, appiattito a forma di disco quasi circolare: in pratica, testa, tronco e pinne pettorali sono fuse insieme in un unico blocco, seguito da una coda tozza e corta con due pinne dorsali e una grande pinna caudale a triangolo smussato. Scordatevi le squame: la sua pelle è completamente liscia e morbida.</p>\n<p>Il dorso varia dall&#39;arancio ruggine al marrone scuro, mentre la pancia è di un delicato bianco panna. Ma il suo segno di riconoscimento per eccellenza sono gli ocelli: meravigliose macchie blu, circondate da anelli scuri e chiari, che sembrano veri e propri occhi dipinti. Di solito sono cinque (tre posizionati davanti e due dietro), ma la natura è bizzarra e si possono trovare esemplari senza macchie o con ben nove ocelli.</p>\n<p>Non va confusa con la cugina, la torpedine marmorata (<em>Torpedo marmorata</em>): quest&#39;ultima, come dice il nome, ha un dorso screziato e marmorizzato, ma non possiede mai i bellissimi ocelli blu. Lungo le nostre coste i pescatori l&#39;hanno battezzata in mille modi per descrivere il tremore della sua scossa: in Italia potreste sentirla chiamare <em>strompigliola</em>, <em>tremmula ucchiata</em>, <em>tremoja</em>, <em>tremola</em> o <em>arcisa</em>.</p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>Questa specie bazzica l&#39;Oceano Atlantico orientale (dal Golfo di Biscaglia giù fino all&#39;Angola) e tutto il Mar Mediterraneo. Ama la vita costiera, sguazzando nei bassi fondali tra i 2 e i 70 metri, anche se in casi eccezionali può scivolare fino a 400 metri di profondità. Essendo un animale bentonico (ovvero legato alla vita sul fondo marino), predilige i substrati morbidi come sabbia, fango e praterie di <em>Posidonia oceanica</em>.</p>\n<p>È decisamente notturna e solitaria: di giorno se ne sta insabbiata mimetizzandosi alla perfezione per risparmiare energie, mentre di notte entra in azione. È un formidabile predatore d&#39;agguato: avverte la presenza delle prede grazie a recettori di campi elettrici, poi le fulmina scaricando l&#39;energia accumulata nei suoi due organi elettrici a forma di fagiolo posti ai lati della testa. Mangia soprattutto pesciolini di fondale (sogliole, triglie, ghiozzi) che ingoia interi partendo dalla testa.</p>\n<p>La riproduzione è ovovivipara: le uova si schiudono dentro la madre e i piccoli (da 3 a 28) si sviluppano per 4-8 mesi, nutriti dal tuorlo e da uno speciale &quot;latte uterino&quot; (istotrofo). Nascono a fine estate, già pronti e &quot;carichi&quot; per la vita solitaria.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Non ci sono pescatori che escono in mare con l&#39;intento specifico di prendere torpedini. Finiscono quasi sempre vittima delle catture accidentali (il cosiddetto bycatch) in reti a strascico, tramagli e palamiti da fondo destinati ad altre specie.</p>\n<p>Essendo prive di valore commerciale o sportivo, le torpedini catturate vengono per lo più rigettate in mare, ma molte purtroppo non sopravvivono allo stress e alle ferite provocate dagli attrezzi. Tutto questo, unito alla continua distruzione degli habitat costieri in cui vive, ha causato un grave declino: nel Mediterraneo la popolazione è calata del 30-49% negli ultimi trent&#39;anni, motivo per cui oggi la specie è classificata come Vulnerabile (VU) nella Lista Rossa mondiale dell&#39;IUCN.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Parliamoci chiaro da marinai: la carne della torpedine ha scarsa appetibilità. Essendo di poco conto per il palato, non la troverete quasi mai sui banchi del pesce, poiché viene costantemente scartata dai pescatori professionisti.</p>\n<p>Se per qualche motivo incrociate una torpedine in un mercato locale, per valutarne la freschezza dovete guardare la pelle (che deve essere priva di squame, viscida, integra e non rovinata) e i colori degli ocelli, che devono risultare ancora vividi e brillanti.</p>\n<p>Il consiglio spassionato del pescatore? Trattandosi di una specie minacciata e non prelibata, se vi entra in rete la cosa più saggia è slamare con attenzione e rimetterla subito a nuotare! Ma se proprio vogliamo cercare una ricetta &quot;classica&quot;, dobbiamo viaggiare indietro nel tempo: il celebre Ippocrate raccomandava di mangiarne la carne arrostita come cura contro asma e idropisia. Più una medicina che una pietanza!</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Il primo elettroshock della storia:</strong> nel I secolo d.C., il medico romano Scribonio Largo curava il mal di testa e la gotta dei pazienti usando torpedini vive. Piazzava il pesce sulla fronte o sotto la pianta del piede del malato, lasciandolo lì finché la scossa elettrica non intorpidiva completamente la zona attenuando il dolore!</li>\n<li><strong>Paralisi linguistica:</strong> la parola &quot;torpedine&quot; deriva dal latino <em>torpere</em>, che significa intorpidire, irrigidire o essere paralizzati, proprio per descrivere l&#39;effetto immediato della sua scossa. Da qui prende il nome anche il famigerato missile sottomarino (&quot;torpedo&quot; in inglese) inventato a scopo militare.</li>\n<li><strong>Un filosofo fulminante:</strong> Platone paragonò Socrate proprio a una torpedine. Il motivo? Con la sua retorica pungente e le sue domande difficili, il filosofo riusciva a stordire, confondere e paralizzare l&#39;anima e la lingua dei suoi interlocutori.</li>\n<li><strong>La dieta di Galeno:</strong> il famoso medico dell&#39;antichità Galeno consigliava la torpedine come l&#39;unico pesce cartilagineo adatto all&#39;alimentazione dei fanciulli affetti da epilessia.</li>\n<li><strong>Fantasmi elettrici:</strong> di solito hanno 5 ocelli, ma la natura è piena di sorprese. Oltre alle varianti con ben nove macchie pescate in Francia, in Tunisia è stato addirittura catturato uno straordinario esemplare femmina completamente albino.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_primo-piano-habitat_2026-08-05T09-31-19.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_primo-piano-habitat_2026-08-05T09-31-19.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_habitat-largo_2026-08-05T09-34-47.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_azione_2026-08-05T09-38-12.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_sociale_2026-08-05T09-41-50.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_dettaglio-hd_2026-08-05T09-44-56.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-01T10:11:18.648Z",
+  "classification": {
+    "zones": [
+      "costa",
+      "profondi"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 2-400 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-09-01T10:11:23.569Z"
+  }
+}

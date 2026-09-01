@@ -432,6 +432,14 @@
     "publishedAt": "2026-07-02T15:20:59.487Z"
   },
   {
+    "id": "torpedine-ocellata",
+    "name": "Torpedine ocellata",
+    "scientificName": "Torpedo torpedo",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/torpedine-ocellata/chatgpt_primo-piano-habitat_2026-08-05T09-31-19.webp",
+    "publishedAt": "2026-09-01T10:11:18.648Z"
+  },
+  {
     "id": "trota-iridea",
     "name": "Trota iridea",
     "scientificName": "Oncorhynchus mykiss",
