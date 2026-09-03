@@ -248,6 +248,14 @@
     "publishedAt": "2026-08-06T08:20:51.783Z"
   },
   {
+    "id": "pesce-castagna",
+    "name": "Pesce castagna",
+    "scientificName": "Brama brama",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-castagna/chatgpt_primo-piano-habitat_2026-08-16T14-53-36.webp",
+    "publishedAt": "2026-09-03T23:33:13.427Z"
+  },
+  {
     "id": "dactylopterus-volitans",
     "name": "Pesce civetta",
     "scientificName": "Dactylopterus volitans",
