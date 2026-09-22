@@ -24,7 +24,7 @@
   "iucnStatus": "",
   "fishingRequirements": "",
   "badges": {
-    "protected": false,
+    "protected": true,
     "alien": null,
     "venomous": false
   },
@@ -39,7 +39,7 @@
     "https://cup8info-fishing.github.io/cup8-glossario/glossario/delfino-comune/chatgpt_dettaglio-hd_2026-08-17T09-05-50.webp"
   ],
   "source": "atlas",
-  "publishedAt": "2026-09-01T10:11:45.949Z",
+  "publishedAt": "2026-09-22T00:04:33.479Z",
   "classification": {
     "zones": [
       "costa"
