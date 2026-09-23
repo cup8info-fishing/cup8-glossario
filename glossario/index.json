@@ -320,6 +320,14 @@
     "publishedAt": "2026-07-09T09:53:57.883Z"
   },
   {
+    "id": "rutilus-rutilus",
+    "name": "Rutilo",
+    "scientificName": "Rutilus rutilus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/rutilus-rutilus/chatgpt_primo-piano-habitat_2026-08-19T18-31-31.webp",
+    "publishedAt": "2026-09-23T19:35:57.515Z"
+  },
+  {
     "id": "salpa",
     "name": "Salpa",
     "scientificName": "Sarpa salpa",
