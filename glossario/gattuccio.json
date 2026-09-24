@@ -1,0 +1,71 @@
+{
+  "id": "gattuccio",
+  "name": "Gattuccio",
+  "scientificName": "Scyliorhinus canicula",
+  "family": "Scyliorhinidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il Gattuccio è un piccolo squalo dal corpo estremamente snello e flessibile, caratterizzato da un muso corto, testa schiacciata e grandi occhi neri ovali simili a quelli dei felini, privi di membrana nittitante. La sua livrea inconfondibile presenta un colore di fondo da sabbia dorato a grigio-brunastro, costellato da una densa puntinatura scura (con macchioline più piccole degli spiracoli) e a volte chiara, interrotta da 8-10 bande dorsali a forma di sella. Di giorno riposa in caverne o su sedimento morbido, mentre di notte caccia sfruttando lo sviluppato olfatto e i recettori di campi elettrici (ampolle di Lorenzini); è una specie assolutamente innocua per l'uomo.",
+  "habits": "- Reti a strascico: È il metodo commerciale preponderante, specialmente su fondali fangosi e sabbiosi in profondità, con un alto tasso di cattura (spesso accidentale). - Palangari di fondo (palamiti o lenze): Questa è la tecnica d'elezione e tradizionale utilizzata sia nella pesca artigianale italiana che dal pescatore sportivo per insidiare i gattucci dalla barca in acque medio-profonde. - Reti da posta e reti da imbrocco: Calate sul fondo o in prossimità della scogliera coralligena, impiegate diffusamente dalle marinerie lungo le coste.",
+  "habitat": "Benthic (specie di fondo), predilige substrati sabbiosi, fangosi, ghiaiosi e letti di alghe corallinacee (maerl). La profondità tipica varia dai fondali bassi sub-litorali (da 5 a 10 metri) fino a 110-400 metri di profondità, ma nel Mar Ionio orientale la specie si spinge eccezionalmente in acque profonde fino a 780 metri.",
+  "diet": "È un predatore generalista e spazzino opportunista dalle abitudini notturne; si ciba prevalentemente di crostacei decapodi (paguri, gamberi, granchi), molluschi (gasteropodi, bivalvi e cefalopodi), vermi policheti, echinodermi e piccoli pesci teleostei demersali o bentonici.",
+  "size": {
+    "min": 50,
+    "max": 100
+  },
+  "averageSize": "50 - 60 cm.",
+  "weight": {
+    "min": 0,
+    "max": 3.7
+  },
+  "pesoText": "3,7 kg.",
+  "maxAge": "12 anni (con alcune stime che riportano casi fino a 20 anni in alcune popolazioni atlantiche).",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia",
+    "Puglia",
+    "Campania",
+    "Calabria",
+    "Veneto",
+    "Marche",
+    "Abruzzo",
+    "Mediterraneo"
+  ],
+  "regioniText": "Specie abbondantissima in tutto il bacino del Mediterraneo; frequenta ampiamente le coste italiane, risultando tra gli elasmobranchi più comuni nei mari Adriatico, Ligure, Tirreno e Ionio, con forte radicamento in Sardegna, Sicilia, Campania, Calabria, Puglia, Veneto, Emilia-Romagna, Marche e Abruzzo.",
+  "iucnStatus": "LC (Least Concern - Rischio Minimo). Le popolazioni di Gattuccio sono considerate stabili o in aumento in quasi tutto il loro areale, poiché la specie possiede una crescita relativamente veloce, maturazione precoce e un altissimo tasso di sopravvivenza (tra il 78% e il 98%) qualora catturata accidentalmente e rigettata in mare.",
+  "fishingRequirements": "Attualmente non esiste una misura minima legale di conservazione (MCRS) a livello italiano o della legislazione UE, né periodi di fermo biologico specificamente previsti per questa specie. Gli scienziati, tuttavia, raccomandano fortemente di allineare eventuali limitazioni alla taglia di maturità locale (circa 37 cm nel Mediterraneo) per non decimare gli esemplari immaturi.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Mettetevi comodi, perché oggi vi parlo di uno squalo. Sì, avete capito bene, uno squalo, ma scordatevi la pinna minacciosa de &quot;Lo Squalo&quot; di Spielberg. Vi presento il Gattuccio, nome in codice <em>Scyliorhinus canicula</em>, un fiero e snello membro della famiglia degli Scyliorhinidae. Il suo nome scientifico è un piccolo capolavoro di ironia: unisce il gatto (dal greco <em>skylla</em>, squalo o mostro marino, che però popolarmente richiama i felini per i suoi occhi) e il cane (<em>canicula</em>, piccola cagnolina in latino). E in effetti, in inglese lo chiamano &quot;dogfish&quot; (pesce cane), mentre noi lo chiamiamo gattuccio. </p>\n<p>È un tipetto che non ama le luci della ribalta. Dimensioni tipiche? Si aggira in media sui 50-60 centimetri, e non supera mai il metro di lunghezza e i 3,7 kg di peso. Sull&#39;età massima le fonti litigano: chi dice che campa al massimo 12 anni, chi giura di arrivare fino a 20 — probabilmente dipende dalla zona e dalle temperature del mare in cui sguazza. </p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Incontrare un <em>Scyliorhinus canicula</em> è un&#39;esperienza cromatica. Ha un corpo agilissimo, slanciato e schiacciato sul dorso, che termina in un musetto corto e arrotondato. Ma il vero tocco di classe sono gli occhi: grandi, neri, ovali, proprio come quelli di un gatto, privi di quella membrana protettiva (la nittitante) che hanno altri squali. La sua &quot;giacca&quot; è inconfondibile: un fondo color sabbia dorata o grigio-brunastro, tempestato da una miriade di macchioline scure e, a volte, bianche, intervallate da 8-10 bande più scure a forma di sella sul dorso. </p>\n<p>Attenzione a quando lo accarezzate! La sua pelle è ricoperta da squame placoidi — microscopici dentini di smalto. Se lo accarezzate dalla testa alla coda vi sembrerà liscio, ma provate a farlo contropelo e vi scorticherete la mano come se steste toccando carta vetrata. Le due piccole pinne dorsali sono posizionate molto indietro, quasi verso la coda, ben oltre le pinne ventrali.</p>\n<p><strong>Come non farsi fregare:</strong> Lo si confonde spesso con il &quot;cugino maggiore&quot;, il Gattopardo o Grande roussette (<em>Scyliorhinus stellaris</em>). Il trucco per distinguerli? Guardate le macchie e il naso. Il Gattuccio ha macchie <strong>più piccole</strong> dei suoi spiracoli (i forellini dietro gli occhi che usa per respirare) e due piccole alette nasali che gli coprono il labbro superiore, raggiungendo la bocca. Il Gattopardo, invece, ha macchie grandi e alette nasali separate che non toccano la bocca. </p>\n<p>Lungo le nostre coste ogni porto ha il suo modo per chiamarlo: in Liguria è il <em>Pinto-rousso</em> o <em>Gatusso</em>, in Veneto la <em>Gata de Quarnero</em>, in Puglia lo chiamano <em>Pesce cagnulo</em> o <em>Gattodde</em>, a Napoli <em>Cacciuottolo</em>, mentre se andate in Sicilia chiedete del <em>Jattupaddu</em> o <em>Cazzuni</em>, e in Sardegna del <em>Gattu de mari</em>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un vero e proprio pantofolaio dei fondali. Ama i substrati sabbiosi, fangosi, ghiaiosi o i letti di alghe corallinacee di tutto il Mediterraneo e dell&#39;Atlantico nord-orientale. Lo trovate a partire da pochi metri d&#39;acqua, a due passi dalla riva, fin giù negli abissi a 400 metri, spingendosi eccezionalmente fino a 780 metri nel Mar Ionio orientale. </p>\n<p>Di giorno è un pigrone solitario che dorme adagiato sul fondo, ma con una curiosa separazione tra i sessi: i maschi riposano spaparanzati sulla sabbia aperta, mentre le femmine preferiscono nascondersi in piccole grotte e anfratti rocciosi a bassissima profondità. Di notte, invece, si trasforma in un predatore attivissimo (soprattutto in autunno, quando l&#39;attività raggiunge il picco) e va a caccia di granchi, paguri, gasteropodi, vermi policheti e piccoli pesci di fondo. </p>\n<p>La riproduzione è roba forte. È una specie ovipara (depone le uova). Durante l&#39;accoppiamento il maschio, per tenersi saldo, morde ferocemente le pinne pettorali della femmina; per sopravvivere a queste &quot;effusioni&quot;, madre natura ha dotato le femmine di una pelle molto più spessa di quella dei maschi. Le uova vengono deposte quasi tutto l&#39;anno. E attenzione: se i maschi scarseggiano, le femmine possono conservare lo sperma vitale in appositi tubuli per mesi, fecondando le uova in totale autonomia temporale. </p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Non è un pesce che i grandi pescherecci vanno a cercare di proposito. Finisce spessissimo nelle reti a strascico, nei tramagli o abbocca ai palangari di fondo come cattura accidentale (bycatch). Avendo un basso valore commerciale (&quot;pesce povero&quot;), gran parte dei gattucci pescati dalle grandi flotte atlantiche e del nord della Spagna viene ributtata in mare.</p>\n<p>Ma qui c&#39;è la bella notizia: il suo stato di conservazione secondo la lista rossa IUCN è <strong>Rischio Minimo (LC - Least Concern)</strong>. Questo perché ha una crescita rapida, si riproduce presto e, soprattutto, è un osso durissimo. Se viene ributtato in acqua dai pescatori, il suo tasso di sopravvivenza è altissimo, superando in alcuni casi il 90%. È talmente robusto e stanziale che viene regolarmente allevato come specie modello negli acquari scientifici per studiare lo sviluppo e l&#39;evoluzione dei vertebrati.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Il Gattuccio è una gemma della cucina povera marinara, disponibile sul mercato da marzo a novembre. Lo trovate sui banchi spesso già spellato, decapitato ed eviscerato (in Francia lo chiamano <em>saumonette</em> per il suo colore rosato). Le sue carni sono magrissime (appena 1% di grassi), super proteiche e hanno una consistenza compatta e dura. La cosa che fa impazzire le nonne? È un pesce <strong>senza lische</strong>, ha solo la colonna vertebrale centrale cartilaginea: perfetto per i bambini!.</p>\n<p><strong>Il consiglio del pescatore per spellarlo:</strong> \nLa sua pelle ruvida è un inferno da togliere a crudo. Il trucco? Prendete i tranci, tuffateli in acqua bollente aromatizzata con foglie di alloro e limone per circa 10 minuti. Il tessuto connettivo si gelatinizza e, passandolo sotto l&#39;acqua tiepida, la pelle verrà via grattandola con un coltello con una facilità imbarazzante. </p>\n<p><strong>In cucina:</strong></p>\n<ul>\n<li><strong>Gattuccio in umido alla Messinese:</strong> Semplice e divino. Soffriggete cipolla, olive verdi, capperi dissalati, sedano e finocchietto selvatico. Aggiungete passata di pomodoro e acqua, fate restringere e tuffateci i tranci di gattuccio leggermente infarinati. L&#39;amido della farina legherà il pomodoro in una cremina che urla &quot;scarpetta&quot;.</li>\n<li><strong>Sa Burrida (Cagliari/Oristano):</strong> Il capolavoro assoluto della conservazione sarda, erede di antiche ricette arabe e romane. Il pesce viene lessato in acqua, alloro e aceto. A parte si fa un pesto tritando finemente noci, aglio e... il fegato bollito del pesce! Si emulsiona tutto in padella con olio e tanto aceto bianco. I tranci vengono poi sommersi in questa salsa agrodolce e lasciati marinare in frigo dalle 24 alle 48 ore. Si mangia freddo: pazzesco.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Ha un radar per l&#39;elettricità:</strong> Per scovare i granchi e le sogliole nascoste sotto la sabbia al buio, usa un &quot;sesto senso&quot;. Possiede le <em>Ampolle di Lorenzini</em>, minuscoli recettori sul muso capaci di captare i campi bioelettrici (fino a meno di 1 nanovolt!) generati dal battito cardiaco o dai muscoli delle prede.</li>\n<li><strong>Il fegato è &quot;Dottor Jekyll e Mr. Hyde&quot;:</strong> Le sue carni sono sanissime, ma il suo fegato è tossico se consumato crudo o in grandi quantità. Accumula livelli estremi di Vitamina A che possono scatenare l&#39;ipervitaminosi A (mal di testa, vomito, desquamazione della pelle). Eppure, i sardi hanno imparato nei secoli a usarne piccole dosi cotte, &quot;domandole&quot; con l&#39;acidità dell&#39;aceto per legare la salsa della Burrida. Geni.</li>\n<li><strong>I borsellini delle sirene:</strong> Le sue uova sono delle capsule rettangolari color ambra o marrone con dei lunghi viticci arricciati agli angoli, che sembrano quasi di plastica. Spesso, dopo la schiusa, le mareggiate le portano a riva vuote: gli inglesi le chiamano poeticamente <em>mermaid&#39;s purses</em> (i borsellini delle sirene).</li>\n<li><strong>Gemelli siamesi:</strong> In rarissimi casi studiati dalla scienza, da un singolo uovo di gattuccio possono nascere due gemelli omozigoti identici, collegati allo stesso sacco vitellino. </li>\n<li><strong>Non chiamatelo pesce gatto!</strong> Al banco del pesce molta gente fa confusione tra il <em>Gattuccio</em> di mare e il <em>Pesce gatto</em> d&#39;acqua dolce (<em>Ictalurus punctatus</em>). Non c&#39;entrano nulla: il pesce gatto vive nei fiumi ed è pieno di grassi (il 45% delle sue calorie viene dai lipidi!), il gattuccio è un elasmobranco marino magrissimo e ricco di preziosi Omega-3.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_primo-piano-habitat_2026-08-20T14-44-04.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_primo-piano-habitat_2026-08-20T14-44-04.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_habitat-largo_2026-08-20T14-44-06.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_azione_2026-08-20T14-44-09.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_sociale_2026-08-20T14-44-11.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/gattuccio/chatgpt_dettaglio-hd_2026-08-20T14-44-13.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-24T05:30:02.721Z",
+  "classification": {
+    "zones": [
+      "costa",
+      "profondi"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 10-780 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-09-08T05:30:00.950Z"
+  }
+}
