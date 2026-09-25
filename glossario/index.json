@@ -136,6 +136,14 @@
     "publishedAt": "2026-07-09T10:53:47.684Z"
   },
   {
+    "id": "granciporro",
+    "name": "Granciporro",
+    "scientificName": "Cancer pagurus",
+    "category": "invertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/granciporro/chatgpt_primo-piano-habitat_2026-08-20T13-10-38.webp",
+    "publishedAt": "2026-09-25T05:30:02.735Z"
+  },
+  {
     "id": "lampuga",
     "name": "Lampuga",
     "scientificName": "Coryphaena hippurus",
