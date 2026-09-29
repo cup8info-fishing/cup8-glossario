@@ -32,6 +32,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "balenottera-comune",
+    "name": "Balenottera comune",
+    "scientificName": "Balaenoptera physalus",
+    "category": "resto",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/balenottera-comune/chatgpt_primo-piano-habitat_2026-08-22T04-00-56.webp",
+    "publishedAt": "2026-09-29T05:30:04.451Z"
+  },
+  {
     "id": "boga",
     "name": "Boga",
     "scientificName": "Boops boops",
