@@ -32,6 +32,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "aragosta-mediterranea",
+    "name": "Aragosta mediterranea",
+    "scientificName": "Palinurus elephas",
+    "category": "invertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/aragosta-mediterranea/chatgpt_primo-piano-habitat_2026-08-21T03-25-37.webp",
+    "publishedAt": "2026-09-30T05:30:06.429Z"
+  },
+  {
     "id": "balenottera-comune",
     "name": "Balenottera comune",
     "scientificName": "Balaenoptera physalus",
