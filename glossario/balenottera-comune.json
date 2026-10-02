@@ -9,13 +9,13 @@
   "habitat": "Specie prevalentemente pelagica di acque profonde offshore, ma che frequenta regolarmente aree costiere e margini della piattaforma continentale, specialmente in prossimità di canyon sottomarini e fronti di upwelling (risalita di acque profonde ricche di nutrienti). Si immerge tipicamente fino a profondità di 200-250 metri, potendo raggiungere i 470 metri durante il giorno per foraggiare. Mostra un comportamento migratorio flessibile di tipo nomade opportunista, spostandosi stagionalmente in base alla disponibilità di cibo: in primavera-estate si concentra nel Mediterraneo nord-occidentale, mentre in autunno-inverno si disperde verso sud (Canale di Sicilia e Mar Ionio), con una parte della popolazione che compie migrazioni verso l'Atlantico settentrionale attraverso lo Stretto di Gibilterra.",
   "diet": "Filtratore planctofago: nel Mediterraneo si nutre quasi esclusivamente di krill (zooplancton), soprattutto *Meganyctiphanes norvegica* (e *Nyctiphanes couchi* nelle acque meridionali di Lampedusa). Lo inghiottisce con il lunge-feeding (alimentazione a balzi): accelera verso i banchi di krill espandendo i suoi 50-100 solchi golari ventrali, ingoia enormi volumi d'acqua e poi la espelle trattenendo il cibo con le sue 260-480 piastre di fanoni per lato. Come tutti i misticeti è priva di ecolocalizzazione, che è esclusiva degli odontoceti dentati.",
   "size": {
-    "min": 19,
-    "max": 27
+    "min": 1850,
+    "max": 2730
   },
   "averageSize": "Nell'emisfero settentrionale, i maschi adulti misurano in media circa 18,5 - 19 metri, mentre le femmine (che mostrano un moderato dimorfismo sessuale essendo leggermente più grandi) raggiungono una media di 20 - 20,5 metri.",
   "weight": {
     "min": 0,
-    "max": 120
+    "max": 120000
   },
   "pesoText": "Peso tipico 40-80 tonnellate (NOAA), con stime eccezionali fino a circa 120 tonnellate.",
   "maxAge": "L'aspettativa di vita media in natura si attesta intorno agli 80-90 anni, con un'età massima documentata tramite metodi scientifici di 94 anni (in Islanda) e stime eccezionali globali comprese tra 111 e 140 anni.",

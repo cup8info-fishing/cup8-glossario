@@ -9,7 +9,7 @@
   "habitat": "Specie pelagica e bentopelagica. Frequenta principalmente secche, monti sommersi, relitti, canyon e pareti rocciose. I giovani stazionano spesso in prossimità della costa o sotto oggetti galleggianti (come sargassi e meduse), mentre gli adulti si muovono tipicamente a profondità comprese tra i 18 e i 70 metri, potendo scendere eccezionalmente fino a 360-385 metri.",
   "diet": "Predatore carnivoro opportunista. I giovani si nutrono inizialmente di plancton, piccoli crostacei e invertebrati per poi passare rapidamente a una dieta piscivora; gli adulti cacciano attivamente cefalopodi (calamari, seppie) e varie specie di pesci pelagici o costieri (aguglie, sugarelli, cefali, boghe, alici, tombarelli).",
   "size": {
-    "min": 10,
+    "min": 100,
     "max": 200
   },
   "averageSize": "Circa 100 cm (nella pesca sportiva, gli esemplari adulti comuni si aggirano solitamente tra i 10 e i 30 kg).",

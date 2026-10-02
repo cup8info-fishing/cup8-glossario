@@ -9,8 +9,8 @@
   "habitat": "Specie ad ampia distribuzione che predilige acque temperate e tropicali-calde (con un intervallo termico superficiale ottimale tra 10 °C e 20 °C). Utilizza sia ambienti pelagici di scarpata continentale sia acque costiere poco profonde, mostrando una spiccata affinità per aree ad alta complessità topografica come canyon sottomarini, seamount e zone di upwelling. Compie ampi spostamenti sia nictemerali che stagionali. Le sue immersioni tipiche per la respirazione in superficie durano meno di 2 minuti, ma per alimentarsi è in grado di immergersi a profondità comprese tra 250 e 300 metri per una durata superiore a 8-10 minuti.",
   "diet": "È un predatore opportunista generalista con regime prevalentemente ittiofago. La sua dieta si basa su piccoli pesci epipelagici (pesce azzurro di superficie come acciughe, sardine, aringhe, sauri, sgombri) e mesopelagici (come i pesci lanterna Myctophidae, e naselli a comportamento nictemerale), integrati da cefalopodi (calamari, seppie, polpi) e crostacei. Consuma mediamente 5-6 kg (fino a 8-9 kg) di cibo al giorno. Caccia in modo cooperativo, coordinando il branco per compattare i pesci contro la superficie o barriere sottomarine. Per localizzare le prede e navigare utilizza l'ecolocalizzazione (biosonar) emettendo clicks ad alta frequenza (da 0,2 a 150 kHz) e burst (rapide serie di clicks).",
   "size": {
-    "min": 2,
-    "max": 3
+    "min": 190,
+    "max": 270
   },
   "averageSize": "Gli adulti misurano tra **1,9 e 2,5 metri** (media circa 2 metri); le femmine restano più piccole (massimo 230 cm) dei maschi (massimo 260 cm).",
   "weight": {

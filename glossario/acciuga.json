@@ -15,7 +15,7 @@
   "averageSize": "Si aggira tra i 10 e i 17 cm di lunghezza totale.",
   "weight": {
     "min": 0,
-    "max": 33
+    "max": 0.033
   },
   "pesoText": "Il peso massimo assoluto non è chiaramente definito nei parametri biologici delle fonti in chilogrammi, tuttavia per gli esemplari commerciali di maggior pregio (Categoria di calibro 1) si registra un peso pari o superiore a 0,033 kg (33 grammi) per singolo individuo.",
   "maxAge": "Il ciclo vitale è relativamente breve, raggiungendo un'età massima di 4 o 5 anni.",
