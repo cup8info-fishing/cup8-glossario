@@ -48,14 +48,6 @@
     "publishedAt": "2026-09-29T05:30:04.451Z"
   },
   {
-    "id": "anarhichas-lupus",
-    "name": "Bavosa lupa",
-    "scientificName": "Anarhichas lupus",
-    "category": "pesce_vertebrato",
-    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/anarhichas-lupus/chatgpt_primo-piano-habitat_2026-08-25T16-46-06.webp",
-    "publishedAt": "2026-09-20T05:30:00.260Z"
-  },
-  {
     "id": "boga",
     "name": "Boga",
     "scientificName": "Boops boops",
@@ -328,6 +320,14 @@
     "publishedAt": "2026-07-09T10:54:04.431Z"
   },
   {
+    "id": "anarhichas-lupus",
+    "name": "Pesce lupo",
+    "scientificName": "Anarhichas lupus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/anarhichas-lupus/chatgpt_primo-piano-habitat_2026-08-25T16-46-06.webp",
+    "publishedAt": "2026-09-20T05:30:00.260Z"
+  },
+  {
     "id": "pesce-san-pietro",
     "name": "Pesce San Pietro",
     "scientificName": "Zeus faber",
@@ -513,7 +513,7 @@
   },
   {
     "id": "telline",
-    "name": "Telline",
+    "name": "Tellina",
     "scientificName": "Donax trunculus",
     "category": "invertebrato",
     "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/telline/chatgpt_primo-piano-habitat_2026-09-02T07-53-37.webp",
