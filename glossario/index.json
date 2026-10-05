@@ -328,6 +328,14 @@
     "publishedAt": "2026-09-20T05:30:00.260Z"
   },
   {
+    "id": "pesce-pettine",
+    "name": "Pesce pettine",
+    "scientificName": "Xyrichtys novacula",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-pettine/chatgpt_primo-piano-habitat_2026-09-02T07-57-10.webp",
+    "publishedAt": "2026-10-05T05:30:12.601Z"
+  },
+  {
     "id": "pesce-san-pietro",
     "name": "Pesce San Pietro",
     "scientificName": "Zeus faber",
