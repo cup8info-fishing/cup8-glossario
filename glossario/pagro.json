@@ -1,0 +1,65 @@
+{
+  "id": "pagro",
+  "name": "Pagro",
+  "scientificName": "Pagrus pagrus",
+  "family": "Sparidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il pagro presenta un corpo massiccio, ovale e compresso lateralmente, con un profilo frontale spiccatamente convesso che lo rende facilmente confondibile con il dentice e l'orata. È facilmente riconoscibile per la colorazione rosata o bruno-rossastra del dorso, i fianchi argentei, con file di macchiette azzurre più evidenti nei giovani e sbiadite negli adulti, e soprattutto le due punte bianche della pinna caudale e la fascia scura che scende dalla nuca all'angolo della bocca, che sono i veri caratteri diagnostici. Dispone di mascelle possenti con canini anteriori e molari posteriori per frantumare i gusci. Biologicamente, è una specie ermafrodita proterogina: nasce femmina, si riproduce per la prima volta come femmina verso i 3-4 anni e solo più tardi, con l'avanzare dell'età, può subire un'inversione sessuale e diventare maschio.",
+  "habits": "- Pesca con lenze a mano, bolentino e traina. - Palangari da fondo (palamiti). - Nasse e cestelli. - Artificiali manovrati sul fondo (es. inchiku).",
+  "habitat": "Fondali duri (rocciosi e ciottolosi) e sabbiosi, comprese praterie di *Posidonia oceanica* e secche coralline. I giovani stazionano in acque basse, mentre gli adulti si trovano solitamente tra i 10 e gli 80 metri, potendo spingersi fino a 250 metri di profondità durante i mesi invernali.",
+  "diet": "Predatore bentonico: preda crostacei (granchi e gamberi), molluschi (bivalvi e cefalopodi), echinodermi (ricci di mare), policheti e piccoli pesci ossei.",
+  "size": {
+    "min": 30,
+    "max": 91
+  },
+  "averageSize": "Compresa tra i 30 e i 40 cm (comunemente intorno ai 35 cm).",
+  "weight": {
+    "min": 0,
+    "max": 7.7
+  },
+  "pesoText": "7,7 kg, il valore più alto pubblicato. Circolano segnalazioni non verificate di esemplari fra i nove e i diciassette chili (da nove a dieci chili al largo della Grecia occidentale), note solo da una comunicazione personale e non da catture documentate.",
+  "maxAge": "Fino a 26 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo"
+  ],
+  "regioniText": "Comune in tutto il Mar Mediterraneo — Ligure, Tirreno, Adriatico e Ionio — con presenza particolarmente frequente attorno a Sicilia e Sardegna; assente dal Mar Nero.",
+  "iucnStatus": "LC (Least Concern — rischio minimo): è la categoria IUCN sia globale (valutazione 2009, versione 2025-2) sia nella valutazione regionale mediterranea del 2011. Lo sforzo di pesca resta comunque alto e le guide al consumo responsabile del pesce sconsigliano il pagro pescato in Mediterraneo.",
+  "fishingRequirements": "La taglia minima di cattura nel Mediterraneo è 18 cm (Reg. UE 2019/1241, Allegato IX, Parte A, che ha sostituito l'Allegato III del Reg. CE 1967/2006, soppresso dall'art. 32 dello stesso Reg. 2019/1241). In Sardegna vale la misura regionale più alta, di 25 cm (decreto assessoriale regionale n. 412 del 10/05/1995). La misura di 18 cm resta però sotto la taglia a cui il pagro si riproduce per la prima volta (circa 24 cm): si può quindi trattenere legalmente un esemplare che non si è ancora mai riprodotto. Non esiste un fermo biologico specifico per il pagro; la riproduzione avviene soprattutto in primavera, periodo in cui è opportuno moderare le catture.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Nasce femmina, si gode la spensieratezza della giovinezza esplorando le coste e, raggiunti i tre o quattro anni di età, comincia a riprodursi come femmina; solo più tardi, crescendo, può decidere di invecchiare come maschio. Questa è la straordinaria vita del Pagro (<em>Pagrus pagrus</em>), un pesce che biologicamente è un ermafrodita proteroginico, capace cioè di invertire il proprio sesso nel corso del tempo.</p>\n<p>Appartenente alla grande e nobile famiglia degli Sparidae (la stessa di orate e saraghi), è un pesce massiccio, dalle mascelle poderose e dall&#39;indole aggressiva. È un longevo abitante dei nostri mari: può tranquillamente spegnere le 26 candeline di età e raggiungere i 91 cm di lunghezza.</p>\n<p>Sulle bilance, le taglie medie si aggirano tra i 30 e i 40 centimetri per circa un chilo di peso. Sui record massimi, però, bisogna andarci cauti: il peso massimo pubblicato è di 7,7 kg, mentre gli esemplari fra i 9 e i 17 kg (9-10 kg al largo della Grecia occidentale) sono segnalazioni non verificate, non catture documentate. Resta comunque un colosso di tutto rispetto.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Il corpo è ovale, alto e compresso lateralmente, con una fronte spiccata e convessa che gli dona un&#39;espressione quasi imbronciata. Il colore di base è un magnifico rosa-argenteo sul dorso, che sfuma nel bianco candido del ventre. Da giovane, i suoi fianchi sono tempestati da piccole macchie azzurre e iridescenti (da 1 a 12 file), che tendono a sbiadire man mano che invecchia.</p>\n<p>Attenzione a non farvi fregare al mercato: il pagro viene spesso confuso con il parente nobile, il dentice. Con alcuni suoi stretti parenti, invece, non c&#39;è nessun imbroglio: il <em>Pagrus caeruleostictus</em>, per esempio, nell&#39;elenco ufficiale dei nomi commerciali del MASAF si chiama anche lui «pagro», quindi può essere venduto regolarmente con questo nome. Per sapere quale specie avete davanti leggete il nome scientifico, che per legge deve essere indicato sul cartellino o sull&#39;etichetta. Il trucco per riconoscerlo senza sbagliare è guardare la coda: il vero <em>Pagrus pagrus</em> ha le punte della pinna caudale di un bianco candido, un dettaglio inconfondibile. Inoltre, presenta una caratteristica fascia scura che scende dalla nuca fino all&#39;angolo della bocca.</p>\n<p>Ogni regione italiana lo ha battezzato a modo suo, in un tripudio di dialetti:</p>\n<ul>\n<li>In Liguria lo chiamano <em>Dentún</em>, <em>Prau</em> o <em>Bezugo</em>.</li>\n<li>A Roma e nel Lazio è il <em>Bufolotto</em> o <em>Parago</em>.</li>\n<li>A Napoli lo trovate come <em>Praio rentice</em> o <em>Mafrone</em>.</li>\n<li>In Puglia diventa <em>Fraghe</em>, <em>Sarage</em> o <em>Frau</em>.</li>\n<li>In Sicilia risponde ai nomi di <em>Pauru</em>, <em>Scannacavaddu</em> e <em>Paulu</em>.</li>\n<li>In Sardegna è <em>Su Paguru</em> o <em>Parígu</em>.</li>\n</ul>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>È un instancabile viaggiatore dei fondali (demersale e benthopelagico, cioè vive e nuota a stretto contatto con il fondo). È di casa in tutto il Mar Mediterraneo (tranne nel Mar Nero) e nell&#39;Oceano Atlantico.</p>\n<p>Le sue case preferite sono i fondali duri e irregolari: rocce, scogli, secche coralline e ghiaia. I giovani amano la sicurezza delle acque basse e si nascondono spesso nelle praterie di <em>Posidonia oceanica</em>, veri e propri asili nido sottomarini. Crescendo, il pagro si sposta. In inverno si inabissa verso acque più profonde, fino a circa 250 metri. Con la bella stagione, invece, risale verso acque meno profonde, più vicine alla costa; la riproduzione avviene soprattutto in primavera.</p>\n<p>È un cacciatore formidabile e opportunista. La sua dieta? Crostacei (granchi e gamberi), molluschi (polpi e bivalvi), ricci di mare e piccoli pesci. Usa i suoi denti canini appuntiti per afferrare la preda e i possenti molari posteriori per frantumarne i gusci e le corazze.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Il pagro è una preda ambitissima, tanto dai pescatori professionisti quanto da quelli sportivi. Abbocca con voracità e si pesca storicamente con palangari da fondo, nasse, reti a strascico e lenze a mano (come il bolentino o gli artificiali calati in profondità).</p>\n<p>Commercialmente ha un valore altissimo per via delle sue carni pregiate, tanto che oggi è diventato una specie di punta anche per l&#39;acquacoltura mediterranea, dove viene allevato con successo.</p>\n<p>A livello globale il suo stato di conservazione è classificato come LC (Rischio Minimo), la stessa categoria che gli è stata assegnata nella valutazione regionale del Mediterraneo del 2011. Attenzione però: la pesca eccessiva e, soprattutto, le reti a strascico che distruggono il suo habitat vitale (come i fondali coralligeni e le praterie di posidonia) stanno mettendo a dura prova le popolazioni locali. La taglia minima legale per pescarlo e commercializzarlo in Italia è fissata a 18 centimetri; in Sardegna vale la misura regionale più alta, di 25 centimetri.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>La carne del pagro è bianca, soda, magra e dal sapore dolciastro, molto simile a quella dell&#39;orata o del dentice.</p>\n<p>Al banco del pesce, usate i sensi per smascherare le frodi:</p>\n<ul>\n<li>L&#39;occhio deve essere convesso (in fuori), trasparente, con la pupilla nerissima e brillante. Se è infossato o velato, passate oltre.</li>\n<li>Le branchie devono essere rosso vivo o rosa acceso, mai marroncine o giallognole, e profumare di alghe e mare, non di ammoniaca.</li>\n<li>Il corpo deve essere rigido e inarcato (il famoso rigor mortis): se lo prendete per la coda non deve piegarsi come uno straccio. La pelle deve essere tesa e iridescente, e se premete un dito sulla carne, l&#39;impronta deve sparire subito.</li>\n</ul>\n<p>In cucina, il consiglio del pescatore è uno solo: non seccatelo. Essendo un pesce magro, cotture troppo violente o prolungate ne rovinano la consistenza. Ecco due grandi classici:</p>\n<ul>\n<li><strong>All&#39;Acqua Pazza:</strong> un fondo di olio extravergine, aglio, peperoncino e pomodorini (magari datterini). Si sfuma con vino bianco e acqua calda, e si fa sobbollire il pesce dolcemente con il coperchio per 15-20 minuti. Il vapore e l&#39;umidità manterranno le carni succose, e l&#39;acidità del pomodoro esalterà la dolcezza del pesce.</li>\n<li><strong>In Crosta di Sale:</strong> l&#39;antico metodo romano. Il pesce intero (non squamato, le squame proteggono dalla salinità eccessiva!) viene farcito con erbe aromatiche e fette di limone, sepolto sotto una spessa corazza di sale grosso misto ad albume e cotto in forno a 200°C. La crosta sigilla ermeticamente i succhi all&#39;interno, regalando un sapore puro e una consistenza morbidissima.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Diventa &quot;tigrato&quot; per lo stress!</strong> Normalmente è rosa e argento, ma quando si spaventa, è sotto stress o viene catturato, la sua livrea cambia improvvisamente: sul corpo compaiono magicamente dalle 5 alle 6 fasce verticali rosso scuro.</li>\n<li><strong>Ha i molari come noi.</strong> Dietro i denti aguzzi frontali, il pagro nasconde file di denti tozzi e arrotondati, dei veri e propri molari che usa come uno schiaccianoci naturale per polverizzare i gusci dei granchi e i ricci di mare di cui è ghiotto.</li>\n<li><strong>È un super-sopravvissuto degli abissi.</strong> Molti pesci di profondità, se pescati, muoiono per il barotrauma (lo sbalzo di pressione fa gonfiare a dismisura la loro vescica natatoria). Il pagro, invece, è un duro: è stato documentato che esemplari pescati a oltre 100 metri di profondità, marcati e rilasciati, sono sopravvissuti senza subire alcun danno evidente dallo sbalzo pressorio.</li>\n<li><strong>Ha inventato l&#39;Acqua Pazza.</strong> La celebre ricetta partenopea &quot;all&#39;acqua pazza&quot; è nata proprio sulle barche dei pescatori costieri: per cuocere il pescato del giorno (spesso pagri o pesci simili) usavano letteralmente l&#39;acqua di mare prelevata sotto la barca, un po&#39; d&#39;olio e i pomodorini, creando un brodetto povero ma leggendario.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_primo-piano-habitat_2026-09-04T14-19-01.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_primo-piano-habitat_2026-09-04T14-19-01.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_habitat-largo_2026-09-04T14-19-03.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_azione_2026-09-04T14-19-05.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_sociale_2026-09-04T14-19-06.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pagro/chatgpt_dettaglio-hd_2026-09-04T14-19-08.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-06T05:30:05.846Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; benthopelagic; depth 0-250 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-10-06T05:30:06.469Z"
+  }
+}
