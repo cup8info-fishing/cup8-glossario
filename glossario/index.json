@@ -320,6 +320,14 @@
     "publishedAt": "2026-10-01T16:04:21.099Z"
   },
   {
+    "id": "pesce-gatto-americano",
+    "name": "Pesce gatto americano",
+    "scientificName": "Ictalurus punctatus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-gatto-americano/chatgpt_primo-piano-habitat_2026-08-17T22-24-55.webp",
+    "publishedAt": "2026-09-05T05:30:00.146Z"
+  },
+  {
     "id": "pesce-luna",
     "name": "Pesce luna",
     "scientificName": "Mola mola",
