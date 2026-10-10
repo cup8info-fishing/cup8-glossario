@@ -200,6 +200,14 @@
     "publishedAt": "2026-07-12T15:25:13.591Z"
   },
   {
+    "id": "moscardino-bianco",
+    "name": "Moscardino bianco",
+    "scientificName": "Eledone cirrhosa",
+    "category": "invertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/moscardino-bianco/chatgpt_primo-piano-habitat_2026-09-09T12-44-44.webp",
+    "publishedAt": "2026-10-10T05:30:07.658Z"
+  },
+  {
     "id": "murena",
     "name": "Murena",
     "scientificName": "Muraena helena",
