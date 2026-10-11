@@ -1,0 +1,69 @@
+{
+  "id": "pesce-aquila",
+  "name": "Aquila di mare",
+  "scientificName": "Myliobatis aquila",
+  "family": "Myliobatidae.",
+  "category": "pesce_vertebrato",
+  "description": "L'Aquila di mare, chiamata anche pesce aquila, ha un corpo a forma di rombo con dorso scuro (bruno-nero o bronzeo) e ventre biancastro, dotato di un muso prominente e arrotondato simile al becco di un'anatra. Si distingue per la lunghissima coda a frusta armata alla base di uno o due aculei veleniferi. Di natura gregaria, ama formare banchi, e nuota elegantemente a mezz'acqua facendo oscillare le ampie pinne pettorali con un movimento che ricorda il \"volo\" di un rapace.",
+  "habits": "* Nella pesca professionale e artigianale italiana (dove solitamente rappresenta una cattura accessoria) viene insidiata con reti da posta, reti a strascico e palangari di fondo. * Anche nella pesca sportiva può abboccare all'amo di chi pesca con la lenza. * Vista l'elevata vulnerabilità della specie, in pericolo critico a livello globale e inserita nel 2023 fra le specie minacciate della Convenzione di Barcellona, al pescatore sportivo è vivamente consigliato rilasciarla viva, secondo la filosofia del *catch and release* (cattura e rilascio).",
+  "habitat": "Specie bentopelagica tipica di acque costiere subtropicali e temperate, incluse baie, estuari e lagune con fondali molli, sabbiosi o fangosi. Nuota perlopiù a profondità inferiori ai 50 metri e raramente scende oltre i 200 metri; la profondità massima documentata è di 537 metri.",
+  "diet": "Predatore bentonico e durofago; si nutre preferibilmente di molluschi (bivalvi e gasteropodi) e grossi crostacei (granchi e paguri), ma anche di vermi policheti, sipunculidi e piccoli pesci ossei, che dissotterra dal fondale e frantuma grazie alle possenti piastre dentali.",
+  "size": {
+    "min": 32,
+    "max": 260
+  },
+  "averageSize": "La maggior parte degli esemplari osservati è di dimensioni nettamente inferiori ai massimali; la larghezza del disco alla maturità sessuale è intorno ai 32-40 cm nei maschi e ai 43-60 cm nelle femmine.",
+  "weight": {
+    "min": 0,
+    "max": 30
+  },
+  "pesoText": "Fino a circa 30 kg; il massimo di 14,5 kg riportato da alcune fonti è un valore evidentemente parziale.",
+  "maxAge": "Non nota: non ci sono dati sull'età massima di questa specie. Per stimarne il declino, la IUCN calcola che una generazione duri circa 11-12 anni, un valore preso da una specie affine.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo"
+  ],
+  "regioniText": "Presente in tutto il Mar Mediterraneo (assente nel Mar Nero) e in tutti i mari italiani: il Mar Adriatico, il Mar Tirreno, il Mar Ligure, il Mar Ionio e i mari che bagnano Sicilia e Sardegna. L'Adriatico e il Mediterraneo centrale sono le aree dove si incontra più spesso; nel Mediterraneo occidentale e orientale è rara.",
+  "iucnStatus": "Classificata \"CR\" (In Pericolo Critico / Critically Endangered) a livello globale, \"VU\" (Vulnerabile) per quanto riguarda il Mediterraneo e \"DD\" (Dati Insufficienti / Data Deficient) nella recente Lista Rossa italiana del 2022.",
+  "fishingRequirements": "In Italia e nel resto dell'Unione europea non ci sono taglie minime né periodi di fermo biologico specifici per questa specie, che nel Mediterraneo viene catturata soprattutto in modo accidentale, nelle reti calate per altri pesci. Nel 2023, con la Decisione IG.26/4, la Convenzione di Barcellona l'ha inserita nell'Allegato II del Protocollo sulle zone specialmente protette e la biodiversità, l'elenco delle specie minacciate; l'Unione europea però ha posto una riserva proprio su questa specie, e per questo in Italia non scatta il divieto di tenerla a bordo, sbarcarla e venderla che l'art. 98 del Reg. (UE) 2023/2124 prevede per squali e razze di quell'allegato. Resta buona pratica rilasciarla viva e in buone condizioni, e nelle Aree Marine Protette valgono i loro regolamenti.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": true,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate un rapace maestoso che, invece di solcare i cieli, ha deciso di farsi una nuotata. L&#39;<strong>Aquila di mare</strong> (<em>Myliobatis aquila</em>) è un pesce cartilagineo appartenente alla famiglia dei <strong>Myliobatidae</strong>. È una creatura elegante e affascinante, celebre per il suo modo di nuotare: sbatte le grandi pinne pettorali esattamente come fossero ali, &quot;volando&quot; letteralmente a mezz&#39;acqua. </p>\n<p>Sulle dimensioni e sul peso, le fonti litigano: c&#39;è chi fissa il peso massimo a 14,5 kg, ma nel nostro Mar Mediterraneo può arrivare a circa <strong>30 kg</strong>! Sempre nel Mediterraneo, il disco (cioè l&#39;apertura &quot;alare&quot;) può raggiungere i <strong>150 cm</strong> di larghezza, per una lunghezza totale che sfiora i <strong>2,6 metri</strong> se contiamo l&#39;infinita coda a frusta.</p>\n<p>Come spesso accade nel mare, le femmine comandano: diventano più grandi dei maschi, e nel Mediterraneo sono adulte quando il disco arriva a circa <strong>60 cm</strong> di larghezza, contro i 40 cm dei maschi. Sull&#39;età, invece, non si sa quasi nulla: per questa specie non ci sono dati sulla durata della vita.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>A livello fisico, l&#39;Aquila di mare è inconfondibile. Ha un <strong>corpo a forma di rombo</strong> (il disco), decisamente più largo che lungo, con angoli appuntiti. Il <strong>dorso è scuro</strong> — può variare dal bruno-cenere al nero, passando per affascinanti sfumature bronzo o rame — mentre il <strong>ventre è biancastro</strong>, spesso con un margine marroncino o rossastro. </p>\n<p>La testa è ben distinta dal corpo e sporge in avanti, terminando con un muso arrotondato e carnoso (il lobo subrostrale) che ricorda incredibilmente il <strong>becco di un&#39;anatra</strong>. La coda è sottile e lunghissima (più del doppio del corpo) e nasconde un&#39;insidia: alla base, proprio dietro la piccola pinna dorsale, spunta <strong>uno o due aculei seghettati e velenosi</strong>. </p>\n<p>In mare aperto è facile confonderla con una specie simile, la <strong>vaccarella</strong> (<em>Aetomylaeus bovinus</em>), ma la forma del muso e i dettagli delle pinne aiutano a distinguerle. </p>\n<p>Paese che vai, nome che trovi! L&#39;Aquila di mare ha una collezione di nomi dialettali da far invidia: in Liguria la chiamano <em>Ferassa</em> o <em>Feraja</em>, a Livorno è la <em>Ferraccia</em>. Se passate da Roma la chiameranno <em>Nottola</em>, mentre a Napoli è il <em>Muchio caputo</em>. In Sicilia chiedete del <em>Diavuluni</em> (a Messina) o della <em>Acuta</em> (a Palermo), mentre in Sardegna risponde al nome di <em>Orinegliu</em> o <em>Ferri in coa</em> (ferro in coda, un chiaro avvertimento!). In Veneto e Friuli, per via del suo &quot;volo&quot;, è semplicemente il <em>Colombo</em>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un pesce costiero amante delle acque temperate e subtropicali, diffuso dall&#39;Atlantico orientale (dal Mare del Nord fino in Sudafrica) a tutto il Mediterraneo, mentre è grande assente nel Mar Nero. Adora i <strong>fondali sabbiosi o fangosi</strong> di baie, estuari e lagune. Nuota solitamente a basse profondità, <strong>entro i 50 metri</strong>, e solo di rado scende oltre i 200 metri: la profondità massima documentata è di 537 metri.</p>\n<p>L&#39;Aquila di mare è un predatore <strong>durofago</strong> (mangiatore di prede dure). Setaccia il fondale alla ricerca di <strong>molluschi bivalvi</strong> (le vongole sono il suo piatto preferito), granchi, paguri, lumache di mare e vermi policheti. Non è un lupo solitario: ama la compagnia e spesso forma piccoli banchi, nuotando in gruppo.</p>\n<p>La riproduzione è un piccolo miracolo dell&#39;evoluzione: è <strong>ovovivipara matrotrofica</strong>. Le femmine non depongono uova, ma le tengono in grembo. Quando il tuorlo dell&#39;uovo si esaurisce, la madre nutre i piccoli con una speciale secrezione uterina, una sorta di &quot;latte&quot; nutriente (istotrofia). Dopo una gestazione lunghissima di 6-8 mesi, partorisce da 3 a 7 cuccioli già perfettamente formati e pronti a volare nel blu.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>La pesca di questa specie è prevalentemente accidentale (bycatch). Finisce spesso nelle <strong>reti a strascico, reti da posta e palangari</strong> dei pescatori professionisti. Le sue abitudini gregarie la fregano: un&#39;unica calata di rete può catturare un intero banco. </p>\n<p>Sportivamente parlando, può capitare all&#39;amo di chi pesca con la lenza, e il pescatore sportivo attento la rilascia viva (<strong>catch and release</strong>). </p>\n<p>E fa bene! Lo stato di conservazione è allarmante. A livello globale la IUCN l&#39;ha classificata come <strong>In Pericolo Critico</strong> (Critically Endangered) perché la popolazione è crollata di oltre l&#39;80% a causa della sovrapesca e della distruzione dei suoi habitat costieri. Nel Mediterraneo la situazione è un mix tra &quot;Vulnerabile&quot; e &quot;Dati Insufficienti&quot;: nel Golfo del Leone è sparita dalle catture già dalla fine degli anni &#39;70, mentre nell&#39;Adriatico settentrionale, fra il 2009 e il 2015, le sue catture accidentali sono addirittura aumentate. </p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le fonti qui litigano in maniera spettacolare sul suo valore gastronomico: chi dice che le sue carni sono una prelibatezza &quot;altamente stimata&quot;, e chi le bolla come <strong>molli e viscose</strong>, non particolarmente appetibili. Probabilmente dipende tutto da come e dove la si mangia!</p>\n<p>Il consiglio del pescatore per ovviare a questa consistenza viscida (dovuta all&#39;abbondante muco che le ricopre la pelle liscia) è consumarla <strong>freschissima</strong>, appena pescata, limitandone il mercato a livello strettamente locale. Per quanto riguarda le preparazioni, sulle coste africane e nei tropici i pescatori hanno risolto il problema della consistenza in modo geniale: la carne viene <strong>essiccata, salata o affumicata</strong>, diventando un prodotto a lunga conservazione molto apprezzato.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Scavatrice di fondale:</strong> Molte delle sue prede preferite, come crostacei e molluschi bivalvi, vivono nascoste sotto la sabbia: l&#39;Aquila di mare le cerca e le dissotterra direttamente dal fondale.</li>\n<li><strong>Schiaccianoci vivente:</strong> Dimenticate i classici denti aguzzi da squalo. La sua bocca, posizionata sul ventre, è tappezzata da piastre piatte ed esagonali incastrate come un pavimento a mosaico. Un vero e proprio mulino macinatore capace di frantumare i gusci più duri.</li>\n<li><strong>Salti fuori dall&#39;acqua:</strong> Ogni tanto, le Aquile di mare si lanciano in spettacolari salti (breaching) rompendo la superficie dell&#39;acqua per poi ricadere con un tonfo. Gli scienziati studiano ancora il perché: forse per comunicare con il branco, o forse per scrollarsi di dosso fastidiosi parassiti.</li>\n<li><strong>Il sesto senso:</strong> Possiede le <em>Ampolle di Lorenzini</em>, organi sensoriali sul muso che le permettono di percepire i debolissimi campi elettrici emessi dal cuore e dai muscoli delle prede seppellite sotto la sabbia. Un radar infallibile.</li>\n<li><strong>Questione di metalli:</strong> Essendo un predatore di fondale che si nutre di invertebrati, contiene <strong>meno mercurio</strong> dei predatori che stanno più in alto nella catena alimentare, ma i valori misurati nel Mediterraneo restano vicini al limite di legge. Inoltre, i crostacei e i bivalvi di cui va ghiotta assorbono metalli dai sedimenti, rendendo l&#39;Aquila di mare soggetta ad alti accumuli di <strong>arsenico</strong> nei muscoli.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_primo-piano-habitat_2026-09-09T12-55-22.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_primo-piano-habitat_2026-09-09T12-55-22.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_habitat-largo_2026-09-09T12-55-23.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_azione_2026-09-09T12-55-25.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_sociale_2026-09-09T12-55-26.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_dettaglio-hd_2026-09-09T12-55-35.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-11T05:30:08.545Z",
+  "previousNames": [
+    "Pesce aquila"
+  ],
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; benthopelagic; depth 1-300 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-10-11T05:30:09.256Z"
+  }
+}

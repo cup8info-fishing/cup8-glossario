@@ -32,6 +32,14 @@
     "publishedAt": "2026-06-28T23:01:05.991Z"
   },
   {
+    "id": "pesce-aquila",
+    "name": "Aquila di mare",
+    "scientificName": "Myliobatis aquila",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-aquila/chatgpt_primo-piano-habitat_2026-09-09T12-55-22.webp",
+    "publishedAt": "2026-10-11T05:30:08.545Z"
+  },
+  {
     "id": "aragosta-mediterranea",
     "name": "Aragosta mediterranea",
     "scientificName": "Palinurus elephas",
