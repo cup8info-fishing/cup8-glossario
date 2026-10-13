@@ -136,6 +136,14 @@
     "publishedAt": "2026-08-17T05:30:00.137Z"
   },
   {
+    "id": "fragolino",
+    "name": "Fragolino",
+    "scientificName": "Pagellus erythrinus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_primo-piano-habitat_2026-09-09T12-56-19.webp",
+    "publishedAt": "2026-10-13T05:30:10.517Z"
+  },
+  {
     "id": "gambusia-affinis",
     "name": "Gambusia",
     "scientificName": "Gambusia affinis",

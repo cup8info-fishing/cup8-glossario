@@ -1,0 +1,67 @@
+{
+  "id": "fragolino",
+  "name": "Fragolino",
+  "scientificName": "Pagellus erythrinus",
+  "family": "Sparidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il pagello fragolino è un prelibato sparide caratterizzato da un corpo ovale e compresso lateralmente, facilmente distinguibile dal **muso molto appuntito** (lungo più del doppio del diametro orbitale) e dalla **livrea rosa-argentea ornata da macchioline azzurre** sul dorso. Mostra un tipico **bordo rosso carminio sull'opercolo branchiale** e la cavità orale si presenta marcatamente scura, quasi nera. Pesce dalle abitudini parzialmente gregarie, attua una strategia riproduttiva di **ermafroditismo proteroginico**: nasce per la stragrande maggioranza come femmina, subendo poi un'inversione sessuale che lo trasforma in maschio al raggiungimento dei 3 o 4 anni di età.",
+  "habits": "* **Bolentino (leggero o di media profondità):** La tecnica regina dalla barca per questo pesce; è fondamentale usare trecciati fini, canne molto sensibili e ami piccoli e affilatissimi per cogliere le sue mangiate tipicamente timide e delicate. * **Inchiku:** Variante di pesca verticale con esche artificiali, altamente **selettiva sulle pezzature maggiori** in grado di evitare le abboccate di individui sottomisura. * **Surfcasting:** Ideale per i recuperi in spiaggia sui fondali misti, capace di dare grandi soddisfazioni soprattutto con l'approssimarsi del buio o nelle notti estive. * **Galleggiante da scogliera:** Tecnica di precisione per sondare le rocce e la minuteria in caduta naturale a mezz'acqua. * **Esche e pasturazione:** Il palato del pagello richiede inneschi naturali e resistenti. Metodi top italiani includono il **paguro vivo, il gamberetto, l'americano, il bibi, le cozzette e striscioline di calamaro battuto**. È sempre consigliata una **pasturazione leggera e in scia continua** usando sarde tritate e pasture sfarinate.",
+  "habitat": "Specie demersale benthopelagica che frequenta la piattaforma continentale su **fondali mobili di sabbia grossolana, fango, ghiaia, ciottoli e detrito misto**, a profondità comprese generalmente **tra 20 e 100 metri**, potendo scendere fino a 300 metri nei mesi invernali. Gli stadi giovanili sono costieri e si rifugiano spesso in baie riparate o praterie di *Posidonia oceanica*.",
+  "diet": "È un predatore onnivoro dalla forte componente carnivora e bentofaga; **la sua dieta si basa su piccoli invertebrati** tra cui vermi policheti, crostacei decapodi (come piccoli granchi e gamberi), molluschi bivalvi e gasteropodi, ed echinodermi (ofiure). Con la crescita aggiunge alla dieta anche **piccoli pesci teleostei**.",
+  "size": {
+    "min": 15,
+    "max": 60
+  },
+  "averageSize": "Compresa tra 15 e 30 cm.",
+  "weight": {
+    "min": 0,
+    "max": 3.2
+  },
+  "pesoText": "Fino a 3,2 kg, il peso più alto documentato per questa specie.",
+  "maxAge": "Può superare i 10-15 anni di vita.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Presente nel Mar Mediterraneo, nel Mar Nero (dove è più raro) e nell'Oceano Atlantico orientale; in Italia è comune e ubiquitario lungo tutte le coste, con densità di popolazioni particolarmente elevate nel Mar Tirreno, Mar Adriatico, Mar Ionio, Mar Ligure e lungo le coste di Sicilia e Sardegna.",
+  "iucnStatus": "**LC (Rischio Minimo - Least Concern)**: la specie vanta un'ampia distribuzione geografica e popolazioni globalmente stabili, anche se subisce pressioni di sfruttamento, a volte eccessive, da parte della pesca professionale e ricreativa nel bacino Mediterraneo.",
+  "fishingRequirements": "La taglia minima di conservazione è di **15 cm di lunghezza totale** (Reg. UE 2019/1241, Allegato IX, parte A). La normativa non impone un fermo biologico specifico per la pesca sportiva a questa specie, sebbene il suo delicato periodo di riproduzione si concentri in primavera e in estate, **tra aprile e settembre**.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Iniziamo col botto: peschi un esemplare oggi ed è una splendida femmina, ma se lo avessi lasciato in mare per un altro anno, con buona probabilità lo avresti ripescato maschio. Ecco a voi il <strong>pagello fragolino</strong>, scientificamente battezzato <em>Pagellus erythrinus</em>, un elegante teleosteo marino appartenente alla nobile famiglia degli Sparidi. </p>\n<p>Questo pesce ha dimensioni medie che si aggirano tra i 15 e i 30 centimetri, ma non farti ingannare: se lasciato crescere in pace, può sfiorare i 60 centimetri di lunghezza e superare di poco i 3 chili di peso. È un vero e proprio veterano dei nostri fondali, con una longevità di tutto rispetto che gli permette di vivere per ben 10-15 anni.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Fisicamente è un pesce che si fa notare. Il suo corpo è ovale, alto e schiacciato lateralmente, perfetto per scattare in rapidi nuoti. Il profilo della fronte è quasi dritto e termina in un muso visibilmente appuntito, talmente lungo che misura almeno il doppio del diametro del suo occhio. Ma è la livrea il suo vero capolavoro: il dorso e i fianchi sono di un bel rosa-rossastro brillante, cosparsi di meravigliose macchioline azzurre iridescenti, mentre il ventre sfuma verso un delicato color argento. Due dettagli te lo fanno riconoscere al volo: un bel bordo rosso carminio sulla parte superiore dell&#39;opercolo branchiale — la piastra che copre le branchie — e l&#39;interno della bocca che, a sorpresa, è scuro, quasi nero. </p>\n<p>Spesso i non addetti ai lavori fanno confusione, chiamando &quot;pagello&quot; specie diverse. Attenzione a non farti fregare: il <strong>pagello bastardo</strong> o mafrone (<em>Pagellus acarne</em>) ha un corpo più allungato, squame più argentate o grigie e una netta macchia scura proprio alla base delle pinne pettorali. Ancora diverso è l&#39;<strong>occhialone</strong> o pezzogna (<em>Pagellus bogaraveo</em>), che vive più in profondità e sfoggia occhi enormi, un muso corto e una grossa macchia nera rotonda sul dorso, appena dietro la testa.</p>\n<p>Proprio perché popola tutte le nostre coste, i pescatori gli hanno affibbiato decine di nomi dialettali. Nel Lazio lo chiamano <em>fravolino</em> o <em>fraulino</em>, in Liguria è noto come <em>roello</em> o <em>pagao</em>, in Veneto lo chiamano <em>alboro</em>, in Puglia diventa <em>lutrine</em> o <em>frajo</em>, mentre in Sicilia e a Napoli è conosciuto come <em>luvaro</em> (da non confondere con il luvaro imperiale, <em>Luvarus imperialis</em>, che è tutt&#39;altro pesce), <em>lustrino</em> o <em>polotto</em>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>Questo sparide è un giramondo: popola tutto il Mar Mediterraneo e le coste dell&#39;Oceano Atlantico orientale, scendendo dalla fredda Scandinavia, dove però si incontra di rado, giù fino alla Guinea-Bissau, isole di Madera, Canarie e Capo Verde comprese. Manca quasi del tutto nel Mar Nero, dove è considerato una vera rarità. Adora grufolare nei fondali misti, dalla roccia alla sabbia grossolana, passando per ghiaia, fango e i margini delle praterie di posidonia sottomarina. Di solito fa su e giù tra i 20 e i 100 metri di profondità, ma d&#39;inverno non teme il freddo e sprofonda anche fino a 300 metri per cercare acque con temperature più stabili.</p>\n<p>A tavola non va tanto per il sottile: è un carnivoro opportunista. Da giovane si abbuffa di vermi policheti, gamberetti e piccoli granchi, ma crescendo sviluppa un palato più da predatore e non disdegna molluschi bivalvi, piccoli polpi e pesciolini. </p>\n<p>Non è un eremita, anzi, forma branchetti poco coesi di individui pronti a perlustrare il fondo. Riguardo al suo orologio biologico, le fonti litigano: chi lo descrive come un cacciatore prevalentemente notturno, chi invece nota picchi di appetito nel pomeriggio e verso il tramonto — probabilmente dipende dalle condizioni di luce, limpidezza dell&#39;acqua e marea. La riproduzione, invece, è un affare tipicamente primaverile ed estivo, concentrato tra aprile e settembre, quando rilascia in acqua centinaia di migliaia di uova galleggianti.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Commercialmente è un pesce di prim&#39;ordine. I professionisti lo insidiano principalmente operando sulla piattaforma continentale con reti a strascico, reti da posta, tremagli e palamiti di profondità. </p>\n<p>Sportivamente parlando, è una preda che regala soddisfazioni immense. La tecnica regina dalla barca è il <strong>bolentino leggero</strong> o di media profondità: servono canne con vette ultrasensibili, trecciati fini e finali in fluorocarbon, perché il pagello ha una mangiata curiosa, timida e sospettosa prima di sferrare l&#39;attacco decisivo. Lo si pesca anche da riva, praticando il surfcasting in spiaggia o il rockfishing dalle scogliere, preferibilmente al calar del sole. L&#39;esca micidiale? Il paguro vivo, ma non resiste nemmeno a vermi come l&#39;americano e il coreano, o a striscioline di calamaro e sardina.</p>\n<p>Attualmente è inserito nella lista rossa IUCN come specie a &quot;Rischio Minimo&quot; (Least Concern), ma in molte zone del Mediterraneo subisce una pressione di pesca fortissima. Proprio per questo motivo la normativa europea ha fissato una misura minima di legge per poterlo trattenere: <strong>15 centimetri</strong>. Data l&#39;eccellente qualità delle sue carni, è considerato anche un&#39;ottima e promettente specie per l&#39;acquacoltura.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Lo trovi in pescheria tutto l&#39;anno, ma se vuoi fare un acquisto etico e sostenibile, il periodo ottimale va da settembre a dicembre, lasciandolo così riprodurre in pace durante l&#39;estate. Al banco del pesce si valuta come i veri intenditori: annusa il profumo che deve odorare di mare, controlla che l&#39;occhio sia bello vivo e bombato, verifica che le carni siano sode con le squame ben aderenti, e assicurati che le branchie brillino di un bel rosso acceso. </p>\n<p>In cucina è un vero signore. Le sue carni sono magrissime (solo circa l&#39;1,9% di grassi), bianche, digeribilissime e compatte, ricche di omega-3, fosforo e potassio. La morte sua è la cottura al forno, oppure <strong>al cartoccio</strong> per trattenere tutti i succhi e i profumi marini. Un consiglio da vecchio lupo di mare: ha carni così magre che tendono ad asciugarsi facilmente, quindi occhio alle alte temperature. Bastano un po&#39; di olio extravergine, aglio, pomodorini, olive, capperi, salvia e una spruzzata di vino bianco per creare capolavori come il pagello all&#39;acqua pazza o la versione ligure con i pinoli. </p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Cambio di sesso obbligato:</strong> Come molti sparidi, pratica l&#39;ermafroditismo proteroginico. Nasce per la stragrande maggioranza come femmina, poi, superati i 3 o 4 anni e i 17 centimetri di taglia, &quot;decide&quot; di trasformarsi in maschio. Attenzione però alle eccezioni: esistono rari &quot;maschi primari&quot; che nascono già tali e alcune femmine irriducibili che non cambieranno sesso per tutta la vita.</li>\n<li><strong>Dentatura da schiaccianoci:</strong> Non farti intenerire dal colore rosa. La sua bocca è un&#39;arma perfetta. Davanti ha dentini aguzzi per afferrare i malcapitati vermi, ma in fondo alla mandibola nasconde ben tre o quattro file di solidi denti molariformi, che usa per frantumare letteralmente i duri gusci di granchi e conchiglie.</li>\n<li><strong>Il caso della ciguatera:</strong> Il fragolino non ha ghiandole velenifere né spine velenose. Per questa specie sono però segnalati, senza indicare in quali mari, casi di <em>ciguatera</em>: un&#39;intossicazione alimentare provocata dalle tossine di alcune microalghe, che il pesce accumula mangiando.</li>\n<li><strong>Un bestione da record:</strong> Sebbene la taglia media sia da pesce da porzione, il fragolino può diventare un pesce di tutto rispetto: il peso più alto documentato è di 3,2 chilogrammi, un primato della pesca sportiva.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_primo-piano-habitat_2026-09-09T12-56-19.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_primo-piano-habitat_2026-09-09T12-56-19.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_habitat-largo_2026-09-09T12-56-20.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_azione_2026-09-09T12-56-21.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_sociale_2026-09-09T12-56-22.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/fragolino/chatgpt_dettaglio-hd_2026-09-09T12-56-23.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-13T05:30:10.517Z",
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; benthopelagic; depth 20-320 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-10-13T05:30:11.179Z"
+  }
+}
