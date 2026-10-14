@@ -1,0 +1,65 @@
+{
+  "id": "lanzardo",
+  "name": "Lanzardo",
+  "scientificName": "Scomber colias",
+  "family": "Scombridae.",
+  "category": "pesce_vertebrato",
+  "description": "Il lanzardo, chiamato spesso \"sgombro occhione\" o \"sgombro cavallo\", è un veloce predatore gregario appartenente ai pesci azzurri. Si distingue dallo sgombro comune per la presenza della vescica natatoria, un occhio notevolmente più grande e un ventre argenteo punteggiato da caratteristiche macchie e venature grigiastre. Le sue abitudini prevedono stazionamenti vicino al fondo di giorno e risalite verso la superficie durante la notte per cacciare all'interno di banchi numerosi.",
+  "habits": "* Traina costiera e traina col vivo. * Light drifting e drifting. * Bolentino. * Pesca professionale mediante reti da circuizione (con l'ausilio di lampare) e reti da traino pelagiche (dette \"volanti\"). * È consigliata una costante e corretta pasturazione dalla barca: questa operazione attira il banco facendolo stazionare sotto l'imbarcazione, innescando frenesie alimentari che consentono la pesca a vista.",
+  "habitat": "Specie pelagica costiera che si spinge anche al largo, di solito restando sopra la piattaforma continentale; vive tra la superficie e i 300 metri di profondità (talvolta fino a circa 400 metri) e occasionalmente entra anche in lagune e stagni salmastri.",
+  "diet": "Si nutre soprattutto di zooplancton, che cattura sia filtrando l'acqua sia predando direttamente: piccoli crostacei (copepodi, krill, anfipodi), larve di pesci e organismi gelatinosi come i taliacei; man mano che cresce acquistano importanza prede più grandi, come piccoli cefalopodi, crostacei più grossi e piccoli pesci pelagici.",
+  "size": {
+    "min": 25,
+    "max": 55
+  },
+  "averageSize": "Intorno ai 25-30 cm; gli esemplari oltre i 35 cm sono già rari.",
+  "weight": {
+    "min": 0,
+    "max": 1.5
+  },
+  "pesoText": "Circa 1,5 kg negli esemplari di taglia massima.",
+  "maxAge": "Tra gli 8 e i 10 anni secondo le stime ufficiali statunitensi; gli studi scientifici sull'età hanno documentato esemplari di almeno 7 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia"
+  ],
+  "regioniText": "Diffuso in tutti i mari italiani (Adriatico, Tirreno, Ionio, Ligure, mari di Sardegna e di Sicilia).",
+  "iucnStatus": "LC (Least Concern - Rischio minimo); specie comune e molto diffusa, pescata soprattutto come cattura accessoria delle reti per sardine e acciughe: in alcune zone è sfruttata intensamente, ma nel complesso le popolazioni appaiono stabili.",
+  "fishingRequirements": "Nel Mar Mediterraneo la taglia minima di riferimento per la conservazione è di 18 cm, fissata dal Reg. (UE) 2019/1241 (Allegato IX, Parte A); non sono previste quote massime di cattura (TAC) né un fermo biologico specifico per questa specie.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Pensate a un pesce dalla stirpe antichissima: il genere <em>Scomber</em>, a cui appartiene, frequenta i nostri mari da milioni di anni, e in Italia ne sono stati trovati resti fossili! Le caratteristiche linee ondulate sul suo dorso non sono un caso, ma un disegno perfetto dell&#39;evoluzione per imitare i riflessi del sole sull&#39;acqua e mimetizzarsi.</p>\n<p>Il <strong>lanzardo</strong>, conosciuto anche come <strong>sgombro occhione</strong> o <strong>sgombro cavallo</strong> (il nome scientifico è <em>Scomber colias</em>), è un instancabile nuotatore appartenente alla famiglia degli Scombridae. Viene spesso etichettato ingiustamente come il &quot;parente povero&quot; del più famoso sgombro, ma è un pesce formidabile, con un potenziale di crescita fino a <strong>50-55 centimetri</strong> e un peso di circa 1,5 chilogrammi.</p>\n<p>È un corridore degli oceani nato per resistere. Può vivere fino a <strong>8-10 anni</strong>, trascorsi macinando chilometri in mare aperto a caccia di prede. </p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Ha un corpo a forma di fuso, aerodinamico e scattante, un muso molto appuntito e una coda a mezzaluna perfetta per la velocità. Sulla base della coda (il peduncolo caudale) possiede due minuscole carene per lato, e la schiena è azzurro-verdastra solcata da strisce scure a zig-zag.</p>\n<p>La sfida vera è distinguerlo dallo sgombro comune (<em>Scomber scombrus</em>). Le fonti litigano un po&#39; su chi sia il più pregiato, ma per non farsi fregare al mercato guardate due cose: gli occhi e la pancia. Il lanzardo ha un <strong>occhio notevolmente più grande</strong> (da cui &quot;occhione&quot;) e un <strong>ventre argenteo tempestato di macchie e venature grigiastre</strong>, mentre quello dello sgombro è liscio e bianco. Inoltre, il lanzardo sfoggia spesso una sfumatura più dorata sui fianchi, un numero maggiore di striature sul dorso (che arrivano quasi a fondersi con i puntini sulla pancia) e possiede la <strong>vescica natatoria</strong>, l&#39;organo interno che lo aiuta a galleggiare, del tutto assente nel cugino. Non confondetelo nemmeno con il biso (<em>Auxis rochei</em>): il lanzardo ha 5 <em>pinnule</em> (piccole false pinne vicino alla coda) contro le 7-8 dell&#39;altro.</p>\n<p>Lungo le nostre coste ogni porto gli ha dato un nome: a Napoli lo chiamano <em>lacierto</em> o <em>scurtone</em>, in Sicilia diventa <em>occhi grossi</em> o <em>varatulu</em>, a Genova <em>cavalla</em> e a Roma <em>maccarello</em> o <em>lucardo</em> (<em>maccarello</em> però è solo un nome di porto: le uniche denominazioni di vendita ufficiali del lanzardo sono &quot;lanzardo&quot; e &quot;sgombro occhione&quot;, mentre &quot;maccarello reale&quot;, per legge, indica altre specie, del genere <em>Scomberomorus</em>). A Fano i pescatori lo conoscono affettuosamente come <em>lanciâra</em>.</p>\n<p>🌊 <strong>Habitat e abitudini</strong></p>\n<p>Pelagico e gran viaggiatore, abita in tutte le acque temperate e tropicali dell&#39;Atlantico e nel Mediterraneo (mentre negli oceani Indiano e Pacifico lascia il posto al suo sosia, lo <em>Scomber japonicus</em>). Vive sia in superficie che fino a <strong>300 metri di profondità</strong>, ma non disdegna qualche incursione a sorpresa in lagune e stagni salmastri. </p>\n<p>È un pesce gregario che forma <strong>banchi numerosissimi</strong>. La sua routine è affascinante: di giorno riposa o staziona vicino al fondale, mentre di notte risale prepotentemente verso la superficie scatenando l&#39;inferno. Il suo menù, però, è più minuto di quanto si pensi: si nutre soprattutto di <strong>zooplancton</strong>, che cattura sia filtrando l&#39;acqua sia predando direttamente (piccoli crostacei, larve di pesci e organismi gelatinosi del plancton come taliacei e larvacei); crescendo aggiunge prede più grandi, come piccoli cefalopodi, crostacei e piccoli pesci pelagici.</p>\n<p>Il periodo della riproduzione cambia da zona a zona: i testi classici sulla fauna italiana la collocano tra dicembre e aprile, soprattutto a febbraio e marzo, mentre uno studio del 2012 nell&#39;Adriatico orientale l&#39;ha osservata da maggio ad agosto, con il picco a giugno. Le uova, di circa un millimetro, vengono liberate direttamente in acqua e, grazie a una grossa goccia d&#39;olio, galleggiano in balia delle correnti.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>A livello commerciale lo si preleva con <strong>reti da circuizione</strong> (le famose lampare che illuminano la notte) e reti da traino pelagiche chiamate &quot;volanti&quot;. Ma è nella <strong>pesca sportiva</strong> che regala le soddisfazioni maggiori! Si insidia a traina costiera, light drifting e bolentino. Nonostante la taglia, ingaggia combattimenti durissimi ed estenuanti. Il trucco infallibile del pescatore è una <strong>pasturazione costante e corretta</strong> dalla barca, che innesca nel branco vere e proprie frenesie alimentari, facendolo fermare proprio sotto lo scafo per una divertentissima pesca a vista.</p>\n<p>Al mercato è considerato un &quot;pesce povero&quot; e il suo valore commerciale è basso: di solito costa meno dello sgombro comune. Sul fronte della conservazione non desta particolari preoccupazioni: l&#39;IUCN lo classifica a &quot;Rischio Minimo&quot; (LC) perché è comune e molto diffuso e, anche se in alcune zone è pescato intensamente, nel complesso le sue popolazioni appaiono stabili. Nella pesca professionale del Mediterraneo, poi, di rado è la specie bersaglio: finisce nelle reti soprattutto insieme a sardine e acciughe.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>La stagione perfetta per la pesca è l&#39;estate fino al primo autunno. Al banco del pesce si valuta così: <strong>l&#39;occhio deve essere vivo, convesso e con pupilla nera</strong> (non arrossata), le branchie rosate e il corpo sodo ed elastico.</p>\n<p>È un pesce azzurro grasso: le sue carni sono morbidissime e hanno un buon contenuto di grassi &quot;nobili&quot; (Omega-3), in linea con quello dello sgombro comune. Questo le rende strepitose da fresche, ma le fa deteriorare facilmente: se congelato, perde consistenza e sapore. Essendo un potenziale veicolo del parassita <em>Anisakis</em>, va sempre abbattuto a freddo o cotto a dovere. </p>\n<p>Ecco tre modi classici e infallibili per gustarlo:</p>\n<ul>\n<li><strong>All&#39;acqua pazza</strong>: Il consiglio numero uno per non coprirne il sapore deciso. Sfilettate il lanzardo e cuocetelo in padella con aglio, un goccio di vino bianco, pomodorini datterini e prezzemolo. </li>\n<li><strong>Al cartoccio</strong>: La cottura in forno chiusa nel cartoccio lo &quot;sgrassa&quot; leggermente, armonizzando i suoi sapori forti con olive, capperi e pangrattato.</li>\n<li><strong>Amareggiato</strong>: Una ricetta tradizionale siciliana per gli esemplari più grossi, che prevede una semplice bollitura accompagnata da una salsa di limone e prezzemolo.</li>\n<li><em>Il consiglio segreto:</em> Se pulendolo trovate le uova, non buttatele! Fatte soffriggere in padella con alici, aglio e vino bianco, diventano una bottarga ruspante e cremosa, perfetta da spalmare su una fetta di focaccia tostata.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Scambio d&#39;identità:</strong> Pur costando di solito meno del suo gemello famoso, spesso i commercianti furbetti giocano sulla somiglianza e lo vendono spacciandolo per sgombro comune, facendolo pagare a prezzo pieno!</li>\n<li><strong>Soprannome inglese:</strong> In inglese il suo nome ufficiale è <em>&quot;Atlantic chub mackerel&quot;</em>, ma è conosciuto anche come <em>&quot;tinker mackerel&quot;</em>.</li>\n<li><strong>Pelle a prova di squame:</strong> Come gli altri sgombri ha scaglie piccolissime, che a tavola non danno alcun fastidio: la sua pelle si mangia tranquillamente insieme al filetto!</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_primo-piano-habitat_2026-09-09T13-25-27.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_primo-piano-habitat_2026-09-09T13-25-27.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_habitat-largo_2026-09-09T13-25-29.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_azione_2026-09-09T13-25-30.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_sociale_2026-09-09T13-25-31.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/lanzardo/chatgpt_dettaglio-hd_2026-09-09T13-25-33.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-14T05:30:13.096Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-10-14T05:30:13.835Z"
+  }
+}
