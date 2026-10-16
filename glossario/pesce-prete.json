@@ -1,0 +1,67 @@
+{
+  "id": "pesce-prete",
+  "name": "Pesce prete",
+  "scientificName": "Uranoscopus scaber",
+  "family": "Uranoscopidae.",
+  "category": "pesce_vertebrato",
+  "description": "Il pesce prete vanta una morfologia tozza ma unica, con una voluminosa testa corazzata e un profilo dotato di occhi e bocca rivolti in su. È un predatore che passa quasi tutto il tempo infossato nel fondale marino in attesa della vittima, usando una minuscola e mobile appendice boccale sfrangiata come esca (simile a un verme). È temuto e occorre molta cautela nel maneggiarlo in quanto è provvisto di due robuste spine velenifere dietro gli opercoli, sopra le pinne pettorali, capaci di causare un forte dolore, con arrossamento e gonfiore; la prima pinna dorsale, nera, non è velenosa. Eccezionalmente tra i pesci, l'Uranoscopus scaber possiede anche speciali organi derivati dai muscoli sonici in grado di erogare deboli scariche elettriche a bassa frequenza, usate per difendersi o per la comunicazione tra sessi.",
+  "habits": "- Reti a strascico, reti da posta e tremagli (utilizzate su fondali fangosi e detritici dalla pesca professionale o artigianale). - Palangari di fondo (palamiti) e nasse. - Lenze a mano e pesca sportiva (questo pesce ha un fortissimo istinto opportunista, ed è attratto repentinamente tanto da esche vive quanto da quelle artificiali o pezzi di scarto).",
+  "habitat": "Specie demersale o bentonica, predilige i substrati molli, sabbiosi o fangosi per potersi insabbiare. Frequenta la piattaforma continentale e la parte alta della scarpata, a profondità che vanno dai 15 ai 400 metri.",
+  "diet": "È un carnivoro e predatore d'agguato. Si ciba prevalentemente di piccoli pesci teleostei (come gobidi e picarelli), crostacei bentonici (come gamberi e canocchie), molluschi cefalopodi (come totani e seppie), oltre a echinodermi e anellidi.",
+  "size": {
+    "min": 15,
+    "max": 38
+  },
+  "averageSize": "Gli esemplari maggiormente catturati e osservati misurano in media tra i 15 e i 25 cm.",
+  "weight": {
+    "min": 0,
+    "max": 0.94
+  },
+  "pesoText": "Raggiunge un peso massimo registrato di circa 0,94 kg (940 g).",
+  "maxAge": "Negli studi sulle coste mediterranee dell'Egitto gli esemplari esaminati non superavano i 5-6 anni, ma nell'Adriatico meridionale è stata trovata una femmina di 8 anni.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sardegna",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "È largamente diffuso in tutto il Mar Mediterraneo, nel Mar Nero e nell'Oceano Atlantico orientale. In Italia è molto comune su tutte le coste, in particolar modo sui fondali del Mar Adriatico, del Mar Ionio, del Mar Ligure, del Tirreno e lungo le coste della Sardegna.",
+  "iucnStatus": "LC (Least Concern - Rischio Minimo); si tratta di una specie ampiamente diffusa con popolazioni considerate stabili a livello globale, nonostante l'impatto costante della pesca a strascico di fondo.",
+  "fishingRequirements": "Non esistono specifici piani di gestione o taglie minime legali per la specie a causa di un basso indice di sfruttamento globale e al suo ruolo prevalente come cattura accessoria. Tuttavia, la pesca sostenibile raccomanda di concentrare le catture nei mesi tra ottobre e febbraio, in modo da tutelare la specie durante l'intenso periodo riproduttivo primaverile ed estivo.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": true,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immagina un pesce che passa la vita sepolto sotto la sabbia, ha spine cariche di veleno, è capace di darti una scossa elettrica e pesca le sue prede usando una canna da pesca incorporata nella bocca. Ti presento il Pesce prete, il cui nome scientifico è <em>Uranoscopus scaber</em>. È l&#39;unico rappresentante nel Mar Mediterraneo della famiglia degli Uranoscopidae, un gruppo di pesci le cui stranezze sembrano uscite da un romanzo di fantascienza. </p>\n<p>Le sue dimensioni non sono da mostro marino, ma incutono comunque rispetto: in media gli esemplari che finiscono nelle nostre reti misurano tra i 15 e i 25 centimetri. L&#39;esemplare più lungo di cui si ha notizia misurava 38 centimetri, mentre il peso massimo registrato è di quasi un chilo (940 grammi). Le femmine, di solito, diventano un po&#39; più grandi dei maschi.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Il Pesce prete ha un aspetto tozzo e quasi &quot;mostruoso&quot;, progettato per l&#39;agguato perfetto. Il corpo è a forma di clava: massiccio e circolare nella parte anteriore, va a stringersi progressivamente verso la coda. La testa è enorme, piatta, squadrata e corazzata da placche ossee ruvide. La sua livrea è il top del mimetismo: bruno-ocra o grigio-marrone sul dorso con strisce oblique sui fianchi, mentre il ventre è giallastro o bianco. Il segno distintivo infallibile è la prima pinna dorsale, che è di un nero profondo e intenso. Ha gli occhi piccolissimi e una bocca enorme, tagliata in verticale, entrambi rivolti verso l&#39;alto. Se gli apri la bocca, noterai un&#39;appendice carnosa e sfrangiata simile a un vermiciattolo, che usa come esca. </p>\n<p>Al banco del pesce o sott&#39;acqua potresti confonderlo con due specie. La prima è la gallinella (<em>Chelidonichthys lucerna</em>), che porta &quot;lucerna&quot; nel nome scientifico; per il decreto del MASAF sui nomi di vendita, però, &quot;Lucerna&quot; è il pesce prete, mentre la gallinella si vende come gallinella o cappone. La gallinella, poi, ha colori rossastri, carni morbidissime e cammina sul fondo usando i raggi delle pinne come &quot;zampette&quot;. La seconda è la tracina, che si insabbia e ha spine velenose come lui, ma non possiede il testone corazzato a blocco tipico del Pesce prete. \nI pescatori italiani gli hanno affibbiato decine di nomi regionali coloriti. A Genova lo chiamano <em>pesce praeve</em> o <em>miru</em>, a Venezia e Trieste <em>boca in cao</em> (bocca in testa), a Roma, Taranto e Crotone <em>lucerna</em> (perché la testa ricorda le antiche lampade a olio), che è anche uno dei suoi due nomi ufficiali di vendita, insieme a pesce prete. A Napoli è il <em>capotuosto</em> o <em>boccana</em>, in Abruzzo <em>vocca-n-cape</em>. In Sardegna lo trovi come <em>pappacocciula</em> o <em>pische preideru</em>, e in Sicilia come <em>coccumu</em>, <em>lumera</em> o <em>tracinedda</em>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>L&#39;<em>Uranoscopus scaber</em> è un pesce <em>demersale</em> — cioè che vive a stretto contatto col fondale — diffusissimo in tutto il Mediterraneo, nel Mar Nero e nell&#39;Atlantico orientale. Ama le acque costiere, la piattaforma continentale e la parte alta della scarpata, vivendo a profondità che vanno dai 15 ai 400 metri. Il suo regno sono i fondali molli, fatti di sabbia e fango, indispensabili per potersi seppellire completamente lasciando spuntare solo occhi e bocca. Essendo privo di vescica natatoria (l&#39;organo che fa galleggiare i pesci), è letteralmente incollato al fondo. </p>\n<p>È un cacciatore solitario e carnivoro formidabile. Non insegue la preda, la aspetta. Si ciba di piccoli pesci (come gobidi e picarelli), crostacei bentonici (come gamberi e canocchie) e cefalopodi (calamari e seppie). Passa le giornate immobile e colpisce di notte o al crepuscolo, con un picco di fame durante i mesi autunnali. \nLa riproduzione avviene tra aprile e settembre (con un picco a maggio in alcune zone). La cosa incredibile è che le uova e le larve nuotano libere nell&#39;acqua e i piccoli hanno gli occhi laterali come un pesce normale. Solo più avanti, crescendo, subiscono una metamorfosi aliena: gli occhi migrano verso l&#39;alto, la testa si appiattisce e il pesciolino scende per sempre sul fondo.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Non esistono flotte pescherecce che escano in mare con il solo scopo di pescare il Pesce prete. Si tratta di quella che noi pescatori chiamiamo &quot;cattura accessoria&quot; (bycatch): finisce spesso nelle reti a strascico che arano i fondali fangosi, ma viene preso anche con reti da posta, tremagli, palangari di fondo e nasse. I pescatori sportivi lo agganciano facilmente con lenze e palamiti, perché è un opportunista talmente vorace da attaccare quasi ogni esca gli passi davanti, anche artificiale. </p>\n<p>Nonostante il suo aspetto, ha un buon valore commerciale, specialmente nei mercati locali dove si preparano le zuppe. A livello di conservazione possiamo stare tranquilli: l&#39;IUCN lo classifica come &quot;Rischio Minimo&quot; (LC). Le popolazioni sono stabili e abbondanti, anche se l&#39;eccessivo sfruttamento dei fondali con lo strascico e l&#39;inquinamento da microplastiche sono un disturbo cronico per il suo ambiente. Non è una specie allevata in acquacoltura.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Per assaporarlo al meglio e rispettare i suoi cicli riproduttivi, la stagione ottimale per consumarlo va da ottobre a febbraio. Quando lo compri al banco, valgono le regole auree del buon pesce fresco: cerca una pelle ancora lucente, intatta, e occhi vividi, per quanto piccoli possano essere. Le sue carni sono bianche, magrissime, sode e belle tenaci (i cuochi le definiscono &quot;coriacee&quot;), il che le rende gloriose per le cotture in umido perché non si sfaldano mai. </p>\n<p>Il consiglio d&#39;oro del pescatore: chiedi sempre al pescivendolo di eviscerarlo e, soprattutto, di tagliargli le micidiali spine velenose dietro le branchie, per evitare incidenti in cucina. Una volta sul fuoco, però, vai tranquillo: il veleno è <em>termolabile</em>, si disintegra col calore e la carne è squisita e sicurissima.\nEcco le preparazioni classiche in cui dà il meglio di sé:</p>\n<ul>\n<li><strong>Zuppa / Cacciucco / Brodetto:</strong> Che tu faccia il Cacciucco livornese o il Brodetto marchigiano, il Pesce prete è sacro. Va inserito per primo nella pentola (insieme a scorfani e polpi) perché la sua carne spessa ha bisogno di cuocere a lungo, e la sua testa ossuta e ricca di collagene è il segreto per rendere il brodo denso, saporito e vellutato.</li>\n<li><strong>Insalata di pesce prete:</strong> Un antipasto che valorizza i suoi toni sapidi e minerali. Bollito intero in acqua con grani di pepe bianco, poi sfilettato meticolosamente da tiepido. Si condisce la polpa soda con una semplice emulsione di olio extravergine delicato, succo di limone, prezzemolo, aglio, sale e pepe.</li>\n<li><strong>Allo zafferano:</strong> Rosolalo dolcemente in padella con cipollotto, aglio, zucchine e funghi, sfumalo con vino bianco, e a fine cottura lega il sugo con una bustina di zafferano sciolta in poca acqua.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>È elettrico!</strong> Eccezionalmente per un pesce mediterraneo, possiede due piccoli organi dietro gli occhi (derivati dai muscoli sonici) capaci di erogare deboli scariche elettriche (5-10 Hz). Non ti fulminano, ma i biologi credono che usi impulsi brevi quando è disturbato e scariche più lunghe d&#39;estate per &quot;flirtare&quot; durante il corteggiamento!</li>\n<li><strong>Attacco fulmineo:</strong> Quando una preda si avvicina al suo finto verme boccale, il pesce piega la colonna vertebrale subito dietro la testa (i ricercatori hanno misurato 60 gradi e oltre) e scatta verso l&#39;alto creando un vuoto d&#39;aspirazione spaventoso. Inghiottisce il pasto in meno di 30 millisecondi!</li>\n<li><strong>Rimedi da spiaggia:</strong> Se per sfortuna lo calpesti, le sue due poderose spine post-opercolari ti pungeranno causando un dolore acuto, con arrossamento e gonfiore. Siccome il veleno è termolabile, il rimedio d&#39;emergenza è semplice: immergi subito la parte ferita in acqua calda quanto riesci a sopportarla (circa 45 gradi) per 30-90 minuti e fatti vedere da un medico.</li>\n<li><strong>Osservatore del cielo:</strong> Il suo nome scientifico, <em>Uranoscopus</em>, deriva dall&#39;unione di due parole greche: <em>ouranós</em> (cielo) e <em>skopéō</em> (guardare). Proprio perché, stando sepolto, passa la sua intera esistenza &quot;fissando le stelle&quot;.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_primo-piano-habitat_2026-09-10T18-05-52.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_primo-piano-habitat_2026-09-10T18-05-52.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_habitat-largo_2026-09-10T18-05-54.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_azione_2026-09-10T18-05-55.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_sociale_2026-09-10T18-05-58.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_dettaglio-hd_2026-09-10T18-05-59.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-16T05:30:09.346Z",
+  "classification": {
+    "zones": [
+      "costa",
+      "profondi"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 15-400 m",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-10-16T05:30:10.330Z"
+  }
+}

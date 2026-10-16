@@ -384,6 +384,14 @@
     "publishedAt": "2026-10-05T05:30:12.601Z"
   },
   {
+    "id": "pesce-prete",
+    "name": "Pesce prete",
+    "scientificName": "Uranoscopus scaber",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-prete/chatgpt_primo-piano-habitat_2026-09-10T18-05-52.webp",
+    "publishedAt": "2026-10-16T05:30:09.346Z"
+  },
+  {
     "id": "pesce-san-pietro",
     "name": "Pesce San Pietro",
     "scientificName": "Zeus faber",
