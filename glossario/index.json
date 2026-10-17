@@ -296,6 +296,14 @@
     "publishedAt": "2026-07-07T13:54:08.168Z"
   },
   {
+    "id": "palamita-bianca",
+    "name": "Palamita bianca",
+    "scientificName": "Orcynopsis unicolor",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_primo-piano-habitat_2026-09-11T13-02-44.webp",
+    "publishedAt": "2026-10-17T05:30:37.887Z"
+  },
+  {
     "id": "serranus-cabrilla",
     "name": "Perchia",
     "scientificName": "Serranus cabrilla",

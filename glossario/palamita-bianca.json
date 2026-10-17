@@ -1,0 +1,66 @@
+{
+  "id": "palamita-bianca",
+  "name": "Palamita bianca",
+  "scientificName": "Orcynopsis unicolor",
+  "family": "Scombridae.",
+  "category": "pesce_vertebrato",
+  "description": "Scombride dal corpo relativamente corto, alto e assai compresso lateralmente, la palamita bianca differisce dalla palamita comune per l'assenza di striature scure sul dorso negli esemplari adulti e per due specifiche placche dentarie ovali poste sulla lingua. È un vorace predatore che perlustra le acque in piccoli branchi coesi, spingendo le prede in superficie e innescando frenesie alimentari che attirano stormi di uccelli marini, creando un'associazione infallibile e utilissima per l'avvistamento da parte dei pescatori.",
+  "habits": "* Pesca a spinning costiero, praticabile in modo molto efficace sia da imbarcazione che da riva. * Traina costiera con esche artificiali o naturali, tecnica molto usata nei mesi caldi. * Pesca con lenze a mano, praticata comunemente dalle marinerie artigianali locali. * Impiego di reti da posta nella piccola pesca artigianale.",
+  "habitat": "Specie pelagico-neritica strettamente legata alla costa: nuota negli strati superficiali sopra la piattaforma continentale e le catture documentate vanno dai 4 ai 30 metri di profondità. Gli adulti restano soprattutto in acque temperate (temperatura preferita stimata fra 12,5 e 23,5°C, in media 16,3°C), mentre i giovani si incontrano anche in acque fino a 30°C.",
+  "diet": "È un predatore ittiofago molto attivo che si ciba quasi esclusivamente di piccoli pesci pelagici gregari, come clupeidi (sardine, sardinelle), engraulidi (acciughe), carangidi (suri) e altri scombridi (sgombri), oltre alla boga.",
+  "size": {
+    "min": 50,
+    "max": 130
+  },
+  "averageSize": "Circa 90 cm alla forcella (con un peso di 4-5 kg), anche se nel Mar Mediterraneo si incontrano frequentemente esemplari più piccoli intorno ai 50-60 cm.",
+  "weight": {
+    "min": 0,
+    "max": 13.1
+  },
+  "pesoText": "13,1 kg.",
+  "maxAge": "Non ci sono stime pubblicate affidabili per questa specie.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sicilia",
+    "Mediterraneo"
+  ],
+  "regioniText": "Il suo areale è centrato nel Mediterraneo meridionale, dove è più comune lungo le coste del Nord Africa. Nei mari italiani è specie nativa ma rara, con segnalazioni sporadiche nel Mar Ligure, nel Tirreno meridionale, nei mari della Sicilia (Canale di Sicilia compreso) e nello Ionio; in Adriatico è molto rara.",
+  "iucnStatus": "LC (Least Concern - Preoccupazione Minore).",
+  "fishingRequirements": "Per la palamita bianca non esiste una misura minima di cattura specifica: il Reg. (UE) 2019/1241 non la nomina mai, e l'unica palamita citata dalla normativa europea è la palamita comune (Sarda sarda), nell'Allegato III sul divieto di reti da posta derivanti. Le fonti non riportano periodi di fermo biologico mirati per la specie. Rientra tra i tonnidi minori seguiti dall'ICCAT (codice BOP): per questo gruppo non sono mai stati fissati limiti di cattura né quote (TAC), ma gli Stati devono comunicare all'ICCAT quanto ne pescano.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Ha un nome da nobile ma nuota con la spavalderia di uno squalo. La <strong>palamita bianca</strong>, nota alla scienza come <em>Orcynopsis unicolor</em>, appartiene alla grande e velocissima famiglia degli <strong>Scombridae</strong>. È un cugino di sangue di tonni e sgombri, ma fa storia a sé: è l&#39;unico membro vivente del suo genere. </p>\n<p>Di solito, quando vi capita a tiro, avete davanti un pesce che si aggira intorno ai <strong>90 centimetri per 4 o 5 chili</strong> di peso. Ma attenzione, perché i veri veterani del mare aperto possono arrivare a misurare <strong>130 centimetri e pesare oltre 13 chili</strong>. </p>\n<p>Quanto possa vivere, invece, non si sa con certezza: non ci sono stime pubblicate affidabili sulla sua età massima.</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Dimenticate la forma a siluro perfetta. La palamita bianca ha un corpo ovale, alto e <strong>fortemente compresso lateralmente</strong>, quasi schiacciato. La testa è a punta, armata di una bocca moderatamente grande con <strong>denti conici, robusti e ben distanziati</strong>. Il colore è un bel <strong>grigio-azzurro o blu-nero</strong> sul dorso, che sfuma nell&#39;argento sui fianchi. La prima pinna dorsale è corta, alta e inconfondibile: i suoi primi tre quarti sono <strong>completamente neri</strong>.</p>\n<p>Come non farsi fregare al mercato o in barca? Il trucco c&#39;è. Prima di tutto, guardate il dorso: gli adulti di palamita bianca sono <strong>privi di strisce scure</strong>, mentre la palamita comune (<em>Sarda sarda</em>) sfoggia sempre 5-11 bande scure oblique a forma di &quot;V&quot;. Poi, apritegli la bocca. La palamita bianca ha <strong>due placche dentarie ovali posizionate direttamente sulla lingua</strong>, una bizzarria anatomica assente nei cugini. Attenzione anche al nome scientifico: condivide la parola <em>unicolor</em> con il tonno a denti di cane (<em>Gymnosarda unicolor</em>), ma quest&#39;ultimo è un colosso delle scogliere coralline dell&#39;Indo-Pacifico che supera i due metri. </p>\n<p>A seconda di dove gettate l&#39;amo, cambia nome: in Sicilia lo chiamano <em>Palamitu</em>, a Roma non ha un nome suo ma in Spagna è il <em>Tasarte</em>, a Malta <em>Blamto</em> e in Francia <em>Palomette</em>.</p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un pesce <strong>pelagico-neritico</strong>: ama le acque aperte ma non si allontana mai troppo dalla piattaforma continentale. Nel Mediterraneo è più comune lungo le coste del Nord Africa, ma l&#39;areale si spinge in tutto l&#39;Atlantico orientale, dal caldo Senegal fino alle acque gelide di Oslo, in Norvegia. </p>\n<p>Nuota negli strati più superficiali: le catture documentate vanno dai 4 ai 30 metri di profondità. Nel 2020 un giovane esemplare è stato pescato in Sicilia, nelle acque di Ispica, a circa 4 metri di profondità, sopra un fondale sabbioso con prateria di <em>Posidonia oceanica</em>. Gli adulti restano soprattutto in acque temperate: si stima che preferiscano temperature fra 12,5 e 23,5°C, in media 16,3°C. I giovani, invece, sono più tolleranti: si incontrano anche in acque fino a 30°C. </p>\n<p>È un cacciatore sociale che si muove in <strong>piccoli branchi compatti</strong>. È un predatore ittiofago vorace: il suo menu fisso prevede piccoli pesci di branco come acciughe, sardinelle, sugarelli, sgombri e boghe.</p>\n<p>Nel Mediterraneo la riproduzione avviene tra luglio e settembre, mentre al largo del Senegal comincia già a maggio. Mamma palamita non bada a spese per garantire la sopravvivenza della specie: una singola femmina di 5 chili può rilasciare in più fasi dalle <strong>500.000 alle 600.000 uova pelagiche</strong>.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>Non è un pesce che arricchisce i mercati all&#39;ingrosso, avendo uno scarso valore economico commerciale. Finisce spesso nelle reti a circuizione o nei palangari come cattura accessoria (il cosiddetto bycatch) di chi sta cercando i tonni tropicali o il tonno rosso. </p>\n<p>Tuttavia, è una preda classica e divertente per la <strong>piccola pesca artigianale e sportiva</strong>. Sotto costa lo si insidia con lenze a mano e reti da posta superficiali. Sportivamente, lo si pesca a traina o a spinning.</p>\n<p>Potete pescarlo e mangiarlo senza troppi sensi di colpa ecologici: lo stato di conservazione è classificato come <strong>LC (Least Concern - Preoccupazione Minore)</strong>.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>È considerato un pesce alimentare eccellente, commercializzato sia fresco che in scatola. </p>\n<p>Le sue carni sono sode e corpose, ma rispetto ai tonni veri e propri hanno un <strong>contenuto di grassi molto più moderato</strong>, mentre i giovani hanno una consistenza che ricorda molto quella del tonnetto striato. </p>\n<p>Se vi capita in cucina, ecco tre dritte da non perdere:</p>\n<ul>\n<li><strong>Palamita sott&#39;olio</strong>: Viene bollita e poi messa in barattolo con aromi. Diventa un salume di mare pazzesco.</li>\n<li><strong>Tataki di palamita</strong>: Per chi ama il crudo, un bel trancio scottato appena all&#39;esterno, magari accompagnato da una bruschetta liquida all&#39;olio nuovo.</li>\n<li><strong>Al forno con panure</strong>: Provatela passata al forno con una crosta croccante agli agrumi, servita su un letto di scarola e salsa d&#39;arancia.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Nuota travestito da squalo.</strong> Quando caccia i pesciolini in superficie, la sua prima pinna dorsale spunta fuori dall&#39;acqua in modo inquietante, solcando le onde esattamente come fa la pinna di uno squalo.</li>\n<li><strong>Ha il radar per gli uccelli marini.</strong> I vecchi pescatori sanno che per trovarlo basta guardare in cielo. I banchi di palamita bianca stringono i pesci foraggio in superficie creando una frenesia alimentare che attira stormi di <strong>uccelli marini</strong>. L&#39;associazione tra questi uccelli e la palamita bianca è una bussola infallibile in mare.</li>\n<li><strong>È un pesce &quot;senza galleggiante&quot;.</strong> Come la palamita comune, anche la palamita bianca è completamente priva di vescica natatoria. Se smette di nuotare, va a fondo!</li>\n<li><strong>Non resiste alle Isole Canarie.</strong> Pur vivendo dal Senegal alla Norvegia, snobba totalmente le isole oceaniche come Madeira, le Canarie o Capo Verde. Se non c&#39;è una piattaforma continentale attaccata a terra, non le interessa.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_primo-piano-habitat_2026-09-11T13-02-44.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_primo-piano-habitat_2026-09-11T13-02-44.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_habitat-largo_2026-09-11T13-02-46.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_azione_2026-09-11T13-02-47.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_sociale_2026-09-11T13-02-48.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/palamita-bianca/chatgpt_dettaglio-hd_2026-09-11T13-02-49.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-17T05:30:37.887Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; depth 4-30 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-10-17T05:30:41.107Z"
+  }
+}
