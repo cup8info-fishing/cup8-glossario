@@ -664,6 +664,14 @@
     "publishedAt": "2026-10-08T05:30:08.703Z"
   },
   {
+    "id": "tracina-vipera",
+    "name": "Tracina vipera",
+    "scientificName": "Echiichthys vipera",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/tracina-vipera/chatgpt_primo-piano-habitat_2026-09-11T13-04-37.webp",
+    "publishedAt": "2026-10-18T05:30:44.729Z"
+  },
+  {
     "id": "trota-fario",
     "name": "Trota fario",
     "scientificName": "Salmo trutta",
