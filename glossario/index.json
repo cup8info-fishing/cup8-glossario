@@ -200,6 +200,14 @@
     "publishedAt": "2026-08-08T09:15:16.534Z"
   },
   {
+    "id": "trachinotus-ovatus",
+    "name": "Leccia stella",
+    "scientificName": "Trachinotus ovatus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/trachinotus-ovatus/chatgpt_primo-piano-habitat_2026-09-28T09-08-26.webp",
+    "publishedAt": "2026-10-19T07:57:53.271Z"
+  },
+  {
     "id": "luccio-europeo",
     "name": "Luccio europeo",
     "scientificName": "Esox lucius",
