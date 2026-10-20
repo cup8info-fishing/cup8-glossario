@@ -160,6 +160,14 @@
     "publishedAt": "2026-09-24T05:30:02.721Z"
   },
   {
+    "id": "ghiozzo-nero",
+    "name": "Ghiozzo nero",
+    "scientificName": "Gobius niger",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/ghiozzo-nero/chatgpt_primo-piano-habitat_2026-10-01T13-51-45.webp",
+    "publishedAt": "2026-10-20T05:30:13.071Z"
+  },
+  {
     "id": "granchio-blu",
     "name": "Granchio blu",
     "scientificName": "Callinectes sapidus",
