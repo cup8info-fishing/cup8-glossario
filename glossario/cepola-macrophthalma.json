@@ -1,0 +1,68 @@
+{
+  "id": "cepola-macrophthalma",
+  "name": "Cepola",
+  "scientificName": "Cepola macrophthalma",
+  "family": "Cepolidae.",
+  "category": "pesce_vertebrato",
+  "description": "La **cepola** o **bandiera rossa** (*Cepola macrophthalma*) è un teleosteo demersale dal corpo allungato e nastriforme, con livrea rosa salmone carica, ventre aranciato-giallastro e una macchia rosso intenso sulla porzione anteriore della lunga pinna dorsale. Conduce uno stile di vita fossorio specializzato, scavando nel fango profonde gallerie verticali (fino a 100 cm) in cui vive infossata con la testa rivolta verso l'alto per catturare lo zooplancton di passaggio. Presenta occhi grandi e argentati e una bocca ampia e obliqua guarnita da denti sottili e ricurvi. Alcuni nomi locali, come *bandiera* e *spada*, si usano anche per il pesce sciabola (*Lepidopus caudatus*); la cepola se ne distingue per il colore rosa (il pesce sciabola è argenteo), le dimensioni minori e la vita in tana.",
+  "habits": "- **Pesca professionale / commerciale:** Catturata quasi esclusivamente come cattura accessoria (*bycatch*) mediante reti a strascico nei fondi mobili e commercializzata nei mercati locali (in Italia con il nome ufficiale di *cepola*; sui banchi anche *fiammetta*) per zuppe di pesce o per la frittura di paranza. - **Pesca sportiva da natante (bolentino di fondo):** Specie non ricercata come target specifico per via dello stile di vita fossorio e della resa ridotta delle carni; le catture occasionali avvengono con montature da bolentino leggero di fondo, ami piccoli (n° 10–14) innescati con pezzetti di gambero, vermi marini o striscioline di sarda, calati su fondali fangosi tra 40 e 100 metri nei pressi delle colonie di tane. - **Pesca sportiva da riva (canna da molo o scogliera):** Catture rare da moli o scogliere esterne affacciate su fondi molli, rispettando la fascia riservata ai bagnanti fissata dall'ordinanza della Capitaneria locale.",
+  "habitat": "Specie demersale; predilige fondali sabbiosi e fangosi, dove scava le sue tane verticali, tra 15 e 400 metri di profondità (di solito tra 40 e 100 metri).",
+  "diet": "Micro-predatore zooplanctofago; si nutre prevalentemente di crostacei pelagici (copepodi calanoidi, eufausiacei, misidacei, larve di decapodi), chetognati (*Sagitta* spp.), taliacei, appendicolari, policheti pelagici e, negli esemplari adulti di maggiori dimensioni, larve di pesci.",
+  "size": {
+    "min": 30,
+    "max": 80
+  },
+  "averageSize": "Tra 30 e 40 cm (comunemente osservata tra 30 e 35 cm).",
+  "weight": {
+    "min": 0,
+    "max": 0.24
+  },
+  "pesoText": "Circa 240 g negli esemplari atlantici più grandi (70-73 cm di lunghezza standard); i più grandi misurati in Italia (53 cm) e in Grecia (58 cm) pesavano 50 e 70 g.",
+  "maxAge": "8 anni (età massima letta sugli otoliti, Egeo occidentale; studio del 1992). Maturità sessuale a circa 1,9 anni nelle femmine e 2,6 anni nei maschi (Egeo occidentale; studio del 1996).",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Oceano Atlantico orientale (dalle Isole Britanniche e Scozia fino al Senegal) e tutto il Mar Mediterraneo; comune in tutti i mari italiani (Adriatico, Tirreno, Ionio, Ligure, Sardegna), mentre risulta molto rara nel Mar del Nord.",
+  "iucnStatus": "LC (Minor preoccupazione).",
+  "fishingRequirements": "Nessuna taglia minima specifica (vale solo il minimo generale di 7 cm per tutti i pesci, art. 87 del DPR 1639/1968) e nessun fermo dedicato. Il pescatore sportivo può tenere al massimo 5 kg di pescato al giorno, salvo il caso di un singolo pesce di peso superiore (art. 142 del DPR 1639/1968). In estate le ordinanze di sicurezza balneare delle Capitanerie vietano la pesca nella fascia riservata ai bagnanti, negli orari fissati da ciascuna (per esempio 300 m dalla battigia a Palermo, 200 m dalle spiagge a Imperia, 100 m dalle coste a picco); la pesca subacquea è sempre vietata a meno di 500 m dalle spiagge frequentate da bagnanti (art. 129 del DPR 1639/1968).",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<ul>\n<li><strong>Nome scientifico:</strong> <em>Cepola macrophthalma</em> (Linnaeus, 1758); sinonimo: <em>Cepola rubescens</em> Linnaeus, 1764.</li>\n<li><strong>Famiglia:</strong> Cepolidae.</li>\n<li><strong>Regioni/Mari:</strong> Presente nell&#39;Atlantico orientale (dalle Isole Britanniche e la Scozia fino al Senegal) e diffuso in tutto il Mar Mediterraneo, compresi tutti i mari italiani (Mar Adriatico, Mar Tirreno, Mar Ionio, Mar Ligure, mari della Sardegna e Stretto di Sicilia).</li>\n<li><strong>Habitat:</strong> Specie demersale e fossoria (benthon) associata a fondali molli (fangosi, sabbioso-fangosi o detritici), dove scava ed abita gallerie o tane verticali (<em>burrows</em>); vive tra 15 e 400 metri di profondità, di solito tra 40 e 100 metri.</li>\n<li><strong>Alimentazione:</strong> Zooplanctonofago: si nutre prevalentemente di micro e macro-zooplancton, in particolare piccoli crostacei (copepodi, mysidi, larve di decapodi) e chetognati.</li>\n<li><strong>Peso massimo:</strong> Circa 240 g negli esemplari atlantici più grandi (70-73 cm di lunghezza standard); i più grandi misurati in Italia (53 cm) e in Grecia (58 cm) pesavano 50 e 70 g.</li>\n<li><strong>Lunghezza massima:</strong> 80 cm di lunghezza totale (Atlantico); nel Mediterraneo gli esemplari misurati arrivano a 50-60 cm.</li>\n<li><strong>Taglia media:</strong> 30 – 40 cm.</li>\n<li><strong>Età massima:</strong> 8 anni, letta sugli otoliti nell&#39;Egeo occidentale (studio del 1992); nell&#39;Adriatico orientale gli esemplari studiati non superavano i 4 anni (studio del 2008). Maturità sessuale a circa 1,9 anni nelle femmine e 2,6 nei maschi (Egeo occidentale, studio del 1996).</li>\n<li><strong>Requisiti di pesca:</strong> Non è soggetta a misura minima legale specifica né a un fermo biologico dedicato in Italia, in quanto specie priva di pesca target professionale; viene prelevata come cattura accessoria (<em>bycatch</em>) o scarto nella pesca a strascico. Vale solo il minimo generale di 7 cm per tutti i pesci (art. 87 del DPR 1639/1968). Il pescatore sportivo può tenere al massimo 5 kg di pescato al giorno, salvo il caso di un singolo pesce di peso superiore (art. 142 del DPR 1639/1968).</li>\n<li><strong>Stato IUCN:</strong> LC (Minor preoccupazione).</li>\n<li><strong>Informazioni generali:</strong> La cepola o bandiera rossa (<em>Cepola macrophthalma</em>) è un pesce osseo dal corpo fortemente compresso e nastriforme che si assottiglia verso la coda, caratterizzato da una livrea rosa salmone carico con ventre chiaro e da una diagnostica macchia rossa sulla parte anteriore della pinna dorsale giallastra. Si riconosce immediatamente per i grandi occhi argentati (ampi oltre un terzo della lunghezza del capo) e la bocca obliqua rivolta verso l&#39;alto con denti aguzzi e ben distanziati. Comportamentalmente è un organismo fossorio che scava tane verticali nel fango trasportando il sedimento con la bocca, dalle quali si sporge per fare la posta al plancton in transito, svolgendo un ruolo ecologico e trofico chiave nei fondali demersali.</li>\n<li><strong>Tecniche di pesca consigliate:</strong><ul>\n<li><strong>Pesca professionale / commerciale:</strong> Non esiste una pesca mirata (<em>target fishery</em>); la cattura avviene quasi esclusivamente in modo accessorio (<em>bycatch</em>) con <strong>reti a strascico</strong> (da fondo o volanti) operanti su fondali molli.</li>\n<li><strong>Pesca sportiva / amatoriale:</strong> Non costituisce una preda cercata dai pescatori sportivi; le rare catture amatoriali sono occasionali e avvengono a fondo con montature da bolentino o fondo leggero con piccoli ami innescati su fondi sabbioso-fangosi.</li>\n</ul>\n</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_primo-piano-habitat_2026-10-01T14-18-09.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_primo-piano-habitat_2026-10-01T14-18-09.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_habitat-largo_2026-10-01T14-18-11.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_azione_2026-10-01T14-18-12.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_sociale_2026-10-01T14-18-13.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_dettaglio-hd_2026-10-01T14-18-14.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-10-22T05:30:14.696Z",
+  "previousNames": [
+    "Bandiera rossa"
+  ],
+  "classification": {
+    "zones": [
+      "costa"
+    ],
+    "habitat": "costa",
+    "source": "WoRMS",
+    "evidence": "WoRMS: marine",
+    "water": {
+      "marine": true,
+      "brackish": false,
+      "fresh": false
+    },
+    "at": "2026-10-22T05:30:20.193Z"
+  }
+}

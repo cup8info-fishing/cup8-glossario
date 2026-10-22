@@ -88,6 +88,14 @@
     "publishedAt": "2026-07-03T12:24:27.119Z"
   },
   {
+    "id": "cepola-macrophthalma",
+    "name": "Cepola",
+    "scientificName": "Cepola macrophthalma",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cepola-macrophthalma/chatgpt_primo-piano-habitat_2026-10-01T14-18-09.webp",
+    "publishedAt": "2026-10-22T05:30:14.696Z"
+  },
+  {
     "id": "cernia-bruna",
     "name": "Cernia bruna",
     "scientificName": "Epinephelus marginatus",
