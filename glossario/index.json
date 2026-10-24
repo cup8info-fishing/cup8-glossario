@@ -592,6 +592,14 @@
     "publishedAt": "2026-07-22T13:27:22.203Z"
   },
   {
+    "id": "carcharodon-carcharias",
+    "name": "Squalo bianco",
+    "scientificName": "Carcharodon carcharias",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/carcharodon-carcharias/chatgpt_primo-piano-habitat_2026-10-01T14-11-36.webp",
+    "publishedAt": "2026-10-24T05:30:13.756Z"
+  },
+  {
     "id": "stella-marina-rossa",
     "name": "Stella marina rossa",
     "scientificName": "Echinaster sepositus",
