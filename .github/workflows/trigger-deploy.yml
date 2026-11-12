@@ -14,6 +14,9 @@ on:
     # master in quel momento.
     paths-ignore:
       - nostradamus-daily.json
+      # impara-sito.json: video e articoli del giorno per la sezione Impara dell'app (12/11/2026), letti
+      # dall'app a runtime: non cambia nessuna pagina del sito.
+      - impara-sito.json
 
 concurrency:
   group: trigger-deploy-cup8it
