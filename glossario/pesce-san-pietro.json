@@ -9,7 +9,7 @@
   "habitat": "Specie bentopelagica che predilige i fondali fangosi, sabbiosi, rocciosi o misti. Si incontra generalmente sulla piattaforma continentale a profondità comprese tra i 50 e i 200 metri, sebbene il suo areale batimetrico vari dai 5 fino ai 400 metri.",
   "diet": "È un predatore carnivoro opportunista che si nutre prevalentemente di piccoli pesci gregari (come sardine, aringhe, acciughe e sgombri), ma preda anche cefalopodi (come seppie e calamari) e crostacei.",
   "size": {
-    "min": 30,
+    "min": 40,
     "max": 90
   },
   "averageSize": "Tra i 30 e i 40-45 cm.",
