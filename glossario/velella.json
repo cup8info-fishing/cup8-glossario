@@ -9,7 +9,7 @@
   "habitat": "Specie pleustonica (o neustonica) oceanica che vive esclusivamente all'interfaccia aria-acqua sulla superficie del mare, utilizzando la tensione superficiale come substrato mobile. Galleggia offshore a profondità zero, sebbene i suoi stadi medusoidi e larvali scendano lungo la colonna d'acqua a profondità mesopelagiche e batipelagiche tra i 600 e i 1000 metri (talvolta fino a 2000 metri), accumulandosi specialmente nei canyon sottomarini. Forma biocenosi neustoniche complesse in associazione con gasteropodi predatori come *Janthina pallida*, *Janthina globosa* o *Janthina janthina*, e molluschi nudibranchi come *Fiona pinnata* e *Glaucus atlanticus*.",
   "diet": "Predatore carnivoro di zooplancton (sospensivoro non sessile). Cattura prede passive o poco mobili come copepodi calanoidi, eufausiacei larvali (nei loro stadi di calytopsis e furcilia), cladoceri, larvacei, appendicularie, krill, uova e larve di pesci attraverso le nematocisti presenti sui corti tentacoli dactilozoidi. Integra questa dieta eterotrofica grazie a una relazione simbiotica con microalghe dinoflagellate endosimbiotiche (zooxantelle) ospitate nei propri tessuti, le quali svolgono la fotosintesi e trasferiscono fino al 90% dei fotosintatati organici alla colonia ospite.",
   "size": {
-    "min": 1,
+    "min": 0.1,
     "max": 14
   },
   "averageSize": "Solitamente misura tra i 4 e i 7 cm di lunghezza (o tra 1,5 e 3 pollici). Nel Mar Mediterraneo, la taglia media è generalmente più contenuta, risultando inferiore a 4,5 cm di lunghezza e 2,1 cm di larghezza. I medusoidi appena liberati misurano circa 1-1,2 mm di altezza e larghezza.",
