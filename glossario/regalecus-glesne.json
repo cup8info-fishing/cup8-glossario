@@ -48,16 +48,16 @@
   "publishedAt": "2026-10-23T08:18:17.956Z",
   "classification": {
     "zones": [
-      "costa"
+      "pelagici"
     ],
-    "habitat": "costa",
-    "source": "WoRMS",
-    "evidence": "WoRMS: marine",
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; pelagic-oceanic; depth 20-1000 m",
     "water": {
       "marine": true,
       "brackish": false,
       "fresh": false
     },
-    "at": "2026-10-23T08:19:03.625Z"
+    "at": "2026-11-16T11:56:00.525Z"
   }
 }
