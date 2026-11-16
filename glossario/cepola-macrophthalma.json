@@ -53,16 +53,17 @@
   ],
   "classification": {
     "zones": [
-      "costa"
+      "costa",
+      "profondi"
     ],
     "habitat": "costa",
-    "source": "WoRMS",
-    "evidence": "WoRMS: marine",
+    "source": "FishBase",
+    "evidence": "Marine; demersal; depth 15-400 m",
     "water": {
       "marine": true,
       "brackish": false,
       "fresh": false
     },
-    "at": "2026-10-22T05:30:20.193Z"
+    "at": "2026-11-16T11:53:44.181Z"
   }
 }
