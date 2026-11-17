@@ -15,9 +15,9 @@
   "averageSize": "25 - 40 cm.",
   "weight": {
     "min": 0,
-    "max": 30
+    "max": 11
   },
-  "pesoText": "Oltre gli 11,1 - 12 kg. Alcuni record storici in via eccezionale riportano esemplari fino a 30 kg.",
+  "pesoText": "Fino a circa 11 kg, il peso più alto documentato per la specie.",
   "maxAge": "Fino a 18 anni.",
   "locations": [
     "Tirreno",
@@ -30,7 +30,7 @@
   ],
   "regioniText": "Comune nel Mar Mediterraneo (soprattutto Adriatico, Tirreno meridionale, Sicilia e Ionio, divenuta più rara nel Mar Ligure), Mar Nero, Mar d'Azov e Oceano Atlantico orientale dal Golfo di Guascogna al Senegal. Ha raggiunto anche il Mar Rosso migrando attraverso il Canale di Suez.",
   "iucnStatus": "VU (Vulnerabile). Le popolazioni sono considerate in declino (stimato fino a oltre il 30% nelle ultime 3 generazioni) a causa dell'eccessivo sforzo di pesca intensiva, delle catture accessorie e del progressivo degrado degli habitat costieri e lagunari.",
-  "fishingRequirements": "Le fonti fornite non specificano le attuali misure minime legali espresse in centimetri o le date esatte di fermo biologico vigenti in Italia, ma raccomandano caldamente ai pescatori di verificare le normative e le limitazioni locali in quanto queste (taglie minime, limiti di cattura e periodi di tutela) possono cambiare in base all'area e alla stagione.",
+  "fishingRequirements": "In Italia l'ombrina non ha una misura minima propria: non è fra le specie elencate dall'art. 87 del D.P.R. 1639/1968, quindi vale la misura generale di 7 cm. Per chi pesca per sport vale anche il limite generale di 5 kg di pescato al giorno (art. 142). Regolamenti regionali e aree marine protette possono aggiungere altre limitazioni, da verificare nella zona di pesca.",
   "badges": {
     "protected": true,
     "alien": null,
