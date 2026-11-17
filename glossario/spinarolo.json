@@ -1,0 +1,66 @@
+{
+  "id": "spinarolo",
+  "name": "Spinarolo",
+  "scientificName": "Squalus acanthias",
+  "family": "Squalidae.",
+  "category": "pesce_vertebrato",
+  "description": "Lo Spinarolo è un piccolo squalo idrodinamico, caratterizzato da un corpo affusolato, muso appuntito e l'assenza totale della pinna anale. La sua livrea dorsale grigio-bruna presenta tipiche macchie bianche sui fianchi che sbiadiscono con l'età; è facilmente riconoscibile per la presenza di due robuste e velenose spine poste davanti a ciascuna delle due pinne dorsali, utilizzate come efficace strumento di difesa. Ha un'indole gregaria, formando enormi banchi stagionali rigorosamente suddivisi per taglia e sesso.",
+  "habits": "* Pesca a fondo con canna e mulinello (rod and reel) per il settore sportivo. * Palangari da fondo (palamiti). * A livello commerciale è vittima frequente delle reti a strascico (bottom trawls), reti da posta e reti volanti.",
+  "habitat": "Specie bentopelagica e oceanodroma che predilige substrati composti da fondali sabbiosi o fangosi. Si incontra prevalentemente sulla piattaforma continentale a profondità tipiche comprese tra i 10 e i 200 metri, sebbene possa spingersi occasionalmente fino a 1460-1978 metri di profondità.",
+  "diet": "Carnivoro opportunista molto vorace; si nutre primariamente di pesci ossei (come aringhe, merluzzi, sgombri, naselli), cefalopodi (calamari, polpi), crostacei (granchi, gamberi) e occasionalmente invertebrati bentonici, meduse, policheti e anemoni di mare.",
+  "size": {
+    "min": 70,
+    "max": 128
+  },
+  "averageSize": "Compresa generalmente tra i 70 e i 100 cm.",
+  "weight": {
+    "min": 0,
+    "max": 9.8
+  },
+  "pesoText": "Circa 9,1 - 9,8 kg (le femmine sono sensibilmente più grandi e pesanti dei maschi).",
+  "maxAge": "Estremamente longevo, ha una vita media di 35-50 anni ma può raggiungere un'età massima documentata di 75 anni (e stimata in alcuni stock fino a 100 anni).",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Mar Ligure",
+    "Sardegna",
+    "Sicilia"
+  ],
+  "regioniText": "Segnalato in tutti i mari italiani, con notevole presenza storica e documentata nel Mar Adriatico, Mar Tirreno, Mar Ionio, Mar Ligure, Canale di Sicilia e acque della Sardegna.",
+  "iucnStatus": "VU (Vulnerabile) a livello globale. Tuttavia, la sottopopolazione specifica del Mar Mediterraneo è classificata come EN (Endangered - In Pericolo) a causa di un drammatico calo storico della biomassa.",
+  "fishingRequirements": "In Italia non esiste una normativa specifica rigorosa sulla taglia minima di cattura per questa specie. Tuttavia, lo Spinarolo è incluso nell'Allegato III della Convenzione di Barcellona (sfruttamento regolamentato) e le direttive della GFCM prevedono limiti come la restrizione delle catture accidentali a un massimo di tre esemplari per battuta di pesca e il potenziale rilascio per limitarne il bycatch.",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": true,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong></p>\n<p>Immaginate una madre che porta in grembo i suoi piccoli non per nove mesi, ma per ben due anni. Sembra fantascienza, eppure è la realtà dello <strong>Spinarolo</strong>, conosciuto nella scienza come <em>Squalus acanthias</em>. Questo affascinante predatore appartiene alla famiglia degli <strong>Squalidae</strong> ed è, a tutti gli effetti, un piccolo squalo che incrocia le nostre acque. </p>\n<p>Le sue dimensioni sono modeste e caratterizzate da un netto dimorfismo sessuale: i maschi si fermano in genere tra i 60 e i 90 cm, mentre le femmine sono le vere matrone del branco. Sulla loro lunghezza massima le fonti litigano: chi dice che non superino i 124 cm, chi giura di aver registrato bestioni fino a 160 cm — probabilmente dipende dalla popolazione e dalle fredde acque oceaniche in cui si sono sviluppate. </p>\n<p>Oltre a essere un campione di gestazione, lo Spinarolo è un vero matusalemme del mare. La sua vita media si aggira tra i 35 e i 50 anni, ma in natura sono stati documentati nonni di 75 anni, con stime che sfiorano persino il secolo di vita per alcuni stock pacifici!</p>\n<p>🔍 <strong>Come riconoscerlo</strong></p>\n<p>Se ve lo trovate davanti, riconoscerlo è un gioco da ragazzi. Ha un corpo affusolato a forma di siluro, un muso stretto e appuntito e grandi occhi ellittici. Il dorso è grigio-ardesia o bruno, che sfuma in un ventre bianco candido. La vera firma d&#39;autore, però, è una <strong>fila di inconfondibili macchie bianche</strong> sui fianchi, evidentissime nei giovani ma che tendono a sbiadire nei pesci più anziani. </p>\n<p>Attenzione alle pinne: ha due pinne dorsali e, davanti a ciascuna, svetta una <strong>robusta spina acuminata</strong> (da qui il nome!). Come tutti gli squaliformi, <strong>manca completamente della pinna anale</strong>. </p>\n<p>Le specie simili che possono confondervi sono i cugini <em>Squalus blainville</em> (lo spinarolo bruno) e lo <em>Squalus megalops</em>. Come distinguerli? Lo <em>Squalus acanthias</em> è l&#39;unico ad avere le famose macchiette bianche sul fianco. Inoltre, ha la narice formata da un solo lobo e la prima pinna dorsale spostata più indietro rispetto alle pinne pettorali.</p>\n<p>Lungo le nostre coste, i pescatori gli hanno affibbiato decine di nomi: a Fano lo chiamano <strong>cagnòl</strong>, in Sicilia <strong>caddutu</strong> o <strong>asia</strong>, altrove <strong>scazzone</strong>, <strong>centrone</strong> o <strong>palombo spinoso</strong>. E se andate al banco del pesce già spellato e a tranci, lo troverete spesso sotto il rassicurante nome di <strong>nocciolino</strong>. </p>\n<p>🌊  <strong>Habitat e abitudini</strong></p>\n<p>È un instancabile viaggiatore dei mari temperati e boreali di tutto il globo, Mediterraneo e Mar Nero compresi. Ama l&#39;acqua fresca, tra i 7°C e i 15°C, e per questo motivo compie grandi migrazioni: d&#39;estate si avvicina alla costa in acque basse, d&#39;inverno si rifugia al largo e al caldo, scendendo lungo le scarpate continentali. Lo trovate tipicamente tra i 10 e i 200 metri di profondità, accucciato su <strong>fondali sabbiosi o fangosi</strong>, anche se i sottomarini lo hanno filmato a quasi 2000 metri di profondità!</p>\n<p>Non è un tipo solitario. Lo Spinarolo è <strong>estremamente gregario</strong> e forma banchi immensi, composti anche da migliaia di individui. Ma c&#39;è una regola ferrea: i banchi sono rigorosamente separati per taglia, sesso e stato riproduttivo. Le femmine incinte, ad esempio, se ne stanno per conto loro in acque più basse e calde.</p>\n<p>A tavola non fa troppi complimenti: è un <strong>carnivoro opportunista e vorace</strong>. Caccia pesci ossei (aringhe, merluzzi, sgombri), calamari, polpi, granchi, gamberi e persino meduse o cetrioli di mare. </p>\n<p>La riproduzione è un miracolo della natura. È <strong>ovoviviparo</strong> (sviluppo aplacentale): i piccoli crescono nel grembo materno avvolti in sottili capsule trasparenti chiamate &quot;candele&quot;, nutrendosi solo del loro sacco vitellino. Dopo 18-24 mesi, la madre partorisce dai 2 ai 20 cuccioli già perfettamente formati, che escono di testa con le spine ricoperte da una guaina di cartilagine per non ferire la madre. </p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong></p>\n<p>A livello commerciale si pesca con <strong>reti a strascico</strong>, <strong>reti da posta</strong> e <strong>palangari da fondo</strong>, ma è anche una preda divertente per la pesca sportiva con canna e mulinello. Purtroppo per i pescatori professionisti, gli spinaroli sono una vera piaga: quando un branco attacca una rete piena di pesce, i loro denti taglienti e i morsi voraci la distruggono senza pietà. </p>\n<p>Commercialmente ha un valore altissimo, ma il suo stato di conservazione è tragico. Proprio perché cresce lentamente, fa pochissimi figli e ci mette decenni a maturare, non regge i ritmi della pesca industriale (specie quando i pescherecci intercettano i banchi di femmine gravide). A livello globale è classificato come <strong>Vulnerabile</strong>, ma la sottopopolazione del Mar Mediterraneo e del Nord Atlantico è ufficialmente <strong>In Pericolo</strong> (Endangered), con crolli storici degli stock che in alcune zone hanno superato il 90%.</p>\n<p>🍴 <strong>A tavola</strong></p>\n<p>Le sue carni sono eccellenti, bianchissime, sode e con un vantaggio impagabile: <strong>non hanno lische</strong>, ma solo una morbida colonna vertebrale cartilaginea. È il pesce perfetto per i bambini! </p>\n<p>Il consiglio del pescatore per valutarlo al banco: guardate gli <strong>occhi</strong> (devono essere convessi, brillantissimi, iridescenti e con la pupilla ben definita) e odoratelo. Deve profumare di alghe pulite. Se sentite puzza di ammoniaca, scappate. Lo Spinarolo immagazzina urea nel sangue per bilanciare i liquidi corporei; quando muore e non è freschissimo, l&#39;urea si degrada in ammoniaca. Inoltre, se lo comprate a fette, guardate il diametro del trancio: vi aiuterà a capire se vi stanno vendendo un vero spinarolo o se stanno spacciando per &quot;palombo&quot; qualche squalo di taglia gigante e qualità inferiore.</p>\n<p>In cucina è formidabile perché assorbe bene i sapori mediterranei. Tre preparazioni classiche:</p>\n<ul>\n<li><strong>In umido</strong>: tranci cotti lentamente in padella con una buona salsa di pomodoro datterino, aglio e fior di capperi (o olive taggiasche).</li>\n<li><strong>In insalata</strong>: bollito per 15 minuti, privato della spina centrale e condito tiepido con un&#39;emulsione di olio extravergine, succo di limone fresco, sale, pepe e foglie di salvia tritata. </li>\n<li><strong>In padella con crema di noci</strong>: sfumato all&#39;aceto e avvolto in una cremina saporita a base del suo stesso brodetto, cipolle, prezzemolo e noci tritate finissime.</li>\n</ul>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Lupi di mare:</strong> Gli inglesi lo chiamano <em>dogfish</em> (pesce cane) perché un tempo i pescatori osservavano questi squaletti cacciare in modo coordinato, accerchiando le prede in veri e propri &quot;branchi&quot; proprio come fanno i cani o i lupi selvatici.</li>\n<li><strong>Maratoneti dell&#39;oceano:</strong> Sebbene molti siano stanziali, uno Spinarolo taggato dai ricercatori ha percorso la bellezza di <strong>8.047 chilometri</strong> (5.000 miglia), viaggiando dalle coste dello stato di Washington, in America, fino al Giappone!</li>\n<li><strong>Armi da ninja:</strong> Le due spine dorsali non sono per bellezza. Sono collegate a ghiandole velenifere. Se catturato o minacciato, lo Spinarolo si inarca a forma di arco per frustare il predatore (o l&#39;incauto pescatore) e infilzarlo con le sue spine, causando ferite dolorosissime che guariscono molto lentamente.</li>\n<li><strong>Doppio respiro:</strong> Per respirare mentre nuota tiene la bocca aperta per far scorrere l&#39;acqua sulle branchie (ventilazione ram), ma quando vuole riposare mimetizzato sul fondo, utilizza gli <strong>spiracoli</strong>, due fori posti dietro gli occhi che pompano acqua pulita senza fargli ingoiare fango.</li>\n<li><strong>Il segreto del Fish &amp; Chips:</strong> In Nord Europa ne vanno così ghiotti che per decenni è stato il protagonista indiscusso del celebre <em>fish and chips</em> britannico. Per renderlo più elegante e non spaventare i clienti con la parola &quot;squalo&quot;, lo vendevano sotto falsi nomi molto creativi come <em>rock salmon</em> (salmone di roccia), <em>huss</em> o <em>Sweet William</em>. In Francia usano un trucco simile, chiamandolo <em>saumonette</em> (piccolo salmone).</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_primo-piano-habitat_2026-08-22T16-18-18.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_primo-piano-habitat_2026-08-22T16-18-18.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_habitat-largo_2026-08-22T16-18-36.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_azione_2026-08-22T16-18-42.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_sociale_2026-08-22T16-18-43.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/spinarolo/chatgpt_dettaglio-hd_2026-08-22T16-37-23.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-18T05:30:02.899Z",
+  "classification": {
+    "zones": [
+      "costa",
+      "profondi"
+    ],
+    "habitat": "costa",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; bathydemersal; depth 0-1978 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-09-18T05:30:24.948Z"
+  }
+}
