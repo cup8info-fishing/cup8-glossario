@@ -30,7 +30,7 @@
   ],
   "regioniText": "Mar Mediterraneo (inclusi tutti i mari italiani: Adriatico, Tirreno, Ionio e Mar Ligure, Sardegna compresa; in Italia è la specie di tracina meno comune) e Oceano Atlantico orientale, dal Portogallo meridionale fino all'Angola.",
   "iucnStatus": "LC (Least Concern - Rischio Minimo).",
-  "fishingRequirements": "Nessuna taglia minima di cattura: la tracina ragno non compare nell'Allegato IX, Parte A del Reg. (UE) 2019/1241 (che ha sostituito l'Allegato III del Reg. CE 1967/2006), né fra le specie vietate dell'Allegato I. Nessun fermo biologico specifico per la specie. Restano i limiti generali della pesca sportiva in mare: non più di 5 kg di pescato al giorno, salvo un singolo pesce che da solo pesi di più, e non più di 5 canne per pescatore (DPR 1639/1968, artt. 140 e 142).",
+  "fishingRequirements": "Taglia minima di 7 cm: la tracina ragno non ha una misura propria, quindi vale la misura generale per i pesci del D.P.R. 1639/1968 (art. 87). Non è fra le specie di cui è vietata la cattura. Nessun fermo biologico specifico per la specie. Restano i limiti generali della pesca sportiva in mare: non più di 5 kg di pescato al giorno, salvo un singolo pesce che da solo pesi di più, e non più di 5 canne per pescatore (DPR 1639/1968, artt. 140 e 142).",
   "badges": {
     "protected": false,
     "alien": null,
