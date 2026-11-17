@@ -1,5 +1,5 @@
 {
-  "versione": 4,
+  "versione": 5,
   "aggiornato": "2026-11-17",
   "fermi": [
     {
@@ -41,7 +41,7 @@
         4,
         30
       ],
-      "norma": "D.P.R. 2 ottobre 1968, n. 1639, art. 132: pesca vietata dal 1° gennaio al 30 aprile (art. 137: vale anche per la pesca sportiva). Non in Sardegna, dove la disciplina regionale fissa un altro periodo (voce a parte)",
+      "norma": "D.P.R. 2 ottobre 1968, n. 1639, art. 132: pesca vietata dal 1° gennaio al 30 aprile (art. 137: vale anche per la pesca sportiva). Non in Sardegna: lì la Regione, che ha la competenza sulla pesca nel suo mare, fissa la stagione dal 1° marzo al 31 agosto (decreto 1916/DecA/46 del 2016)",
       "fonte": "https://www.edizionieuropee.it/law/html/3/zn16_01_020.html"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "valeDal": "2023-05-05",
       "valeFinoAl": "2029-06-30",
-      "norma": "L.R. Puglia 18 aprile 2023, n. 6, art. 2 (BURP n. 38 del 20/04/2023): prelievo, raccolta e detenzione vietati dal 5 maggio 2023 per tre anni; proroga fino al 30 giugno 2029 letta nel comunicato del Consiglio regionale del 30/06/2026 (numero della legge di proroga da leggere sul BURP)",
+      "norma": "L.R. Puglia 18 aprile 2023, n. 6, art. 2 (BURP n. 38 del 20/04/2023): prelievo, raccolta e detenzione vietati dal 5 maggio 2023 per tre anni; proroga fino al 30 giugno 2029 approvata dal Consiglio regionale il 30/06/2026 (comunicato ufficiale; numero della legge non ancora trovato sul BURP)",
       "fonte": "https://burp.regione.puglia.it/documents/20135/2150059/LR_6_2023.pdf/ee86ff36-9852-b5fc-a4c2-8a139a151501?version=1.0&t=1681999039936"
     },
     {
@@ -248,7 +248,7 @@
         2,
         29
       ],
-      "norma": "Decreto dell'Assessore dell'agricoltura n. 1916/DecA/46 del 29/08/2016, art. 1, comma 1: nel mare della Sardegna pesca vietata dal 1° settembre alla fine di febbraio",
+      "norma": "Decreto dell'Assessore dell'agricoltura n. 1916/DecA/46 del 29/08/2016, art. 1, comma 1: nel mare della Sardegna pesca vietata dal 1° settembre alla fine di febbraio; art. 2: regolari gli esemplari pescati entro il 31 agosto (testo letto per intero il 17/11/2026)",
       "fonte": "https://www.regione.sardegna.it/documenti/1_422_20160830095218.pdf"
     },
     {
