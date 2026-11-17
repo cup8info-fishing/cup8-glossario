@@ -15,14 +15,14 @@
   "averageSize": "Variabile tra i 30 e gli 80 cm a seconda dell'ambiente e del ceppo.",
   "weight": {
     "min": 0,
-    "max": 60
+    "max": 45
   },
-  "pesoText": "Mediamente raggiunge i 35-40 kg, ma eccezionalmente può superare la soglia dei 40 kg (sono documentati esemplari di oltre 45 kg o in alcuni ambienti fino a 60 kg).",
+  "pesoText": "Di solito pesa da 2 a 14 kg, ma eccezionalmente può superare la soglia dei 40 kg (sono documentati esemplari di oltre 45 kg in alcuni laghi da pesca).",
   "maxAge": "L'aspettativa in natura si aggira intorno ai 13-20 anni, sebbene siano frequenti individui che raggiungono i 38-40 anni; il record documentato si attesta a 47 anni in cattività e, eccezionalmente, a 64 anni per esemplari selvatici in Nord America.",
   "locations": [],
   "regioniText": "Ampiamente diffusa nelle acque dolci interne italiane (fiumi, laghi, stagni e canali di bonifica), con particolare abbondanza nel Nord e Centro Italia, come nel bacino del fiume Po e nel lago Trasimeno; è assente in mare aperto ma possiede un'ottima tolleranza salina, popolando anche gli estuari e le foci dei fiumi debolmente salmastri.",
   "iucnStatus": "A livello globale è classificata come LC (Rischio minimo - *Least Concern*); tuttavia, le popolazioni di ceppo selvatico originario nei bacini del Mar Nero, Caspio e d'Aral (Eurasia) sono considerate VU (Vulnerabili) e in grave declino a causa di alterazioni dell'habitat e ibridazioni.",
-  "fishingRequirements": "La misura minima legale in Italia per il prelievo è fissata a 25 cm; le fonti non menzionano uno specifico fermo biologico unificato, ma la deposizione delle uova (frega) avviene generalmente tra maggio e luglio in acque basse e calde (sopra i 17-18 °C).",
+  "fishingRequirements": "Misura minima, periodi di divieto e numero di capi li decide ogni Regione (in Umbria, ad esempio, 40 cm, divieto dal 1° al 31 maggio e massimo 3 carpe al giorno): controlla il regolamento della tua regione. La deposizione delle uova (frega) avviene generalmente tra maggio e luglio in acque basse e calde (sopra i 17-18 °C).",
   "badges": {
     "protected": false,
     "alien": "Aliena",
