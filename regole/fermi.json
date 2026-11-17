@@ -1,0 +1,292 @@
+{
+  "versione": 4,
+  "aggiornato": "2026-11-17",
+  "fermi": [
+    {
+      "id": "it-riccio",
+      "regione": "Italia",
+      "specie": [
+        "paracentrotus-lividus",
+        "riccio-di-mare"
+      ],
+      "nome": "Riccio di mare",
+      "dal": [
+        5,
+        1
+      ],
+      "al": [
+        6,
+        30
+      ],
+      "norma": "D.M. 12 gennaio 1995 (G.U. n. 20 del 25/01/1995), art. 4: pesca professionale e sportiva vietata in maggio e giugno",
+      "fonte": "https://faolex.fao.org/docs/pdf/ita7387.pdf"
+    },
+    {
+      "id": "it-aragosta-astice",
+      "regione": "Italia",
+      "tranne": [
+        "Sardegna"
+      ],
+      "specie": [
+        "palinurus-elephas",
+        "homarus-gammarus",
+        "aragosta-"
+      ],
+      "nome": "Aragosta e astice",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        4,
+        30
+      ],
+      "norma": "D.P.R. 2 ottobre 1968, n. 1639, art. 132: pesca vietata dal 1° gennaio al 30 aprile (art. 137: vale anche per la pesca sportiva). Non in Sardegna, dove la disciplina regionale fissa un altro periodo (voce a parte)",
+      "fonte": "https://www.edizionieuropee.it/law/html/3/zn16_01_020.html"
+    },
+    {
+      "id": "it-pesce-spada",
+      "regione": "Italia",
+      "specie": [
+        "xiphias-gladius"
+      ],
+      "nome": "Pesce spada",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        3,
+        31
+      ],
+      "norma": "Reg. (UE) 2019/1154, art. 10, par. 1: divieto dal 1° gennaio al 31 marzo; l'art. 2 lo estende alla pesca ricreativa",
+      "fonte": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32019R1154"
+    },
+    {
+      "id": "it-anguilla-2026",
+      "regione": "Italia",
+      "specie": [
+        "anguilla-anguilla"
+      ],
+      "nome": "Anguilla",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "anni": [
+        2026
+      ],
+      "norma": "D.M. Masaf 4 marzo 2026 (G.U. n. 74 del 30/03/2026), artt. 4 e 5: pesca a mare e pesca sportiva dell'anguilla vietate in tutta Italia per tutto il 2026",
+      "fonte": "https://regione.lazio.it/sites/default/files/documentazione/2026/AGC-MASAF-107712-04-03-2026.pdf"
+    },
+    {
+      "id": "it-tonno-rosso-2026-prima",
+      "regione": "Italia",
+      "specie": [
+        "thunnus-thynnus"
+      ],
+      "nome": "Tonno rosso",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        6,
+        15
+      ],
+      "anni": [
+        2026
+      ],
+      "norma": "D.D. Masaf n. 156886 del 01/04/2026, art. 11: la pesca sportiva che trattiene il pesce è ammessa solo dal 16 giugno al 14 ottobre (pesca e rilascio sempre consentito)",
+      "fonte": "https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/24459"
+    },
+    {
+      "id": "it-tonno-rosso-2026-chiusura",
+      "regione": "Italia",
+      "specie": [
+        "thunnus-thynnus"
+      ],
+      "nome": "Tonno rosso",
+      "dal": [
+        9,
+        9
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "anni": [
+        2026
+      ],
+      "norma": "D.D. Masaf n. 444732 dell'08/09/2026: pesca sportiva con trattenimento chiusa dal 9 settembre 2026 per quota esaurita (pesca e rilascio sempre consentito)",
+      "fonte": "https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/25104"
+    },
+    {
+      "id": "it-lampuga-2026",
+      "regione": "Italia",
+      "specie": [
+        "coryphaena-hippurus"
+      ],
+      "nome": "Lampuga",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        8,
+        14
+      ],
+      "anni": [
+        2026
+      ],
+      "norma": "Reg. (UE) 2026/266 del 26/01/2026, art. 6, par. 5: la pesca ricreativa della lampuga è autorizzata solo dal 15 agosto al 31 dicembre 2026",
+      "fonte": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=OJ:L_202600266"
+    },
+    {
+      "id": "it-dattero-di-mare",
+      "regione": "Italia",
+      "specie": [
+        "lithophaga-lithophaga",
+        "pholas-dactylus",
+        "dattero-di-mare",
+        "dattero-bianco"
+      ],
+      "nome": "Dattero di mare e dattero bianco",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "norma": "D.M. 16 ottobre 1998 (G.U. n. 281 del 01/12/1998), art. 1, comma 1: pesca vietata sempre, con qualsiasi attrezzo, su tutte le coste italiane",
+      "fonte": "https://faolex.fao.org/docs/pdf/ita19705.pdf"
+    },
+    {
+      "id": "it-pinna-nobilis",
+      "regione": "Italia",
+      "specie": [
+        "pinna-nobilis"
+      ],
+      "nome": "Nacchera (Pinna nobilis)",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "norma": "Direttiva Habitat 92/43/CEE, All. IV, e D.P.R. 8 settembre 1997, n. 357, art. 8: specie protetta, cattura vietata sempre",
+      "fonte": "https://mase.gov.it/sites/default/files/archivio/allegati/rete_natura_2000/Regolamento_D.P.R._8_settembre_1997_n._357.PDF"
+    },
+    {
+      "id": "puglia-riccio-fermo-lungo",
+      "regione": "Puglia",
+      "specie": [
+        "paracentrotus-lividus",
+        "riccio-di-mare"
+      ],
+      "nome": "Riccio di mare",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "valeDal": "2023-05-05",
+      "valeFinoAl": "2029-06-30",
+      "norma": "L.R. Puglia 18 aprile 2023, n. 6, art. 2 (BURP n. 38 del 20/04/2023): prelievo, raccolta e detenzione vietati dal 5 maggio 2023 per tre anni; proroga fino al 30 giugno 2029 letta nel comunicato del Consiglio regionale del 30/06/2026 (numero della legge di proroga da leggere sul BURP)",
+      "fonte": "https://burp.regione.puglia.it/documents/20135/2150059/LR_6_2023.pdf/ee86ff36-9852-b5fc-a4c2-8a139a151501?version=1.0&t=1681999039936"
+    },
+    {
+      "id": "sardegna-riccio-sportivi-2026",
+      "regione": "Sardegna",
+      "specie": [
+        "paracentrotus-lividus",
+        "riccio-di-mare"
+      ],
+      "nome": "Riccio di mare",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        12,
+        31
+      ],
+      "anni": [
+        2026
+      ],
+      "norma": "Decreto dell'Assessore dell'agricoltura n. 51 del 23/12/2025, art. 3, comma 2: «È vietata la raccolta del riccio di mare da parte dei pescatori sportivi e ricreativi» (stagione 2026)",
+      "fonte": "https://files.regione.sardegna.it/squidex/api/assets/redazionaleras/604b8a31-c495-4d89-8282-54d997c95856/decreto-assessore-agricoltura-4931-51-del-23122025-regol-pesca-riccio-mare-2026.pdf"
+    },
+    {
+      "id": "sardegna-aragosta-astice-granseola",
+      "regione": "Sardegna",
+      "specie": [
+        "palinurus-elephas",
+        "palinurus-mauritanicus",
+        "homarus-gammarus",
+        "maja-squinado",
+        "aragosta-",
+        "granseola"
+      ],
+      "nome": "Aragosta, astice e granseola",
+      "dal": [
+        9,
+        1
+      ],
+      "al": [
+        2,
+        29
+      ],
+      "norma": "Decreto dell'Assessore dell'agricoltura n. 1916/DecA/46 del 29/08/2016, art. 1, comma 1: nel mare della Sardegna pesca vietata dal 1° settembre alla fine di febbraio",
+      "fonte": "https://www.regione.sardegna.it/documenti/1_422_20160830095218.pdf"
+    },
+    {
+      "id": "veneto-corbola",
+      "regione": "Veneto",
+      "specie": [
+        "upogebia",
+        "corbola"
+      ],
+      "nome": "Corbola",
+      "dal": [
+        6,
+        1
+      ],
+      "al": [
+        7,
+        31
+      ],
+      "norma": "Regolamento regionale del Veneto 3 gennaio 2023, n. 1, art. 29, comma 4, lett. a): vietata dal 1° giugno al 31 luglio (lagune e acque salmastre)",
+      "fonte": "https://elezioni2020.regione.veneto.it/documents/6757143/0/Regolamento+regionale+1-2023-Modificato/5b07b4ed-cd7b-4c83-b7b6-a8d1394b0857"
+    },
+    {
+      "id": "veneto-anguilla",
+      "regione": "Veneto",
+      "specie": [
+        "anguilla-anguilla"
+      ],
+      "nome": "Anguilla",
+      "dal": [
+        1,
+        1
+      ],
+      "al": [
+        3,
+        31
+      ],
+      "norma": "Regolamento regionale del Veneto 3 gennaio 2023, n. 1, art. 29, comma 1, lett. j): vietata dal 1° gennaio al 31 marzo in tutte le acque regionali",
+      "fonte": "https://elezioni2020.regione.veneto.it/documents/6757143/0/Regolamento+regionale+1-2023-Modificato/5b07b4ed-cd7b-4c83-b7b6-a8d1394b0857"
+    }
+  ]
+}
