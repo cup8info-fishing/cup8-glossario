@@ -208,6 +208,14 @@
     "publishedAt": "2026-10-14T05:30:13.096Z"
   },
   {
+    "id": "lattuga-di-mare",
+    "name": "Lattuga di mare",
+    "scientificName": "Ulva lactuca",
+    "category": "resto",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/lattuga-di-mare/chatgpt_primo-piano-habitat_2026-08-24T17-38-25.webp",
+    "publishedAt": "2026-09-19T05:30:00.196Z"
+  },
+  {
     "id": "leccia",
     "name": "Leccia",
     "scientificName": "Lichia amia",
