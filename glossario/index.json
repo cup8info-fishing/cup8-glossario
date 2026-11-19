@@ -544,6 +544,14 @@
     "publishedAt": "2026-07-21T19:32:52.659Z"
   },
   {
+    "id": "sardina",
+    "name": "Sardina",
+    "scientificName": "Sardina pilchardus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_primo-piano-habitat_2026-08-24T17-47-03.webp",
+    "publishedAt": "2026-09-21T07:57:06.039Z"
+  },
+  {
     "id": "scampo",
     "name": "Scampo",
     "scientificName": "Nephrops norvegicus",

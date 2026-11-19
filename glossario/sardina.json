@@ -1,0 +1,67 @@
+{
+  "id": "sardina",
+  "name": "Sardina",
+  "scientificName": "Sardina pilchardus",
+  "family": "Clupeidae (inclusa anche tra gli Alosidae secondo le più recenti revisioni tassonomiche).",
+  "category": "pesce_vertebrato",
+  "description": "La sardina presenta un corpo sub-cilindrico, fusiforme e compresso lateralmente, con una livrea blu-verdastra sul dorso, fianchi argentei sfumati di rosso e una fila di macchioline nere dorsali. A differenza della simile acciuga, la sardina possiede la mascella inferiore più sporgente rispetto alla superiore e un opercolo branchiale solcato da caratteristiche striature ossee a ventaglio. È un pesce spiccatamente gregario che forma banchi immensi e compie migrazioni nictemerali, spostandosi in superficie di notte per cacciare e in profondità durante il giorno.",
+  "habits": "* Reti a circuizione (il \"cianciolo\"), tecnica altamemente selettiva che utilizza la potente fonte luminosa delle \"lampare\" per attrarre i banchi in superficie durante le notti di mare calmo. * Piccola pesca artigianale con reti da posta (come la \"menaica\" o \"menaide\" impiegata in Campania nel Cilento), che seleziona solo pesci adulti della giusta pezzatura e garantisce carni di qualità superiore grazie al dissanguamento in acqua. * Reti da traino pelagiche (la \"volante\" a coppia, diffusa in particolar modo nell'Adriatico), benché abbiano un grado di selettività inferiore rispetto alla circuizione.",
+  "habitat": "Substrato pelagico-neritico e costiero, con presenza a profondità tipiche tra i 25 e i 55 metri di giorno (che può arrivare fino a 100-180 metri durante i mesi invernali) e tra i 10 e i 35 metri di notte.",
+  "diet": "Specie microfaga planctivora: filtra zooplancton (soprattutto copepodi, larve di molluschi e uova ittiche) e fitoplancton (diatomee), questo soprattutto negli stadi larvali.",
+  "size": {
+    "min": 10,
+    "max": 31
+  },
+  "averageSize": "Compresa tra i 10 cm e i 20 cm.",
+  "weight": {
+    "min": 0,
+    "max": 0.067
+  },
+  "pesoText": "Non specificato in modo esatto dalle fonti, sebbene la classificazione commerciale per il calibro maggiore indichi esemplari con peso superiore ai 0,067 kg.",
+  "maxAge": "14-15 anni nelle popolazioni atlantiche, ma non supera i 5 anni nel Mar Mediterraneo.",
+  "locations": [
+    "Tirreno",
+    "Adriatico",
+    "Ionio",
+    "Sardegna",
+    "Sicilia",
+    "Mediterraneo",
+    "Atlantico"
+  ],
+  "regioniText": "Mar Mediterraneo (compresi Mar Adriatico, Ionio, Ligure, Tirreno, Canale di Sicilia e acque della Sardegna), Mar Nero e Oceano Atlantico nord-orientale.",
+  "iucnStatus": "LC (Rischio minimo / Least Concern) - Sebbene sia una specie globalmente abbondante e diffusa, alcuni stock marini come quello dell'Adriatico evidenziano tassi preoccupanti di declino causati dalla sovrapesca.",
+  "fishingRequirements": "È vietata la pesca, la detenzione e la commercializzazione dei giovanili (novellame), conosciuti tradizionalmente come \"bianchetti\" o \"cicinielli\".",
+  "badges": {
+    "protected": false,
+    "alien": null,
+    "venomous": false,
+    "stinging": false
+  },
+  "curiosita": "<p>🐟 <strong>Chi è</strong>\nIl re Enrico IV ne andava così ghiotto da mangiarle per colazione dopo i giorni di digiuno, mentre lo scrittore Alexandre Dumas giurava che amassero la musica, tanto da tirar fuori la testa dall&#39;acqua per ascoltare il suono degli strumenti. Parliamo della sarda o sardina, conosciuta dalla scienza come <em>Sardina pilchardus</em>. Sulla sua carta d&#39;identità la famiglia di appartenenza fa discutere: i tassonomisti classici la inseriscono tra i Clupeidae, mentre i database moderni propendono per gli Alosidae (le fonti litigano un po&#39; su questo, ma la sostanza non cambia). </p>\n<p>È un pesce che vive intensamente e brucia le tappe: cresce in modo straordinariamente rapido, raggiungendo ben il 90% della sua lunghezza massima teorica già nel primo anno di vita. La sua taglia media si aggira tra i 10 e i 20 cm, ma può raggiungere i 27,5 cm nel Mediterraneo e spingersi oltre i 31 cm nell&#39;Atlantico. Negli oceani può rivelarsi molto longeva, sfiorando i 14-15 anni di età, mentre nel Mediterraneo raramente supera i 5 anni.</p>\n<p>🔍 <strong>Come riconoscerlo</strong>\nLa sardina ha un corpo sub-cilindrico, fusiforme e compresso ai lati, con un bel ventre arrotondato. Indossa un abito elegante: il dorso è blu-verdastro con riflessi metallici e dorati, mentre i fianchi e il ventre sono argentati e sfumati di rosso. Lungo il dorso si nota una fila di piccole macchioline nere, e la coda è profondamente forcuta. Il suo segno distintivo per eccellenza, però, si trova sull&#39;opercolo branchiale — la placca ossea che protegge le branchie — dove presenta dalle 3 alle 5 striature a rilievo disposte a ventaglio. Ha squame grandi ma &quot;decidue&quot;, ovvero basta sfiorarle perché si stacchino.</p>\n<p>Spesso chi non è un vero lupo di mare la confonde con l&#39;alice o acciuga (<em>Engraulis encrasicolus</em>), ma le differenze sono nette. L&#39;acciuga è piatta, sottile, con un muso lungo e appuntito (la mascella superiore sporge molto) e l&#39;opercolo liscio. La sardina, invece, è più tozza, ha un musetto &quot;imbronciato&quot; perché è la mascella inferiore a sporgere, e la bocca rivolta verso l&#39;alto. </p>\n<p>A livello regionale i nomi si sprecano, ma la vera differenza la fa il mercato: la chiamiamo comunemente <strong>sarda</strong> quando è fresca, e <strong>sardina</strong> quando finisce sott&#39;olio o in scatola. Le sue forme giovanili hanno invece nomi famosissimi e dialettali: al nord li chiamano &quot;bianchetti&quot; o &quot;gianchetti&quot;, mentre in Campania sono i celebri &quot;cicinielli&quot;.</p>\n<p>🌊 <strong>Habitat e abitudini</strong>\nQuesto piccolo viaggiatore domina il Mar Mediterraneo, il Mar Nero e l&#39;Oceano Atlantico nord-orientale, dall&#39;Islanda giù fino al Senegal. È un pesce spiccatamente pelagico che snobba i fondali per nuotare in mare aperto, guidato dalla temperatura dell&#39;acqua (ama le zone comprese tra le isoterme dei 10°C e dei 20°C). È un animale estremamente socievole che forma banchi immensi e disciplinatissimi.</p>\n<p>La sua giornata è scandita dalle &quot;migrazioni nictemerali&quot;, ovvero spostamenti verticali tra giorno e notte: di giorno si inabissa tra i 25 e i 55 metri (spingendosi anche a 180 metri in inverno), mentre col buio risale in superficie tra i 10 e i 35 metri per seguire il plancton di cui è ghiottissimo. Ha una predilezione per lo zooplancton e il fitoplancton; per digerire quest&#39;ultimo in modo ottimale ha persino sviluppato un intestino lunghissimo, pari a una volta e mezza la lunghezza del suo stesso corpo!</p>\n<p>Curiosa è la sua vita amorosa: la sardina è un riproduttore &quot;capital breeder&quot;, che significa che passa la primavera e l&#39;estate ad accumulare riserve di grasso, per poi investire tutte quelle energie per riprodursi nei mesi freddi. Una singola femmina può rilasciare in mare aperto fino a 80.000 uova pelagiche in più fasi successive.</p>\n<p>🎣 <strong>Pesca e rapporto con l&#39;uomo</strong>\nLa sardina si pesca di notte. Il metodo principe e più affascinante è la rete a circuizione (il &quot;cianciolo&quot;), che sfrutta le &quot;lampare&quot;: fari potentissimi che bucano l&#39;oscurità e attraggono in superficie i banchi di pesce, prima che la rete si chiuda a sacco sotto di loro. In Adriatico si usa molto anche la rete da traino pelagica, detta &quot;volante&quot;, trainata da coppie di imbarcazioni. C&#39;è poi la meravigliosa pesca artigianale e super selettiva con la rete da posta detta &quot;menaica&quot;. </p>\n<p>A livello mondiale la specie se la passa bene, classificata come Rischio Minimo (LC). Ma guai ad abbassare la guardia: nel Mar Adriatico la sovrapesca l&#39;ha colpita duramente, portando la biomassa dalle 950.000 tonnellate degli anni &#39;80 a sole 300.000 tonnellate stimate di recente. Niente allevamenti per lei: la sardina è selvaggia per natura.</p>\n<p>🍴 <strong>A tavola</strong>\nLa stagione d&#39;oro per gustare la sarda è la primavera o l&#39;estate, quando le carni sono all&#39;apice del sapore. Al banco del pesce affidatevi ai sensi: l&#39;occhio deve essere vivo, lucido e sporgente; la carne soda e resistente alla pressione; la coda dritta e rigida come un fuso. Rispetto all&#39;acciuga, la sua carne è molto più compatta, carnosa e tenace in cottura, con un sapore di mare rustico e verace, ricchissimo di grassi &quot;buoni&quot; Omega-3.</p>\n<p>In cucina è la regina dei contrasti agrodolci:</p>\n<ul>\n<li>In Veneto diventa <strong>Sarde in saor</strong>, un capolavoro dei marinai per conservare il pesce a bordo, dove le sarde fritte riposano in una marinatura di cipolle stufate con aceto, uvetta e pinoli.</li>\n<li>In Sicilia si trasforma nella celebre <strong>Pasta con le sarde</strong>, un intingolo di influenza araba con finocchietto selvatico, uvetta, pinoli, zafferano e una pioggia di pangrattato tostato (<em>muddica atturrata</em>).</li>\n<li>Sempre nell&#39;Isola dominano le <strong>Sarde a beccafico</strong>, arrotolate su una farcia di pangrattato, agrumi, uvetta e pinoli, e cotte dolcemente al forno profumate con foglie di alloro.</li>\n</ul>\n<p><em>Il consiglio del pescatore:</em> Se potete, cercate le rarissime &quot;alici o sarde di menaica&quot; tipiche del Cilento. Vengono pescate con una rete speciale che incastra solo gli esemplari adulti per le branchie, facendoli dissanguare naturalmente in mare. Il pesce arriva a bordo privo di stress, con carni candide e di una dolcezza ineguagliabile.</p>\n<p>🤩 <strong>Lo sapevi che…</strong></p>\n<ul>\n<li><strong>Nobili per finta:</strong> Le golosissime <em>Sarde a beccafico</em> nascono per un&#39;illusione ottica! I nobili siciliani consumavano i &quot;beccafichi&quot;, uccelletti grassi e saporiti, serviti farciti. Il popolo, che non poteva permetterseli, ripiegò sulle sarde: farcendole e lasciando il codino rivolto verso l&#39;alto, imitavano l&#39;aspetto del pennuto aristocratico.</li>\n<li><strong>Lingue in incognito:</strong> Sempre in Sicilia si preparano le <em>Sarde allinguate</em>, aperte a libro, marinate nell&#39;aceto, infarinate e fritte. Il nome deriva dallo spagnolo <em>lenguado</em> (la pregiata sogliola): le sarde venivano aperte in quel modo per imitare la forma del costoso pesce consumato dalla nobiltà iberica.</li>\n<li><strong>Attenti alla truffa del &quot;Ghiaccio&quot;:</strong> La pesca e la vendita dei &quot;bianchetti&quot; (i neonati della sardina) sono vietate in Italia: la norma europea le ammetterebbe solo con un piano di gestione nazionale approvato, e quello italiano non è mai passato. Se ve li propongono al ristorante, o si tratta di costosissimi e legali &quot;rossetti&quot;, oppure vi stanno rifilando il &quot;pesce ghiaccio&quot;, una specie d&#39;acqua dolce asiatica da pochi euro al chilo spacciata fraudolentemente per novellame nostrano.</li>\n<li><strong>Il cugino d&#39;acqua dolce:</strong> Nei laghi del Nord Italia (Garda e Como) vive l&#39;agone, un lontano parente dei clupeidi con antenati marini. Proprio come per le aringhe del Nord Europa, gli agoni vengono pescati, salati ed essiccati al sole per mesi, diventando i celebri <em>missoltini</em> (o <em>misultin</em>), una prelibatezza dal sapore fortissimo che si consuma grigliata sulla polenta.</li>\n</ul>\n",
+  "ricette": [],
+  "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_primo-piano-habitat_2026-08-24T17-47-03.webp",
+  "gallery": [
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_primo-piano-habitat_2026-08-24T17-47-03.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_habitat-largo_2026-08-24T17-47-05.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_azione_2026-08-25T15-07-46.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_sociale_2026-08-25T15-07-47.webp",
+    "https://cup8info-fishing.github.io/cup8-glossario/glossario/sardina/chatgpt_dettaglio-hd_2026-08-25T15-07-49.webp"
+  ],
+  "source": "atlas",
+  "publishedAt": "2026-09-21T07:57:06.039Z",
+  "classification": {
+    "zones": [
+      "pelagici",
+      "costa"
+    ],
+    "habitat": "pelagici",
+    "source": "FishBase",
+    "evidence": "Marine; brackish; pelagic-neritic; depth 10-100 m",
+    "water": {
+      "marine": true,
+      "brackish": true,
+      "fresh": false
+    },
+    "at": "2026-09-21T07:57:09.729Z"
+  }
+}
