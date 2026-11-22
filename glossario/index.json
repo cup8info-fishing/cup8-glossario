@@ -80,6 +80,14 @@
     "publishedAt": "2026-09-22T01:16:37.005Z"
   },
   {
+    "id": "cavedano-squalius-cephalus",
+    "name": "Cavedano",
+    "scientificName": "Squalius cephalus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/cavedano-squalius-cephalus/chatgpt_primo-piano-habitat_2026-08-25T15-46-54.webp",
+    "publishedAt": "2026-11-22T11:54:18.308Z"
+  },
+  {
     "id": "cefalo",
     "name": "Cefalo",
     "scientificName": "Mugil cephalus",
