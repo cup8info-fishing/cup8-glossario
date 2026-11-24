@@ -376,6 +376,14 @@
     "publishedAt": "2026-09-01T10:13:10.211Z"
   },
   {
+    "id": "persico-trota",
+    "name": "Persico trota",
+    "scientificName": "Micropterus salmoides",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/persico-trota/chatgpt_primo-piano-habitat_2026-08-26T19-00-45.webp",
+    "publishedAt": "2026-11-24T06:30:04.887Z"
+  },
+  {
     "id": "pesce-balestra",
     "name": "Pesce balestra",
     "scientificName": "Balistes capriscus",
