@@ -440,6 +440,14 @@
     "publishedAt": "2026-09-20T05:30:00.260Z"
   },
   {
+    "id": "pesce-pappagallo-perciforme",
+    "name": "Pesce pappagallo mediterraneo",
+    "scientificName": "Sparisoma cretense",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/pesce-pappagallo-perciforme/chatgpt_primo-piano-habitat_2026-08-29T17-54-39.webp",
+    "publishedAt": "2026-11-25T06:30:05.721Z"
+  },
+  {
     "id": "pesce-pettine",
     "name": "Pesce pettine",
     "scientificName": "Xyrichtys novacula",
