@@ -200,6 +200,14 @@
     "publishedAt": "2026-09-25T05:30:02.735Z"
   },
   {
+    "id": "grongo",
+    "name": "Grongo",
+    "scientificName": "Conger conger",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/grongo/chatgpt_primo-piano-habitat_2026-08-29T17-54-39.webp",
+    "publishedAt": "2026-11-26T06:30:06.077Z"
+  },
+  {
     "id": "lampuga",
     "name": "Lampuga",
     "scientificName": "Coryphaena hippurus",
