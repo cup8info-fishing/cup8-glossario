@@ -688,6 +688,14 @@
     "publishedAt": "2026-07-09T10:53:57.724Z"
   },
   {
+    "id": "storione-ladano",
+    "name": "Storione ladano",
+    "scientificName": "Huso huso",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/storione-ladano/chatgpt_primo-piano-habitat_2026-08-29T17-54-39.webp",
+    "publishedAt": "2026-11-27T06:30:03.407Z"
+  },
+  {
     "id": "tartaruga-caretta",
     "name": "Tartaruga caretta",
     "scientificName": "Caretta caretta",
