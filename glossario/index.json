@@ -152,6 +152,14 @@
     "publishedAt": "2026-08-17T05:30:00.137Z"
   },
   {
+    "id": "melanogrammus-aeglefinus",
+    "name": "Eglefino",
+    "scientificName": "Melanogrammus aeglefinus",
+    "category": "pesce_vertebrato",
+    "imageUrl": "https://cup8info-fishing.github.io/cup8-glossario/glossario/melanogrammus-aeglefinus/chatgpt_primo-piano-habitat_2026-08-30T18-47-44.webp",
+    "publishedAt": "2026-11-28T06:30:05.568Z"
+  },
+  {
     "id": "fragolino",
     "name": "Fragolino",
     "scientificName": "Pagellus erythrinus",
